@@ -70,6 +70,7 @@ Date,Province,Confirmed,Deaths
 3/30/20,Alberta,661,3
 3/31/20,Alberta,690,8
 4/1/20,Alberta,754,9
+4/2/20,Alberta,969,13
 1/22/20,British Columbia,0,0
 1/23/20,British Columbia,0,0
 1/24/20,British Columbia,0,0
@@ -141,6 +142,7 @@ Date,Province,Confirmed,Deaths
 3/30/20,British Columbia,970,19
 3/31/20,British Columbia,1013,24
 4/1/20,British Columbia,1013,24
+4/2/20,British Columbia,1121,31
 1/22/20,Manitoba,0,0
 1/23/20,Manitoba,0,0
 1/24/20,Manitoba,0,0
@@ -212,6 +214,7 @@ Date,Province,Confirmed,Deaths
 3/30/20,Manitoba,96,1
 3/31/20,Manitoba,103,1
 4/1/20,Manitoba,127,1
+4/2/20,Manitoba,167,1
 1/22/20,New Brunswick,0,0
 1/23/20,New Brunswick,0,0
 1/24/20,New Brunswick,0,0
@@ -283,6 +286,7 @@ Date,Province,Confirmed,Deaths
 3/30/20,New Brunswick,68,0
 3/31/20,New Brunswick,70,0
 4/1/20,New Brunswick,81,0
+4/2/20,New Brunswick,91,0
 1/22/20,Newfoundland and Labrador,0,0
 1/23/20,Newfoundland and Labrador,0,0
 1/24/20,Newfoundland and Labrador,0,0
@@ -354,6 +358,7 @@ Date,Province,Confirmed,Deaths
 3/30/20,Newfoundland and Labrador,148,1
 3/31/20,Newfoundland and Labrador,152,1
 4/1/20,Newfoundland and Labrador,175,1
+4/2/20,Newfoundland and Labrador,183,1
 1/22/20,Nova Scotia,0,0
 1/23/20,Nova Scotia,0,0
 1/24/20,Nova Scotia,0,0
@@ -425,6 +430,7 @@ Date,Province,Confirmed,Deaths
 3/30/20,Nova Scotia,127,0
 3/31/20,Nova Scotia,147,0
 4/1/20,Nova Scotia,173,0
+4/2/20,Nova Scotia,193,0
 1/22/20,Ontario,0,0
 1/23/20,Ontario,0,0
 1/24/20,Ontario,0,0
@@ -496,6 +502,7 @@ Date,Province,Confirmed,Deaths
 3/30/20,Ontario,1706,31
 3/31/20,Ontario,1966,33
 4/1/20,Ontario,2392,37
+4/2/20,Ontario,2793,53
 1/22/20,Prince Edward Island,0,0
 1/23/20,Prince Edward Island,0,0
 1/24/20,Prince Edward Island,0,0
@@ -567,6 +574,7 @@ Date,Province,Confirmed,Deaths
 3/30/20,Prince Edward Island,18,0
 3/31/20,Prince Edward Island,21,0
 4/1/20,Prince Edward Island,21,0
+4/2/20,Prince Edward Island,22,0
 1/22/20,Quebec,0,0
 1/23/20,Quebec,0,0
 1/24/20,Quebec,0,0
@@ -638,6 +646,7 @@ Date,Province,Confirmed,Deaths
 3/30/20,Quebec,3430,22
 3/31/20,Quebec,4162,31
 4/1/20,Quebec,4611,33
+4/2/20,Quebec,5518,36
 1/22/20,Saskatchewan,0,0
 1/23/20,Saskatchewan,0,0
 1/24/20,Saskatchewan,0,0
@@ -709,6 +718,7 @@ Date,Province,Confirmed,Deaths
 3/30/20,Saskatchewan,156,2
 3/31/20,Saskatchewan,184,2
 4/1/20,Saskatchewan,193,3
+4/2/20,Saskatchewan,206,3
 1/22/20,Repartriated Canadians,0,0
 1/23/20,Repartriated Canadians,0,0
 1/24/20,Repartriated Canadians,0,0
@@ -780,6 +790,7 @@ Date,Province,Confirmed,Deaths
 3/30/20,Repartriated Canadians,13,1
 3/31/20,Repartriated Canadians,13,1
 4/1/20,Repartriated Canadians,13,1
+4/2/20,Repartriated Canadians,13,1
 1/22/20,Canada,0,0
 1/23/20,Canada,0,0
 1/24/20,Canada,0,0
@@ -851,3 +862,4 @@ Date,Province,Confirmed,Deaths
 3/30/20,Canada,7398,80
 3/31/20,Canada,8527,101
 4/1/20,Canada,9560,109
+4/2/20,Canada,11284,139
