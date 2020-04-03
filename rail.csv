@@ -1,0 +1,209 @@
+﻿Product,Week,2018,2019,2020
+Chemicals,1,10542,12187,11367
+Chemicals,2,11989,13332,11471
+Chemicals,3,11367,12754,10358
+Chemicals,4,12699,12597,11797
+Chemicals,5,10782,12647,12290
+Chemicals,6,12479,11106,10777
+Chemicals,7,12194,11633,12295
+Chemicals,8,11720,10771,12220
+Chemicals,9,13486,12596,13105
+Chemicals,10,12288,11538,12297
+Chemicals,11,12773,12326,12807
+Chemicals,12,12390,12179,13528
+Chemicals,13,12201,13751,13088
+Chemicals,14,11762,13021,null
+Chemicals,15,12500,12275,null
+Chemicals,16,12130,12664,null
+Coal,1,6512,7691,7045
+Coal,2,6535,7777,7423
+Coal,3,7345,8043,3980
+Coal,4,7217,8689,5317
+Coal,5,7506,8797,6641
+Coal,6,6193,7109,4746
+Coal,7,6522,6287,5155
+Coal,8,5519,7489,6421
+Coal,9,6217,8318,7000
+Coal,10,6773,7220,8414
+Coal,11,7454,7357,7963
+Coal,12,7923,8303,7892
+Coal,13,8150,7848,7703
+Coal,14,9071,8100,null
+Coal,15,8923,8031,null
+Coal,16,8222,7564,null
+"Farm Products excl. Grain, and Food",1,6814,6957,8451
+"Farm Products excl. Grain, and Food",2,6229,6977,6882
+"Farm Products excl. Grain, and Food",3,7112,7425,7179
+"Farm Products excl. Grain, and Food",4,6808,7659,8705
+"Farm Products excl. Grain, and Food",5,6751,7055,8149
+"Farm Products excl. Grain, and Food",6,6465,6478,6779
+"Farm Products excl. Grain, and Food",7,5853,5525,7006
+"Farm Products excl. Grain, and Food",8,6097,5798,7138
+"Farm Products excl. Grain, and Food",9,7100,5950,8400
+"Farm Products excl. Grain, and Food",10,7427,6335,8328
+"Farm Products excl. Grain, and Food",11,7123,6802,9211
+"Farm Products excl. Grain, and Food",12,7043,7142,9020
+"Farm Products excl. Grain, and Food",13,7398,7154,9070
+"Farm Products excl. Grain, and Food",14,8118,7517,null
+"Farm Products excl. Grain, and Food",15,8034,7158,null
+"Farm Products excl. Grain, and Food",16,7707,7098,null
+Forest Products,1,6017,5307,5369
+Forest Products,2,7011,7018,6573
+Forest Products,3,6915,7752,5740
+Forest Products,4,7467,7355,6571
+Forest Products,5,7207,6991,7029
+Forest Products,6,6348,6189,6292
+Forest Products,7,6295,6496,6276
+Forest Products,8,7223,6291,5496
+Forest Products,9,7105,6579,6109
+Forest Products,10,6976,6948,6585
+Forest Products,11,7045,7066,6582
+Forest Products,12,7760,7519,6985
+Forest Products,13,7399,7495,7033
+Forest Products,14,7370,7790,null
+Forest Products,15,7907,7907,null
+Forest Products,16,7743,7433,null
+Grain,1,6557,7304,6729
+Grain,2,7362,8054,8158
+Grain,3,9184,8945,5707
+Grain,4,7327,7920,7314
+Grain,5,8379,7591,7809
+Grain,6,7255,7088,6559
+Grain,7,7259,7833,6019
+Grain,8,6156,7707,6984
+Grain,9,7524,8637,6539
+Grain,10,8301,6774,7072
+Grain,11,8104,7861,7662
+Grain,12,9160,8592,7661
+Grain,13,8612,9353,8881
+Grain,14,8897,11290,null
+Grain,15,9141,11444,null
+Grain,16,9028,10184,null
+Metallic Ores and Metals,1,12419,15872,15333
+Metallic Ores and Metals,2,14939,16074,14031
+Metallic Ores and Metals,3,13485,15508,15066
+Metallic Ores and Metals,4,15212,14756,16047
+Metallic Ores and Metals,5,15765,13542,16680
+Metallic Ores and Metals,6,14637,14008,15466
+Metallic Ores and Metals,7,13657,15310,15495
+Metallic Ores and Metals,8,14921,16204,14644
+Metallic Ores and Metals,9,15426,13837,15323
+Metallic Ores and Metals,10,16653,15104,15773
+Metallic Ores and Metals,11,14794,16051,16249
+Metallic Ores and Metals,12,15299,15528,15796
+Metallic Ores and Metals,13,15662,15443,16942
+Metallic Ores and Metals,14,14930,15318,null
+Metallic Ores and Metals,15,15550,14399,null
+Metallic Ores and Metals,16,14315,14501,null
+Motor Vehicles and Parts,1,3485,3767,2426
+Motor Vehicles and Parts,2,4844,5391,4557
+Motor Vehicles and Parts,3,4729,5788,4670
+Motor Vehicles and Parts,4,5317,4551,4734
+Motor Vehicles and Parts,5,5200,4581,5773
+Motor Vehicles and Parts,6,4891,5439,5259
+Motor Vehicles and Parts,7,5285,5475,5632
+Motor Vehicles and Parts,8,5143,4593,5039
+Motor Vehicles and Parts,9,5643,5310,4670
+Motor Vehicles and Parts,10,5365,5488,6047
+Motor Vehicles and Parts,11,5688,5170,5900
+Motor Vehicles and Parts,12,5878,5696,5158
+Motor Vehicles and Parts,13,5352,5759,1625
+Motor Vehicles and Parts,14,5726,5669,null
+Motor Vehicles and Parts,15,5948,6156,null
+Motor Vehicles and Parts,16,5617,5246,null
+Nonmetallic Minerals,1,5610,4976,5336
+Nonmetallic Minerals,2,6612,6956,5827
+Nonmetallic Minerals,3,7081,6196,5199
+Nonmetallic Minerals,4,7137,6202,5701
+Nonmetallic Minerals,5,7788,5724,5972
+Nonmetallic Minerals,6,6593,5518,6342
+Nonmetallic Minerals,7,6000,5682,5873
+Nonmetallic Minerals,8,7132,6597,6023
+Nonmetallic Minerals,9,7448,5869,6622
+Nonmetallic Minerals,10,7219,6620,6483
+Nonmetallic Minerals,11,7026,6583,6219
+Nonmetallic Minerals,12,7902,6875,6046
+Nonmetallic Minerals,13,7586,7222,5507
+Nonmetallic Minerals,14,7768,8149,null
+Nonmetallic Minerals,15,7885,6868,null
+Nonmetallic Minerals,16,6917,7415,null
+Other,1,1455,1113,1322
+Other,2,1124,1609,1793
+Other,3,1224,1400,1509
+Other,4,1646,1134,1515
+Other,5,1459,1141,1618
+Other,6,1275,1552,1571
+Other,7,1450,1389,1681
+Other,8,1736,1269,1383
+Other,9,1461,1137,1373
+Other,10,1402,1103,1647
+Other,11,1384,1138,1551
+Other,12,1851,1418,1592
+Other,13,1570,1349,1220
+Other,14,1627,1878,null
+Other,15,1618,1408,null
+Other,16,1660,1878,null
+Petroleum and Petroleum Products,1,7587,11524,12540
+Petroleum and Petroleum Products,2,7961,11329,12793
+Petroleum and Petroleum Products,3,8116,10859,9960
+Petroleum and Petroleum Products,4,7988,9697,13057
+Petroleum and Petroleum Products,5,7566,8602,12988
+Petroleum and Petroleum Products,6,7714,7174,12377
+Petroleum and Petroleum Products,7,7178,7645,9989
+Petroleum and Petroleum Products,8,7407,8066,10983
+Petroleum and Petroleum Products,9,8142,8834,11025
+Petroleum and Petroleum Products,10,7385,8404,11240
+Petroleum and Petroleum Products,11,7941,8949,10468
+Petroleum and Petroleum Products,12,7505,9456,10276
+Petroleum and Petroleum Products,13,8010,9051,8706
+Petroleum and Petroleum Products,14,7952,9837,null
+Petroleum and Petroleum Products,15,7276,9139,null
+Petroleum and Petroleum Products,16,7188,9085,null
+Total Carloads,1,66985,76698,75918
+Total Carloads,2,74596,84517,79508
+Total Carloads,3,76555,84670,69368
+Total Carloads,4,78826,80560,80758
+Total Carloads,5,78396,76671,84949
+Total Carloads,6,73877,71661,76168
+Total Carloads,7,71698,73275,75421
+Total Carloads,8,73032,74785,76331
+Total Carloads,9,79533,77067,80166
+Total Carloads,10,79761,75534,83886
+Total Carloads,11,79311,79303,84612
+Total Carloads,12,82708,82708,83954
+Total Carloads,13,81966,84425,79775
+Total Carloads,14,83242,88569,null
+Total Carloads,15,84785,84785,null
+Total Carloads,16,83068,83068,null
+Total Intermodal Units,1,52436,54166,56430
+Total Intermodal Units,2,63360,72357,69486
+Total Intermodal Units,3,65265,71008,61451
+Total Intermodal Units,4,67391,66650,68925
+Total Intermodal Units,5,70534,62070,73106
+Total Intermodal Units,6,63412,62207,62145
+Total Intermodal Units,7,66157,62783,55059
+Total Intermodal Units,8,68200,66290,56299
+Total Intermodal Units,9,70516,67977,58116
+Total Intermodal Units,10,69273,67818,64025
+Total Intermodal Units,11,68631,69935,60886
+Total Intermodal Units,12,70882,71236,61041
+Total Intermodal Units,13,68913,72703,61259
+Total Intermodal Units,14,69166,72970,null
+Total Intermodal Units,15,67186,74039,null
+Total Intermodal Units,16,63947,70789,null
+Total Traffic,1,119401,130864,132348
+Total Traffic,2,137972,156874,148994
+Total Traffic,3,141783,155678,130819
+Total Traffic,4,146187,147210,149683
+Total Traffic,5,149024,138741,158055
+Total Traffic,6,137301,267736,138313
+Total Traffic,7,137850,136058,130480
+Total Traffic,8,141216,141075,132630
+Total Traffic,9,149994,145044,138282
+Total Traffic,10,149015,143352,147911
+Total Traffic,11,147907,149238,145498
+Total Traffic,12,153637,153944,144995
+Total Traffic,13,150795,157128,141034
+Total Traffic,14,152395,161539,null
+Total Traffic,15,151985,158824,null
+Total Traffic,16,144467,153857,null
