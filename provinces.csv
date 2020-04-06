@@ -1,865 +1,901 @@
 Date,Province,Confirmed,Deaths
-1/22/20,Alberta,0,0
-1/23/20,Alberta,0,0
-1/24/20,Alberta,0,0
-1/25/20,Alberta,0,0
-1/26/20,Alberta,0,0
-1/27/20,Alberta,0,0
-1/28/20,Alberta,0,0
-1/29/20,Alberta,0,0
-1/30/20,Alberta,0,0
-1/31/20,Alberta,0,0
-2/1/20,Alberta,0,0
-2/2/20,Alberta,0,0
-2/3/20,Alberta,0,0
-2/4/20,Alberta,0,0
-2/5/20,Alberta,0,0
-2/6/20,Alberta,0,0
-2/7/20,Alberta,0,0
-2/8/20,Alberta,0,0
-2/9/20,Alberta,0,0
-2/10/20,Alberta,0,0
-2/11/20,Alberta,0,0
-2/12/20,Alberta,0,0
-2/13/20,Alberta,0,0
-2/14/20,Alberta,0,0
-2/15/20,Alberta,0,0
-2/16/20,Alberta,0,0
-2/17/20,Alberta,0,0
-2/18/20,Alberta,0,0
-2/19/20,Alberta,0,0
-2/20/20,Alberta,0,0
-2/21/20,Alberta,0,0
-2/22/20,Alberta,0,0
-2/23/20,Alberta,0,0
-2/24/20,Alberta,0,0
-2/25/20,Alberta,0,0
-2/26/20,Alberta,0,0
-2/27/20,Alberta,0,0
-2/28/20,Alberta,0,0
-2/29/20,Alberta,0,0
-3/1/20,Alberta,0,0
-3/2/20,Alberta,0,0
-3/3/20,Alberta,0,0
-3/4/20,Alberta,0,0
-3/5/20,Alberta,0,0
-3/6/20,Alberta,1,0
-3/7/20,Alberta,2,0
-3/8/20,Alberta,4,0
-3/9/20,Alberta,7,0
-3/10/20,Alberta,7,0
-3/11/20,Alberta,19,0
-3/12/20,Alberta,19,0
-3/13/20,Alberta,29,0
-3/14/20,Alberta,29,0
-3/15/20,Alberta,39,0
-3/16/20,Alberta,56,0
-3/17/20,Alberta,74,0
-3/18/20,Alberta,97,0
-3/19/20,Alberta,119,0
-3/20/20,Alberta,146,1
-3/21/20,Alberta,195,1
-3/22/20,Alberta,259,1
-3/23/20,Alberta,301,1
-3/24/20,Alberta,359,1
-3/25/20,Alberta,358,2
-3/26/20,Alberta,486,2
-3/27/20,Alberta,542,2
-3/28/20,Alberta,542,2
-3/29/20,Alberta,621,2
-3/30/20,Alberta,661,3
-3/31/20,Alberta,690,8
-4/1/20,Alberta,754,9
-4/2/20,Alberta,969,13
-1/22/20,British Columbia,0,0
-1/23/20,British Columbia,0,0
-1/24/20,British Columbia,0,0
-1/25/20,British Columbia,0,0
-1/26/20,British Columbia,0,0
-1/27/20,British Columbia,0,0
-1/28/20,British Columbia,1,0
-1/29/20,British Columbia,1,0
-1/30/20,British Columbia,1,0
-1/31/20,British Columbia,1,0
-2/1/20,British Columbia,1,0
-2/2/20,British Columbia,1,0
-2/3/20,British Columbia,1,0
-2/4/20,British Columbia,1,0
-2/5/20,British Columbia,2,0
-2/6/20,British Columbia,2,0
-2/7/20,British Columbia,4,0
-2/8/20,British Columbia,4,0
-2/9/20,British Columbia,4,0
-2/10/20,British Columbia,4,0
-2/11/20,British Columbia,4,0
-2/12/20,British Columbia,4,0
-2/13/20,British Columbia,4,0
-2/14/20,British Columbia,4,0
-2/15/20,British Columbia,4,0
-2/16/20,British Columbia,4,0
-2/17/20,British Columbia,5,0
-2/18/20,British Columbia,5,0
-2/19/20,British Columbia,5,0
-2/20/20,British Columbia,5,0
-2/21/20,British Columbia,6,0
-2/22/20,British Columbia,6,0
-2/23/20,British Columbia,6,0
-2/24/20,British Columbia,6,0
-2/25/20,British Columbia,7,0
-2/26/20,British Columbia,7,0
-2/27/20,British Columbia,7,0
-2/28/20,British Columbia,7,0
-2/29/20,British Columbia,8,0
-3/1/20,British Columbia,8,0
-3/2/20,British Columbia,8,0
-3/3/20,British Columbia,9,0
-3/4/20,British Columbia,12,0
-3/5/20,British Columbia,13,0
-3/6/20,British Columbia,21,0
-3/7/20,British Columbia,21,0
-3/8/20,British Columbia,27,0
-3/9/20,British Columbia,32,1
-3/10/20,British Columbia,32,1
-3/11/20,British Columbia,39,1
-3/12/20,British Columbia,46,1
-3/13/20,British Columbia,64,1
-3/14/20,British Columbia,64,1
-3/15/20,British Columbia,73,1
-3/16/20,British Columbia,103,4
-3/17/20,British Columbia,103,4
-3/18/20,British Columbia,186,7
-3/19/20,British Columbia,231,7
-3/20/20,British Columbia,271,8
-3/21/20,British Columbia,424,10
-3/22/20,British Columbia,424,10
-3/23/20,British Columbia,472,13
-3/24/20,British Columbia,617,13
-3/25/20,British Columbia,617,13
-3/26/20,British Columbia,725,14
-3/27/20,British Columbia,725,14
-3/28/20,British Columbia,884,17
-3/29/20,British Columbia,884,17
-3/30/20,British Columbia,970,19
-3/31/20,British Columbia,1013,24
-4/1/20,British Columbia,1013,24
-4/2/20,British Columbia,1121,31
-1/22/20,Manitoba,0,0
-1/23/20,Manitoba,0,0
-1/24/20,Manitoba,0,0
-1/25/20,Manitoba,0,0
-1/26/20,Manitoba,0,0
-1/27/20,Manitoba,0,0
-1/28/20,Manitoba,0,0
-1/29/20,Manitoba,0,0
-1/30/20,Manitoba,0,0
-1/31/20,Manitoba,0,0
-2/1/20,Manitoba,0,0
-2/2/20,Manitoba,0,0
-2/3/20,Manitoba,0,0
-2/4/20,Manitoba,0,0
-2/5/20,Manitoba,0,0
-2/6/20,Manitoba,0,0
-2/7/20,Manitoba,0,0
-2/8/20,Manitoba,0,0
-2/9/20,Manitoba,0,0
-2/10/20,Manitoba,0,0
-2/11/20,Manitoba,0,0
-2/12/20,Manitoba,0,0
-2/13/20,Manitoba,0,0
-2/14/20,Manitoba,0,0
-2/15/20,Manitoba,0,0
-2/16/20,Manitoba,0,0
-2/17/20,Manitoba,0,0
-2/18/20,Manitoba,0,0
-2/19/20,Manitoba,0,0
-2/20/20,Manitoba,0,0
-2/21/20,Manitoba,0,0
-2/22/20,Manitoba,0,0
-2/23/20,Manitoba,0,0
-2/24/20,Manitoba,0,0
-2/25/20,Manitoba,0,0
-2/26/20,Manitoba,0,0
-2/27/20,Manitoba,0,0
-2/28/20,Manitoba,0,0
-2/29/20,Manitoba,0,0
-3/1/20,Manitoba,0,0
-3/2/20,Manitoba,0,0
-3/3/20,Manitoba,0,0
-3/4/20,Manitoba,0,0
-3/5/20,Manitoba,0,0
-3/6/20,Manitoba,0,0
-3/7/20,Manitoba,0,0
-3/8/20,Manitoba,0,0
-3/9/20,Manitoba,0,0
-3/10/20,Manitoba,0,0
-3/11/20,Manitoba,0,0
-3/12/20,Manitoba,0,0
-3/13/20,Manitoba,4,0
-3/14/20,Manitoba,4,0
-3/15/20,Manitoba,4,0
-3/16/20,Manitoba,7,0
-3/17/20,Manitoba,8,0
-3/18/20,Manitoba,15,0
-3/19/20,Manitoba,17,0
-3/20/20,Manitoba,17,0
-3/21/20,Manitoba,18,0
-3/22/20,Manitoba,20,0
-3/23/20,Manitoba,20,0
-3/24/20,Manitoba,21,0
-3/25/20,Manitoba,35,0
-3/26/20,Manitoba,36,0
-3/27/20,Manitoba,39,1
-3/28/20,Manitoba,64,1
-3/29/20,Manitoba,72,1
-3/30/20,Manitoba,96,1
-3/31/20,Manitoba,103,1
-4/1/20,Manitoba,127,1
-4/2/20,Manitoba,167,1
-1/22/20,New Brunswick,0,0
-1/23/20,New Brunswick,0,0
-1/24/20,New Brunswick,0,0
-1/25/20,New Brunswick,0,0
-1/26/20,New Brunswick,0,0
-1/27/20,New Brunswick,0,0
-1/28/20,New Brunswick,0,0
-1/29/20,New Brunswick,0,0
-1/30/20,New Brunswick,0,0
-1/31/20,New Brunswick,0,0
-2/1/20,New Brunswick,0,0
-2/2/20,New Brunswick,0,0
-2/3/20,New Brunswick,0,0
-2/4/20,New Brunswick,0,0
-2/5/20,New Brunswick,0,0
-2/6/20,New Brunswick,0,0
-2/7/20,New Brunswick,0,0
-2/8/20,New Brunswick,0,0
-2/9/20,New Brunswick,0,0
-2/10/20,New Brunswick,0,0
-2/11/20,New Brunswick,0,0
-2/12/20,New Brunswick,0,0
-2/13/20,New Brunswick,0,0
-2/14/20,New Brunswick,0,0
-2/15/20,New Brunswick,0,0
-2/16/20,New Brunswick,0,0
-2/17/20,New Brunswick,0,0
-2/18/20,New Brunswick,0,0
-2/19/20,New Brunswick,0,0
-2/20/20,New Brunswick,0,0
-2/21/20,New Brunswick,0,0
-2/22/20,New Brunswick,0,0
-2/23/20,New Brunswick,0,0
-2/24/20,New Brunswick,0,0
-2/25/20,New Brunswick,0,0
-2/26/20,New Brunswick,0,0
-2/27/20,New Brunswick,0,0
-2/28/20,New Brunswick,0,0
-2/29/20,New Brunswick,0,0
-3/1/20,New Brunswick,0,0
-3/2/20,New Brunswick,0,0
-3/3/20,New Brunswick,0,0
-3/4/20,New Brunswick,0,0
-3/5/20,New Brunswick,0,0
-3/6/20,New Brunswick,0,0
-3/7/20,New Brunswick,0,0
-3/8/20,New Brunswick,0,0
-3/9/20,New Brunswick,0,0
-3/10/20,New Brunswick,0,0
-3/11/20,New Brunswick,1,0
-3/12/20,New Brunswick,1,0
-3/13/20,New Brunswick,1,0
-3/14/20,New Brunswick,1,0
-3/15/20,New Brunswick,2,0
-3/16/20,New Brunswick,6,0
-3/17/20,New Brunswick,8,0
-3/18/20,New Brunswick,11,0
-3/19/20,New Brunswick,11,0
-3/20/20,New Brunswick,11,0
-3/21/20,New Brunswick,17,0
-3/22/20,New Brunswick,17,0
-3/23/20,New Brunswick,17,0
-3/24/20,New Brunswick,18,0
-3/25/20,New Brunswick,18,0
-3/26/20,New Brunswick,33,0
-3/27/20,New Brunswick,45,0
-3/28/20,New Brunswick,51,0
-3/29/20,New Brunswick,66,0
-3/30/20,New Brunswick,68,0
-3/31/20,New Brunswick,70,0
-4/1/20,New Brunswick,81,0
-4/2/20,New Brunswick,91,0
-1/22/20,Newfoundland and Labrador,0,0
-1/23/20,Newfoundland and Labrador,0,0
-1/24/20,Newfoundland and Labrador,0,0
-1/25/20,Newfoundland and Labrador,0,0
-1/26/20,Newfoundland and Labrador,0,0
-1/27/20,Newfoundland and Labrador,0,0
-1/28/20,Newfoundland and Labrador,0,0
-1/29/20,Newfoundland and Labrador,0,0
-1/30/20,Newfoundland and Labrador,0,0
-1/31/20,Newfoundland and Labrador,0,0
-2/1/20,Newfoundland and Labrador,0,0
-2/2/20,Newfoundland and Labrador,0,0
-2/3/20,Newfoundland and Labrador,0,0
-2/4/20,Newfoundland and Labrador,0,0
-2/5/20,Newfoundland and Labrador,0,0
-2/6/20,Newfoundland and Labrador,0,0
-2/7/20,Newfoundland and Labrador,0,0
-2/8/20,Newfoundland and Labrador,0,0
-2/9/20,Newfoundland and Labrador,0,0
-2/10/20,Newfoundland and Labrador,0,0
-2/11/20,Newfoundland and Labrador,0,0
-2/12/20,Newfoundland and Labrador,0,0
-2/13/20,Newfoundland and Labrador,0,0
-2/14/20,Newfoundland and Labrador,0,0
-2/15/20,Newfoundland and Labrador,0,0
-2/16/20,Newfoundland and Labrador,0,0
-2/17/20,Newfoundland and Labrador,0,0
-2/18/20,Newfoundland and Labrador,0,0
-2/19/20,Newfoundland and Labrador,0,0
-2/20/20,Newfoundland and Labrador,0,0
-2/21/20,Newfoundland and Labrador,0,0
-2/22/20,Newfoundland and Labrador,0,0
-2/23/20,Newfoundland and Labrador,0,0
-2/24/20,Newfoundland and Labrador,0,0
-2/25/20,Newfoundland and Labrador,0,0
-2/26/20,Newfoundland and Labrador,0,0
-2/27/20,Newfoundland and Labrador,0,0
-2/28/20,Newfoundland and Labrador,0,0
-2/29/20,Newfoundland and Labrador,0,0
-3/1/20,Newfoundland and Labrador,0,0
-3/2/20,Newfoundland and Labrador,0,0
-3/3/20,Newfoundland and Labrador,0,0
-3/4/20,Newfoundland and Labrador,0,0
-3/5/20,Newfoundland and Labrador,0,0
-3/6/20,Newfoundland and Labrador,0,0
-3/7/20,Newfoundland and Labrador,0,0
-3/8/20,Newfoundland and Labrador,0,0
-3/9/20,Newfoundland and Labrador,0,0
-3/10/20,Newfoundland and Labrador,0,0
-3/11/20,Newfoundland and Labrador,0,0
-3/12/20,Newfoundland and Labrador,0,0
-3/13/20,Newfoundland and Labrador,0,0
-3/14/20,Newfoundland and Labrador,0,0
-3/15/20,Newfoundland and Labrador,1,0
-3/16/20,Newfoundland and Labrador,1,0
-3/17/20,Newfoundland and Labrador,3,0
-3/18/20,Newfoundland and Labrador,3,0
-3/19/20,Newfoundland and Labrador,3,0
-3/20/20,Newfoundland and Labrador,4,0
-3/21/20,Newfoundland and Labrador,6,0
-3/22/20,Newfoundland and Labrador,9,0
-3/23/20,Newfoundland and Labrador,24,0
-3/24/20,Newfoundland and Labrador,35,0
-3/25/20,Newfoundland and Labrador,35,0
-3/26/20,Newfoundland and Labrador,82,0
-3/27/20,Newfoundland and Labrador,102,0
-3/28/20,Newfoundland and Labrador,120,0
-3/29/20,Newfoundland and Labrador,135,0
-3/30/20,Newfoundland and Labrador,148,1
-3/31/20,Newfoundland and Labrador,152,1
-4/1/20,Newfoundland and Labrador,175,1
-4/2/20,Newfoundland and Labrador,183,1
-1/22/20,Nova Scotia,0,0
-1/23/20,Nova Scotia,0,0
-1/24/20,Nova Scotia,0,0
-1/25/20,Nova Scotia,0,0
-1/26/20,Nova Scotia,0,0
-1/27/20,Nova Scotia,0,0
-1/28/20,Nova Scotia,0,0
-1/29/20,Nova Scotia,0,0
-1/30/20,Nova Scotia,0,0
-1/31/20,Nova Scotia,0,0
-2/1/20,Nova Scotia,0,0
-2/2/20,Nova Scotia,0,0
-2/3/20,Nova Scotia,0,0
-2/4/20,Nova Scotia,0,0
-2/5/20,Nova Scotia,0,0
-2/6/20,Nova Scotia,0,0
-2/7/20,Nova Scotia,0,0
-2/8/20,Nova Scotia,0,0
-2/9/20,Nova Scotia,0,0
-2/10/20,Nova Scotia,0,0
-2/11/20,Nova Scotia,0,0
-2/12/20,Nova Scotia,0,0
-2/13/20,Nova Scotia,0,0
-2/14/20,Nova Scotia,0,0
-2/15/20,Nova Scotia,0,0
-2/16/20,Nova Scotia,0,0
-2/17/20,Nova Scotia,0,0
-2/18/20,Nova Scotia,0,0
-2/19/20,Nova Scotia,0,0
-2/20/20,Nova Scotia,0,0
-2/21/20,Nova Scotia,0,0
-2/22/20,Nova Scotia,0,0
-2/23/20,Nova Scotia,0,0
-2/24/20,Nova Scotia,0,0
-2/25/20,Nova Scotia,0,0
-2/26/20,Nova Scotia,0,0
-2/27/20,Nova Scotia,0,0
-2/28/20,Nova Scotia,0,0
-2/29/20,Nova Scotia,0,0
-3/1/20,Nova Scotia,0,0
-3/2/20,Nova Scotia,0,0
-3/3/20,Nova Scotia,0,0
-3/4/20,Nova Scotia,0,0
-3/5/20,Nova Scotia,0,0
-3/6/20,Nova Scotia,0,0
-3/7/20,Nova Scotia,0,0
-3/8/20,Nova Scotia,0,0
-3/9/20,Nova Scotia,0,0
-3/10/20,Nova Scotia,0,0
-3/11/20,Nova Scotia,0,0
-3/12/20,Nova Scotia,0,0
-3/13/20,Nova Scotia,0,0
-3/14/20,Nova Scotia,0,0
-3/15/20,Nova Scotia,0,0
-3/16/20,Nova Scotia,5,0
-3/17/20,Nova Scotia,7,0
-3/18/20,Nova Scotia,12,0
-3/19/20,Nova Scotia,14,0
-3/20/20,Nova Scotia,15,0
-3/21/20,Nova Scotia,21,0
-3/22/20,Nova Scotia,28,0
-3/23/20,Nova Scotia,41,0
-3/24/20,Nova Scotia,51,0
-3/25/20,Nova Scotia,68,0
-3/26/20,Nova Scotia,73,0
-3/27/20,Nova Scotia,90,0
-3/28/20,Nova Scotia,110,0
-3/29/20,Nova Scotia,122,0
-3/30/20,Nova Scotia,127,0
-3/31/20,Nova Scotia,147,0
-4/1/20,Nova Scotia,173,0
-4/2/20,Nova Scotia,193,0
-1/22/20,Ontario,0,0
-1/23/20,Ontario,0,0
-1/24/20,Ontario,0,0
-1/25/20,Ontario,0,0
-1/26/20,Ontario,1,0
-1/27/20,Ontario,1,0
-1/28/20,Ontario,1,0
-1/29/20,Ontario,1,0
-1/30/20,Ontario,1,0
-1/31/20,Ontario,3,0
-2/1/20,Ontario,3,0
-2/2/20,Ontario,3,0
-2/3/20,Ontario,3,0
-2/4/20,Ontario,3,0
-2/5/20,Ontario,3,0
-2/6/20,Ontario,3,0
-2/7/20,Ontario,3,0
-2/8/20,Ontario,3,0
-2/9/20,Ontario,3,0
-2/10/20,Ontario,3,0
-2/11/20,Ontario,3,0
-2/12/20,Ontario,3,0
-2/13/20,Ontario,3,0
-2/14/20,Ontario,3,0
-2/15/20,Ontario,3,0
-2/16/20,Ontario,3,0
-2/17/20,Ontario,3,0
-2/18/20,Ontario,3,0
-2/19/20,Ontario,3,0
-2/20/20,Ontario,3,0
-2/21/20,Ontario,3,0
-2/22/20,Ontario,3,0
-2/23/20,Ontario,3,0
-2/24/20,Ontario,4,0
-2/25/20,Ontario,4,0
-2/26/20,Ontario,4,0
-2/27/20,Ontario,6,0
-2/28/20,Ontario,6,0
-2/29/20,Ontario,11,0
-3/1/20,Ontario,15,0
-3/2/20,Ontario,18,0
-3/3/20,Ontario,20,0
-3/4/20,Ontario,20,0
-3/5/20,Ontario,22,0
-3/6/20,Ontario,25,0
-3/7/20,Ontario,28,0
-3/8/20,Ontario,29,0
-3/9/20,Ontario,34,0
-3/10/20,Ontario,36,0
-3/11/20,Ontario,41,0
-3/12/20,Ontario,42,0
-3/13/20,Ontario,74,0
-3/14/20,Ontario,79,0
-3/15/20,Ontario,104,0
-3/16/20,Ontario,177,0
-3/17/20,Ontario,185,1
-3/18/20,Ontario,221,1
-3/19/20,Ontario,257,1
-3/20/20,Ontario,308,2
-3/21/20,Ontario,377,3
-3/22/20,Ontario,425,5
-3/23/20,Ontario,503,6
-3/24/20,Ontario,588,7
-3/25/20,Ontario,688,8
-3/26/20,Ontario,858,13
-3/27/20,Ontario,994,18
-3/28/20,Ontario,1144,18
-3/29/20,Ontario,1355,21
-3/30/20,Ontario,1706,31
-3/31/20,Ontario,1966,33
-4/1/20,Ontario,2392,37
-4/2/20,Ontario,2793,53
-1/22/20,Prince Edward Island,0,0
-1/23/20,Prince Edward Island,0,0
-1/24/20,Prince Edward Island,0,0
-1/25/20,Prince Edward Island,0,0
-1/26/20,Prince Edward Island,0,0
-1/27/20,Prince Edward Island,0,0
-1/28/20,Prince Edward Island,0,0
-1/29/20,Prince Edward Island,0,0
-1/30/20,Prince Edward Island,0,0
-1/31/20,Prince Edward Island,0,0
-2/1/20,Prince Edward Island,0,0
-2/2/20,Prince Edward Island,0,0
-2/3/20,Prince Edward Island,0,0
-2/4/20,Prince Edward Island,0,0
-2/5/20,Prince Edward Island,0,0
-2/6/20,Prince Edward Island,0,0
-2/7/20,Prince Edward Island,0,0
-2/8/20,Prince Edward Island,0,0
-2/9/20,Prince Edward Island,0,0
-2/10/20,Prince Edward Island,0,0
-2/11/20,Prince Edward Island,0,0
-2/12/20,Prince Edward Island,0,0
-2/13/20,Prince Edward Island,0,0
-2/14/20,Prince Edward Island,0,0
-2/15/20,Prince Edward Island,0,0
-2/16/20,Prince Edward Island,0,0
-2/17/20,Prince Edward Island,0,0
-2/18/20,Prince Edward Island,0,0
-2/19/20,Prince Edward Island,0,0
-2/20/20,Prince Edward Island,0,0
-2/21/20,Prince Edward Island,0,0
-2/22/20,Prince Edward Island,0,0
-2/23/20,Prince Edward Island,0,0
-2/24/20,Prince Edward Island,0,0
-2/25/20,Prince Edward Island,0,0
-2/26/20,Prince Edward Island,0,0
-2/27/20,Prince Edward Island,0,0
-2/28/20,Prince Edward Island,0,0
-2/29/20,Prince Edward Island,0,0
-3/1/20,Prince Edward Island,0,0
-3/2/20,Prince Edward Island,0,0
-3/3/20,Prince Edward Island,0,0
-3/4/20,Prince Edward Island,0,0
-3/5/20,Prince Edward Island,0,0
-3/6/20,Prince Edward Island,0,0
-3/7/20,Prince Edward Island,0,0
-3/8/20,Prince Edward Island,0,0
-3/9/20,Prince Edward Island,0,0
-3/10/20,Prince Edward Island,0,0
-3/11/20,Prince Edward Island,0,0
-3/12/20,Prince Edward Island,0,0
-3/13/20,Prince Edward Island,0,0
-3/14/20,Prince Edward Island,0,0
-3/15/20,Prince Edward Island,1,0
-3/16/20,Prince Edward Island,1,0
-3/17/20,Prince Edward Island,1,0
-3/18/20,Prince Edward Island,1,0
-3/19/20,Prince Edward Island,2,0
-3/20/20,Prince Edward Island,2,0
-3/21/20,Prince Edward Island,2,0
-3/22/20,Prince Edward Island,3,0
-3/23/20,Prince Edward Island,3,0
-3/24/20,Prince Edward Island,3,0
-3/25/20,Prince Edward Island,5,0
-3/26/20,Prince Edward Island,5,0
-3/27/20,Prince Edward Island,9,0
-3/28/20,Prince Edward Island,11,0
-3/29/20,Prince Edward Island,11,0
-3/30/20,Prince Edward Island,18,0
-3/31/20,Prince Edward Island,21,0
-4/1/20,Prince Edward Island,21,0
-4/2/20,Prince Edward Island,22,0
-1/22/20,Quebec,0,0
-1/23/20,Quebec,0,0
-1/24/20,Quebec,0,0
-1/25/20,Quebec,0,0
-1/26/20,Quebec,0,0
-1/27/20,Quebec,0,0
-1/28/20,Quebec,0,0
-1/29/20,Quebec,0,0
-1/30/20,Quebec,0,0
-1/31/20,Quebec,0,0
-2/1/20,Quebec,0,0
-2/2/20,Quebec,0,0
-2/3/20,Quebec,0,0
-2/4/20,Quebec,0,0
-2/5/20,Quebec,0,0
-2/6/20,Quebec,0,0
-2/7/20,Quebec,0,0
-2/8/20,Quebec,0,0
-2/9/20,Quebec,0,0
-2/10/20,Quebec,0,0
-2/11/20,Quebec,0,0
-2/12/20,Quebec,0,0
-2/13/20,Quebec,0,0
-2/14/20,Quebec,0,0
-2/15/20,Quebec,0,0
-2/16/20,Quebec,0,0
-2/17/20,Quebec,0,0
-2/18/20,Quebec,0,0
-2/19/20,Quebec,0,0
-2/20/20,Quebec,0,0
-2/21/20,Quebec,0,0
-2/22/20,Quebec,0,0
-2/23/20,Quebec,0,0
-2/24/20,Quebec,0,0
-2/25/20,Quebec,0,0
-2/26/20,Quebec,0,0
-2/27/20,Quebec,0,0
-2/28/20,Quebec,1,0
-2/29/20,Quebec,1,0
-3/1/20,Quebec,1,0
-3/2/20,Quebec,1,0
-3/3/20,Quebec,1,0
-3/4/20,Quebec,1,0
-3/5/20,Quebec,2,0
-3/6/20,Quebec,2,0
-3/7/20,Quebec,3,0
-3/8/20,Quebec,4,0
-3/9/20,Quebec,4,0
-3/10/20,Quebec,4,0
-3/11/20,Quebec,8,0
-3/12/20,Quebec,9,0
-3/13/20,Quebec,17,0
-3/14/20,Quebec,17,0
-3/15/20,Quebec,24,0
-3/16/20,Quebec,50,0
-3/17/20,Quebec,74,0
-3/18/20,Quebec,94,0
-3/19/20,Quebec,121,1
-3/20/20,Quebec,139,1
-3/21/20,Quebec,181,5
-3/22/20,Quebec,219,4
-3/23/20,Quebec,628,4
-3/24/20,Quebec,1013,4
-3/25/20,Quebec,1342,6
-3/26/20,Quebec,1632,8
-3/27/20,Quebec,2024,18
-3/28/20,Quebec,2498,22
-3/29/20,Quebec,2840,22
-3/30/20,Quebec,3430,22
-3/31/20,Quebec,4162,31
-4/1/20,Quebec,4611,33
-4/2/20,Quebec,5518,36
-1/22/20,Saskatchewan,0,0
-1/23/20,Saskatchewan,0,0
-1/24/20,Saskatchewan,0,0
-1/25/20,Saskatchewan,0,0
-1/26/20,Saskatchewan,0,0
-1/27/20,Saskatchewan,0,0
-1/28/20,Saskatchewan,0,0
-1/29/20,Saskatchewan,0,0
-1/30/20,Saskatchewan,0,0
-1/31/20,Saskatchewan,0,0
-2/1/20,Saskatchewan,0,0
-2/2/20,Saskatchewan,0,0
-2/3/20,Saskatchewan,0,0
-2/4/20,Saskatchewan,0,0
-2/5/20,Saskatchewan,0,0
-2/6/20,Saskatchewan,0,0
-2/7/20,Saskatchewan,0,0
-2/8/20,Saskatchewan,0,0
-2/9/20,Saskatchewan,0,0
-2/10/20,Saskatchewan,0,0
-2/11/20,Saskatchewan,0,0
-2/12/20,Saskatchewan,0,0
-2/13/20,Saskatchewan,0,0
-2/14/20,Saskatchewan,0,0
-2/15/20,Saskatchewan,0,0
-2/16/20,Saskatchewan,0,0
-2/17/20,Saskatchewan,0,0
-2/18/20,Saskatchewan,0,0
-2/19/20,Saskatchewan,0,0
-2/20/20,Saskatchewan,0,0
-2/21/20,Saskatchewan,0,0
-2/22/20,Saskatchewan,0,0
-2/23/20,Saskatchewan,0,0
-2/24/20,Saskatchewan,0,0
-2/25/20,Saskatchewan,0,0
-2/26/20,Saskatchewan,0,0
-2/27/20,Saskatchewan,0,0
-2/28/20,Saskatchewan,0,0
-2/29/20,Saskatchewan,0,0
-3/1/20,Saskatchewan,0,0
-3/2/20,Saskatchewan,0,0
-3/3/20,Saskatchewan,0,0
-3/4/20,Saskatchewan,0,0
-3/5/20,Saskatchewan,0,0
-3/6/20,Saskatchewan,0,0
-3/7/20,Saskatchewan,0,0
-3/8/20,Saskatchewan,0,0
-3/9/20,Saskatchewan,0,0
-3/10/20,Saskatchewan,0,0
-3/11/20,Saskatchewan,0,0
-3/12/20,Saskatchewan,0,0
-3/13/20,Saskatchewan,2,0
-3/14/20,Saskatchewan,2,0
-3/15/20,Saskatchewan,2,0
-3/16/20,Saskatchewan,7,0
-3/17/20,Saskatchewan,7,0
-3/18/20,Saskatchewan,8,0
-3/19/20,Saskatchewan,16,0
-3/20/20,Saskatchewan,20,0
-3/21/20,Saskatchewan,26,0
-3/22/20,Saskatchewan,52,0
-3/23/20,Saskatchewan,66,0
-3/24/20,Saskatchewan,72,0
-3/25/20,Saskatchewan,72,0
-3/26/20,Saskatchewan,95,0
-3/27/20,Saskatchewan,95,0
-3/28/20,Saskatchewan,134,0
-3/29/20,Saskatchewan,156,0
-3/30/20,Saskatchewan,156,2
-3/31/20,Saskatchewan,184,2
-4/1/20,Saskatchewan,193,3
-4/2/20,Saskatchewan,206,3
-1/22/20,Repartriated Canadians,0,0
-1/23/20,Repartriated Canadians,0,0
-1/24/20,Repartriated Canadians,0,0
-1/25/20,Repartriated Canadians,0,0
-1/26/20,Repartriated Canadians,0,0
-1/27/20,Repartriated Canadians,0,0
-1/28/20,Repartriated Canadians,0,0
-1/29/20,Repartriated Canadians,0,0
-1/30/20,Repartriated Canadians,0,0
-1/31/20,Repartriated Canadians,0,0
-2/1/20,Repartriated Canadians,0,0
-2/2/20,Repartriated Canadians,0,0
-2/3/20,Repartriated Canadians,0,0
-2/4/20,Repartriated Canadians,0,0
-2/5/20,Repartriated Canadians,0,0
-2/6/20,Repartriated Canadians,0,0
-2/7/20,Repartriated Canadians,0,0
-2/8/20,Repartriated Canadians,0,0
-2/9/20,Repartriated Canadians,0,0
-2/10/20,Repartriated Canadians,0,0
-2/11/20,Repartriated Canadians,0,0
-2/12/20,Repartriated Canadians,0,0
-2/13/20,Repartriated Canadians,0,0
-2/14/20,Repartriated Canadians,0,0
-2/15/20,Repartriated Canadians,0,0
-2/16/20,Repartriated Canadians,0,0
-2/17/20,Repartriated Canadians,0,0
-2/18/20,Repartriated Canadians,0,0
-2/19/20,Repartriated Canadians,0,0
-2/20/20,Repartriated Canadians,0,0
-2/21/20,Repartriated Canadians,0,0
-2/22/20,Repartriated Canadians,0,0
-2/23/20,Repartriated Canadians,0,0
-2/24/20,Repartriated Canadians,0,0
-2/25/20,Repartriated Canadians,0,0
-2/26/20,Repartriated Canadians,0,0
-2/27/20,Repartriated Canadians,0,0
-2/28/20,Repartriated Canadians,0,0
-2/29/20,Repartriated Canadians,0,0
-3/1/20,Repartriated Canadians,0,0
-3/2/20,Repartriated Canadians,0,0
-3/3/20,Repartriated Canadians,0,0
-3/4/20,Repartriated Canadians,0,0
-3/5/20,Repartriated Canadians,0,0
-3/6/20,Repartriated Canadians,0,0
-3/7/20,Repartriated Canadians,0,0
-3/8/20,Repartriated Canadians,0,0
-3/9/20,Repartriated Canadians,0,0
-3/10/20,Repartriated Canadians,0,0
-3/11/20,Repartriated Canadians,0,0
-3/12/20,Repartriated Canadians,0,0
-3/13/20,Repartriated Canadians,2,0
-3/14/20,Repartriated Canadians,2,0
-3/15/20,Repartriated Canadians,2,0
-3/16/20,Repartriated Canadians,2,0
-3/17/20,Repartriated Canadians,8,0
-3/18/20,Repartriated Canadians,9,0
-3/19/20,Repartriated Canadians,9,0
-3/20/20,Repartriated Canadians,10,0
-3/21/20,Repartriated Canadians,10,0
-3/22/20,Repartriated Canadians,13,1
-3/23/20,Repartriated Canadians,13,1
-3/24/20,Repartriated Canadians,13,1
-3/25/20,Repartriated Canadians,13,1
-3/26/20,Repartriated Canadians,13,1
-3/27/20,Repartriated Canadians,13,1
-3/28/20,Repartriated Canadians,13,1
-3/29/20,Repartriated Canadians,13,1
-3/30/20,Repartriated Canadians,13,1
-3/31/20,Repartriated Canadians,13,1
-4/1/20,Repartriated Canadians,13,1
-4/2/20,Repartriated Canadians,13,1
-1/22/20,Canada,0,0
-1/23/20,Canada,0,0
-1/24/20,Canada,0,0
-1/25/20,Canada,0,0
-1/26/20,Canada,1,0
-1/27/20,Canada,1,0
-1/28/20,Canada,2,0
-1/29/20,Canada,2,0
-1/30/20,Canada,2,0
-1/31/20,Canada,4,0
-2/1/20,Canada,4,0
-2/2/20,Canada,4,0
-2/3/20,Canada,4,0
-2/4/20,Canada,4,0
-2/5/20,Canada,5,0
-2/6/20,Canada,5,0
-2/7/20,Canada,7,0
-2/8/20,Canada,7,0
-2/9/20,Canada,7,0
-2/10/20,Canada,7,0
-2/11/20,Canada,7,0
-2/12/20,Canada,7,0
-2/13/20,Canada,7,0
-2/14/20,Canada,7,0
-2/15/20,Canada,7,0
-2/16/20,Canada,7,0
-2/17/20,Canada,8,0
-2/18/20,Canada,8,0
-2/19/20,Canada,8,0
-2/20/20,Canada,8,0
-2/21/20,Canada,9,0
-2/22/20,Canada,9,0
-2/23/20,Canada,9,0
-2/24/20,Canada,10,0
-2/25/20,Canada,11,0
-2/26/20,Canada,11,0
-2/27/20,Canada,13,0
-2/28/20,Canada,14,0
-2/29/20,Canada,20,0
-3/1/20,Canada,24,0
-3/2/20,Canada,27,0
-3/3/20,Canada,30,0
-3/4/20,Canada,33,0
-3/5/20,Canada,37,0
-3/6/20,Canada,49,0
-3/7/20,Canada,54,0
-3/8/20,Canada,64,0
-3/9/20,Canada,77,1
-3/10/20,Canada,79,1
-3/11/20,Canada,108,1
-3/12/20,Canada,117,1
-3/13/20,Canada,193,1
-3/14/20,Canada,198,1
-3/15/20,Canada,252,1
-3/16/20,Canada,415,4
-3/17/20,Canada,478,5
-3/18/20,Canada,657,8
-3/19/20,Canada,800,9
-3/20/20,Canada,943,12
-3/21/20,Canada,1277,19
-3/22/20,Canada,1469,21
-3/23/20,Canada,2088,25
-3/24/20,Canada,2790,26
-3/25/20,Canada,3251,30
-3/26/20,Canada,4042,38
-3/27/20,Canada,4682,54
-3/28/20,Canada,5576,61
-3/29/20,Canada,6280,64
-3/30/20,Canada,7398,80
-3/31/20,Canada,8527,101
-4/1/20,Canada,9560,109
-4/2/20,Canada,11284,139
+Jan-22,Alberta,0,0
+Jan-23,Alberta,0,0
+Jan-24,Alberta,0,0
+Jan-25,Alberta,0,0
+Jan-26,Alberta,0,0
+Jan-27,Alberta,0,0
+Jan-28,Alberta,0,0
+Jan-29,Alberta,0,0
+Jan-30,Alberta,0,0
+Jan-31,Alberta,0,0
+Feb-01,Alberta,0,0
+Feb-02,Alberta,0,0
+Feb-03,Alberta,0,0
+Feb-04,Alberta,0,0
+Feb-05,Alberta,0,0
+Feb-06,Alberta,0,0
+Feb-07,Alberta,0,0
+Feb-08,Alberta,0,0
+Feb-09,Alberta,0,0
+Feb-10,Alberta,0,0
+Feb-11,Alberta,0,0
+Feb-12,Alberta,0,0
+Feb-13,Alberta,0,0
+Feb-14,Alberta,0,0
+Feb-15,Alberta,0,0
+Feb-16,Alberta,0,0
+Feb-17,Alberta,0,0
+Feb-18,Alberta,0,0
+Feb-19,Alberta,0,0
+Feb-20,Alberta,0,0
+Feb-21,Alberta,0,0
+Feb-22,Alberta,0,0
+Feb-23,Alberta,0,0
+Feb-24,Alberta,0,0
+Feb-25,Alberta,0,0
+Feb-26,Alberta,0,0
+Feb-27,Alberta,0,0
+Feb-28,Alberta,0,0
+Feb-29,Alberta,0,0
+Mar-01,Alberta,0,0
+Mar-02,Alberta,0,0
+Mar-03,Alberta,0,0
+Mar-04,Alberta,0,0
+Mar-05,Alberta,0,0
+Mar-06,Alberta,1,0
+Mar-07,Alberta,2,0
+Mar-08,Alberta,4,0
+Mar-09,Alberta,7,0
+Mar-10,Alberta,7,0
+Mar-11,Alberta,19,0
+Mar-12,Alberta,19,0
+Mar-13,Alberta,29,0
+Mar-14,Alberta,29,0
+Mar-15,Alberta,39,0
+Mar-16,Alberta,56,0
+Mar-17,Alberta,74,0
+Mar-18,Alberta,97,0
+Mar-19,Alberta,119,0
+Mar-20,Alberta,146,1
+Mar-21,Alberta,195,1
+Mar-22,Alberta,259,1
+Mar-23,Alberta,301,1
+Mar-24,Alberta,359,1
+Mar-25,Alberta,358,2
+Mar-26,Alberta,486,2
+Mar-27,Alberta,542,2
+Mar-28,Alberta,542,2
+Mar-29,Alberta,621,2
+Mar-30,Alberta,661,3
+Mar-31,Alberta,690,8
+Apr-01,Alberta,754,9
+Apr-02,Alberta,969,13
+Apr-03,Alberta,969,13
+Apr-04,Alberta,1075,18
+Apr-05,Alberta,1181,20
+Jan-22,British Columbia,0,0
+Jan-23,British Columbia,0,0
+Jan-24,British Columbia,0,0
+Jan-25,British Columbia,0,0
+Jan-26,British Columbia,0,0
+Jan-27,British Columbia,0,0
+Jan-28,British Columbia,1,0
+Jan-29,British Columbia,1,0
+Jan-30,British Columbia,1,0
+Jan-31,British Columbia,1,0
+Feb-01,British Columbia,1,0
+Feb-02,British Columbia,1,0
+Feb-03,British Columbia,1,0
+Feb-04,British Columbia,1,0
+Feb-05,British Columbia,2,0
+Feb-06,British Columbia,2,0
+Feb-07,British Columbia,4,0
+Feb-08,British Columbia,4,0
+Feb-09,British Columbia,4,0
+Feb-10,British Columbia,4,0
+Feb-11,British Columbia,4,0
+Feb-12,British Columbia,4,0
+Feb-13,British Columbia,4,0
+Feb-14,British Columbia,4,0
+Feb-15,British Columbia,4,0
+Feb-16,British Columbia,4,0
+Feb-17,British Columbia,5,0
+Feb-18,British Columbia,5,0
+Feb-19,British Columbia,5,0
+Feb-20,British Columbia,5,0
+Feb-21,British Columbia,6,0
+Feb-22,British Columbia,6,0
+Feb-23,British Columbia,6,0
+Feb-24,British Columbia,6,0
+Feb-25,British Columbia,7,0
+Feb-26,British Columbia,7,0
+Feb-27,British Columbia,7,0
+Feb-28,British Columbia,7,0
+Feb-29,British Columbia,8,0
+Mar-01,British Columbia,8,0
+Mar-02,British Columbia,8,0
+Mar-03,British Columbia,9,0
+Mar-04,British Columbia,12,0
+Mar-05,British Columbia,13,0
+Mar-06,British Columbia,21,0
+Mar-07,British Columbia,21,0
+Mar-08,British Columbia,27,0
+Mar-09,British Columbia,32,1
+Mar-10,British Columbia,32,1
+Mar-11,British Columbia,39,1
+Mar-12,British Columbia,46,1
+Mar-13,British Columbia,64,1
+Mar-14,British Columbia,64,1
+Mar-15,British Columbia,73,1
+Mar-16,British Columbia,103,4
+Mar-17,British Columbia,103,4
+Mar-18,British Columbia,186,7
+Mar-19,British Columbia,231,7
+Mar-20,British Columbia,271,8
+Mar-21,British Columbia,424,10
+Mar-22,British Columbia,424,10
+Mar-23,British Columbia,472,13
+Mar-24,British Columbia,617,13
+Mar-25,British Columbia,617,13
+Mar-26,British Columbia,725,14
+Mar-27,British Columbia,725,14
+Mar-28,British Columbia,884,17
+Mar-29,British Columbia,884,17
+Mar-30,British Columbia,970,19
+Mar-31,British Columbia,1013,24
+Apr-01,British Columbia,1013,24
+Apr-02,British Columbia,1121,31
+Apr-03,British Columbia,1174,31
+Apr-04,British Columbia,1203,38
+Apr-05,British Columbia,1203,38
+Jan-22,Manitoba,0,0
+Jan-23,Manitoba,0,0
+Jan-24,Manitoba,0,0
+Jan-25,Manitoba,0,0
+Jan-26,Manitoba,0,0
+Jan-27,Manitoba,0,0
+Jan-28,Manitoba,0,0
+Jan-29,Manitoba,0,0
+Jan-30,Manitoba,0,0
+Jan-31,Manitoba,0,0
+Feb-01,Manitoba,0,0
+Feb-02,Manitoba,0,0
+Feb-03,Manitoba,0,0
+Feb-04,Manitoba,0,0
+Feb-05,Manitoba,0,0
+Feb-06,Manitoba,0,0
+Feb-07,Manitoba,0,0
+Feb-08,Manitoba,0,0
+Feb-09,Manitoba,0,0
+Feb-10,Manitoba,0,0
+Feb-11,Manitoba,0,0
+Feb-12,Manitoba,0,0
+Feb-13,Manitoba,0,0
+Feb-14,Manitoba,0,0
+Feb-15,Manitoba,0,0
+Feb-16,Manitoba,0,0
+Feb-17,Manitoba,0,0
+Feb-18,Manitoba,0,0
+Feb-19,Manitoba,0,0
+Feb-20,Manitoba,0,0
+Feb-21,Manitoba,0,0
+Feb-22,Manitoba,0,0
+Feb-23,Manitoba,0,0
+Feb-24,Manitoba,0,0
+Feb-25,Manitoba,0,0
+Feb-26,Manitoba,0,0
+Feb-27,Manitoba,0,0
+Feb-28,Manitoba,0,0
+Feb-29,Manitoba,0,0
+Mar-01,Manitoba,0,0
+Mar-02,Manitoba,0,0
+Mar-03,Manitoba,0,0
+Mar-04,Manitoba,0,0
+Mar-05,Manitoba,0,0
+Mar-06,Manitoba,0,0
+Mar-07,Manitoba,0,0
+Mar-08,Manitoba,0,0
+Mar-09,Manitoba,0,0
+Mar-10,Manitoba,0,0
+Mar-11,Manitoba,0,0
+Mar-12,Manitoba,0,0
+Mar-13,Manitoba,4,0
+Mar-14,Manitoba,4,0
+Mar-15,Manitoba,4,0
+Mar-16,Manitoba,7,0
+Mar-17,Manitoba,8,0
+Mar-18,Manitoba,15,0
+Mar-19,Manitoba,17,0
+Mar-20,Manitoba,17,0
+Mar-21,Manitoba,18,0
+Mar-22,Manitoba,20,0
+Mar-23,Manitoba,20,0
+Mar-24,Manitoba,21,0
+Mar-25,Manitoba,35,0
+Mar-26,Manitoba,36,0
+Mar-27,Manitoba,39,1
+Mar-28,Manitoba,64,1
+Mar-29,Manitoba,72,1
+Mar-30,Manitoba,96,1
+Mar-31,Manitoba,103,1
+Apr-01,Manitoba,127,1
+Apr-02,Manitoba,167,1
+Apr-03,Manitoba,182,2
+Apr-04,Manitoba,182,2
+Apr-05,Manitoba,203,2
+Jan-22,New Brunswick,0,0
+Jan-23,New Brunswick,0,0
+Jan-24,New Brunswick,0,0
+Jan-25,New Brunswick,0,0
+Jan-26,New Brunswick,0,0
+Jan-27,New Brunswick,0,0
+Jan-28,New Brunswick,0,0
+Jan-29,New Brunswick,0,0
+Jan-30,New Brunswick,0,0
+Jan-31,New Brunswick,0,0
+Feb-01,New Brunswick,0,0
+Feb-02,New Brunswick,0,0
+Feb-03,New Brunswick,0,0
+Feb-04,New Brunswick,0,0
+Feb-05,New Brunswick,0,0
+Feb-06,New Brunswick,0,0
+Feb-07,New Brunswick,0,0
+Feb-08,New Brunswick,0,0
+Feb-09,New Brunswick,0,0
+Feb-10,New Brunswick,0,0
+Feb-11,New Brunswick,0,0
+Feb-12,New Brunswick,0,0
+Feb-13,New Brunswick,0,0
+Feb-14,New Brunswick,0,0
+Feb-15,New Brunswick,0,0
+Feb-16,New Brunswick,0,0
+Feb-17,New Brunswick,0,0
+Feb-18,New Brunswick,0,0
+Feb-19,New Brunswick,0,0
+Feb-20,New Brunswick,0,0
+Feb-21,New Brunswick,0,0
+Feb-22,New Brunswick,0,0
+Feb-23,New Brunswick,0,0
+Feb-24,New Brunswick,0,0
+Feb-25,New Brunswick,0,0
+Feb-26,New Brunswick,0,0
+Feb-27,New Brunswick,0,0
+Feb-28,New Brunswick,0,0
+Feb-29,New Brunswick,0,0
+Mar-01,New Brunswick,0,0
+Mar-02,New Brunswick,0,0
+Mar-03,New Brunswick,0,0
+Mar-04,New Brunswick,0,0
+Mar-05,New Brunswick,0,0
+Mar-06,New Brunswick,0,0
+Mar-07,New Brunswick,0,0
+Mar-08,New Brunswick,0,0
+Mar-09,New Brunswick,0,0
+Mar-10,New Brunswick,0,0
+Mar-11,New Brunswick,1,0
+Mar-12,New Brunswick,1,0
+Mar-13,New Brunswick,1,0
+Mar-14,New Brunswick,1,0
+Mar-15,New Brunswick,2,0
+Mar-16,New Brunswick,6,0
+Mar-17,New Brunswick,8,0
+Mar-18,New Brunswick,11,0
+Mar-19,New Brunswick,11,0
+Mar-20,New Brunswick,11,0
+Mar-21,New Brunswick,17,0
+Mar-22,New Brunswick,17,0
+Mar-23,New Brunswick,17,0
+Mar-24,New Brunswick,18,0
+Mar-25,New Brunswick,18,0
+Mar-26,New Brunswick,33,0
+Mar-27,New Brunswick,45,0
+Mar-28,New Brunswick,51,0
+Mar-29,New Brunswick,66,0
+Mar-30,New Brunswick,68,0
+Mar-31,New Brunswick,70,0
+Apr-01,New Brunswick,81,0
+Apr-02,New Brunswick,91,0
+Apr-03,New Brunswick,91,0
+Apr-04,New Brunswick,91,0
+Apr-05,New Brunswick,98,0
+Jan-22,Newfoundland and Labrador,0,0
+Jan-23,Newfoundland and Labrador,0,0
+Jan-24,Newfoundland and Labrador,0,0
+Jan-25,Newfoundland and Labrador,0,0
+Jan-26,Newfoundland and Labrador,0,0
+Jan-27,Newfoundland and Labrador,0,0
+Jan-28,Newfoundland and Labrador,0,0
+Jan-29,Newfoundland and Labrador,0,0
+Jan-30,Newfoundland and Labrador,0,0
+Jan-31,Newfoundland and Labrador,0,0
+Feb-01,Newfoundland and Labrador,0,0
+Feb-02,Newfoundland and Labrador,0,0
+Feb-03,Newfoundland and Labrador,0,0
+Feb-04,Newfoundland and Labrador,0,0
+Feb-05,Newfoundland and Labrador,0,0
+Feb-06,Newfoundland and Labrador,0,0
+Feb-07,Newfoundland and Labrador,0,0
+Feb-08,Newfoundland and Labrador,0,0
+Feb-09,Newfoundland and Labrador,0,0
+Feb-10,Newfoundland and Labrador,0,0
+Feb-11,Newfoundland and Labrador,0,0
+Feb-12,Newfoundland and Labrador,0,0
+Feb-13,Newfoundland and Labrador,0,0
+Feb-14,Newfoundland and Labrador,0,0
+Feb-15,Newfoundland and Labrador,0,0
+Feb-16,Newfoundland and Labrador,0,0
+Feb-17,Newfoundland and Labrador,0,0
+Feb-18,Newfoundland and Labrador,0,0
+Feb-19,Newfoundland and Labrador,0,0
+Feb-20,Newfoundland and Labrador,0,0
+Feb-21,Newfoundland and Labrador,0,0
+Feb-22,Newfoundland and Labrador,0,0
+Feb-23,Newfoundland and Labrador,0,0
+Feb-24,Newfoundland and Labrador,0,0
+Feb-25,Newfoundland and Labrador,0,0
+Feb-26,Newfoundland and Labrador,0,0
+Feb-27,Newfoundland and Labrador,0,0
+Feb-28,Newfoundland and Labrador,0,0
+Feb-29,Newfoundland and Labrador,0,0
+Mar-01,Newfoundland and Labrador,0,0
+Mar-02,Newfoundland and Labrador,0,0
+Mar-03,Newfoundland and Labrador,0,0
+Mar-04,Newfoundland and Labrador,0,0
+Mar-05,Newfoundland and Labrador,0,0
+Mar-06,Newfoundland and Labrador,0,0
+Mar-07,Newfoundland and Labrador,0,0
+Mar-08,Newfoundland and Labrador,0,0
+Mar-09,Newfoundland and Labrador,0,0
+Mar-10,Newfoundland and Labrador,0,0
+Mar-11,Newfoundland and Labrador,0,0
+Mar-12,Newfoundland and Labrador,0,0
+Mar-13,Newfoundland and Labrador,0,0
+Mar-14,Newfoundland and Labrador,0,0
+Mar-15,Newfoundland and Labrador,1,0
+Mar-16,Newfoundland and Labrador,1,0
+Mar-17,Newfoundland and Labrador,3,0
+Mar-18,Newfoundland and Labrador,3,0
+Mar-19,Newfoundland and Labrador,3,0
+Mar-20,Newfoundland and Labrador,4,0
+Mar-21,Newfoundland and Labrador,6,0
+Mar-22,Newfoundland and Labrador,9,0
+Mar-23,Newfoundland and Labrador,24,0
+Mar-24,Newfoundland and Labrador,35,0
+Mar-25,Newfoundland and Labrador,35,0
+Mar-26,Newfoundland and Labrador,82,0
+Mar-27,Newfoundland and Labrador,102,0
+Mar-28,Newfoundland and Labrador,120,0
+Mar-29,Newfoundland and Labrador,135,0
+Mar-30,Newfoundland and Labrador,148,1
+Mar-31,Newfoundland and Labrador,152,1
+Apr-01,Newfoundland and Labrador,175,1
+Apr-02,Newfoundland and Labrador,183,1
+Apr-03,Newfoundland and Labrador,195,1
+Apr-04,Newfoundland and Labrador,195,1
+Apr-05,Newfoundland and Labrador,217,1
+Jan-22,Nova Scotia,0,0
+Jan-23,Nova Scotia,0,0
+Jan-24,Nova Scotia,0,0
+Jan-25,Nova Scotia,0,0
+Jan-26,Nova Scotia,0,0
+Jan-27,Nova Scotia,0,0
+Jan-28,Nova Scotia,0,0
+Jan-29,Nova Scotia,0,0
+Jan-30,Nova Scotia,0,0
+Jan-31,Nova Scotia,0,0
+Feb-01,Nova Scotia,0,0
+Feb-02,Nova Scotia,0,0
+Feb-03,Nova Scotia,0,0
+Feb-04,Nova Scotia,0,0
+Feb-05,Nova Scotia,0,0
+Feb-06,Nova Scotia,0,0
+Feb-07,Nova Scotia,0,0
+Feb-08,Nova Scotia,0,0
+Feb-09,Nova Scotia,0,0
+Feb-10,Nova Scotia,0,0
+Feb-11,Nova Scotia,0,0
+Feb-12,Nova Scotia,0,0
+Feb-13,Nova Scotia,0,0
+Feb-14,Nova Scotia,0,0
+Feb-15,Nova Scotia,0,0
+Feb-16,Nova Scotia,0,0
+Feb-17,Nova Scotia,0,0
+Feb-18,Nova Scotia,0,0
+Feb-19,Nova Scotia,0,0
+Feb-20,Nova Scotia,0,0
+Feb-21,Nova Scotia,0,0
+Feb-22,Nova Scotia,0,0
+Feb-23,Nova Scotia,0,0
+Feb-24,Nova Scotia,0,0
+Feb-25,Nova Scotia,0,0
+Feb-26,Nova Scotia,0,0
+Feb-27,Nova Scotia,0,0
+Feb-28,Nova Scotia,0,0
+Feb-29,Nova Scotia,0,0
+Mar-01,Nova Scotia,0,0
+Mar-02,Nova Scotia,0,0
+Mar-03,Nova Scotia,0,0
+Mar-04,Nova Scotia,0,0
+Mar-05,Nova Scotia,0,0
+Mar-06,Nova Scotia,0,0
+Mar-07,Nova Scotia,0,0
+Mar-08,Nova Scotia,0,0
+Mar-09,Nova Scotia,0,0
+Mar-10,Nova Scotia,0,0
+Mar-11,Nova Scotia,0,0
+Mar-12,Nova Scotia,0,0
+Mar-13,Nova Scotia,0,0
+Mar-14,Nova Scotia,0,0
+Mar-15,Nova Scotia,0,0
+Mar-16,Nova Scotia,5,0
+Mar-17,Nova Scotia,7,0
+Mar-18,Nova Scotia,12,0
+Mar-19,Nova Scotia,14,0
+Mar-20,Nova Scotia,15,0
+Mar-21,Nova Scotia,21,0
+Mar-22,Nova Scotia,28,0
+Mar-23,Nova Scotia,41,0
+Mar-24,Nova Scotia,51,0
+Mar-25,Nova Scotia,68,0
+Mar-26,Nova Scotia,73,0
+Mar-27,Nova Scotia,90,0
+Mar-28,Nova Scotia,110,0
+Mar-29,Nova Scotia,122,0
+Mar-30,Nova Scotia,127,0
+Mar-31,Nova Scotia,147,0
+Apr-01,Nova Scotia,173,0
+Apr-02,Nova Scotia,193,0
+Apr-03,Nova Scotia,207,0
+Apr-04,Nova Scotia,236,0
+Apr-05,Nova Scotia,262,0
+Jan-22,Ontario,0,0
+Jan-23,Ontario,0,0
+Jan-24,Ontario,0,0
+Jan-25,Ontario,0,0
+Jan-26,Ontario,1,0
+Jan-27,Ontario,1,0
+Jan-28,Ontario,1,0
+Jan-29,Ontario,1,0
+Jan-30,Ontario,1,0
+Jan-31,Ontario,3,0
+Feb-01,Ontario,3,0
+Feb-02,Ontario,3,0
+Feb-03,Ontario,3,0
+Feb-04,Ontario,3,0
+Feb-05,Ontario,3,0
+Feb-06,Ontario,3,0
+Feb-07,Ontario,3,0
+Feb-08,Ontario,3,0
+Feb-09,Ontario,3,0
+Feb-10,Ontario,3,0
+Feb-11,Ontario,3,0
+Feb-12,Ontario,3,0
+Feb-13,Ontario,3,0
+Feb-14,Ontario,3,0
+Feb-15,Ontario,3,0
+Feb-16,Ontario,3,0
+Feb-17,Ontario,3,0
+Feb-18,Ontario,3,0
+Feb-19,Ontario,3,0
+Feb-20,Ontario,3,0
+Feb-21,Ontario,3,0
+Feb-22,Ontario,3,0
+Feb-23,Ontario,3,0
+Feb-24,Ontario,4,0
+Feb-25,Ontario,4,0
+Feb-26,Ontario,4,0
+Feb-27,Ontario,6,0
+Feb-28,Ontario,6,0
+Feb-29,Ontario,11,0
+Mar-01,Ontario,15,0
+Mar-02,Ontario,18,0
+Mar-03,Ontario,20,0
+Mar-04,Ontario,20,0
+Mar-05,Ontario,22,0
+Mar-06,Ontario,25,0
+Mar-07,Ontario,28,0
+Mar-08,Ontario,29,0
+Mar-09,Ontario,34,0
+Mar-10,Ontario,36,0
+Mar-11,Ontario,41,0
+Mar-12,Ontario,42,0
+Mar-13,Ontario,74,0
+Mar-14,Ontario,79,0
+Mar-15,Ontario,104,0
+Mar-16,Ontario,177,0
+Mar-17,Ontario,185,1
+Mar-18,Ontario,221,1
+Mar-19,Ontario,257,1
+Mar-20,Ontario,308,2
+Mar-21,Ontario,377,3
+Mar-22,Ontario,425,5
+Mar-23,Ontario,503,6
+Mar-24,Ontario,588,7
+Mar-25,Ontario,688,8
+Mar-26,Ontario,858,13
+Mar-27,Ontario,994,18
+Mar-28,Ontario,1144,18
+Mar-29,Ontario,1355,21
+Mar-30,Ontario,1706,31
+Mar-31,Ontario,1966,33
+Apr-01,Ontario,2392,37
+Apr-02,Ontario,2793,53
+Apr-03,Ontario,3255,67
+Apr-04,Ontario,3630,94
+Apr-05,Ontario,4354,119
+Jan-22,Prince Edward Island,0,0
+Jan-23,Prince Edward Island,0,0
+Jan-24,Prince Edward Island,0,0
+Jan-25,Prince Edward Island,0,0
+Jan-26,Prince Edward Island,0,0
+Jan-27,Prince Edward Island,0,0
+Jan-28,Prince Edward Island,0,0
+Jan-29,Prince Edward Island,0,0
+Jan-30,Prince Edward Island,0,0
+Jan-31,Prince Edward Island,0,0
+Feb-01,Prince Edward Island,0,0
+Feb-02,Prince Edward Island,0,0
+Feb-03,Prince Edward Island,0,0
+Feb-04,Prince Edward Island,0,0
+Feb-05,Prince Edward Island,0,0
+Feb-06,Prince Edward Island,0,0
+Feb-07,Prince Edward Island,0,0
+Feb-08,Prince Edward Island,0,0
+Feb-09,Prince Edward Island,0,0
+Feb-10,Prince Edward Island,0,0
+Feb-11,Prince Edward Island,0,0
+Feb-12,Prince Edward Island,0,0
+Feb-13,Prince Edward Island,0,0
+Feb-14,Prince Edward Island,0,0
+Feb-15,Prince Edward Island,0,0
+Feb-16,Prince Edward Island,0,0
+Feb-17,Prince Edward Island,0,0
+Feb-18,Prince Edward Island,0,0
+Feb-19,Prince Edward Island,0,0
+Feb-20,Prince Edward Island,0,0
+Feb-21,Prince Edward Island,0,0
+Feb-22,Prince Edward Island,0,0
+Feb-23,Prince Edward Island,0,0
+Feb-24,Prince Edward Island,0,0
+Feb-25,Prince Edward Island,0,0
+Feb-26,Prince Edward Island,0,0
+Feb-27,Prince Edward Island,0,0
+Feb-28,Prince Edward Island,0,0
+Feb-29,Prince Edward Island,0,0
+Mar-01,Prince Edward Island,0,0
+Mar-02,Prince Edward Island,0,0
+Mar-03,Prince Edward Island,0,0
+Mar-04,Prince Edward Island,0,0
+Mar-05,Prince Edward Island,0,0
+Mar-06,Prince Edward Island,0,0
+Mar-07,Prince Edward Island,0,0
+Mar-08,Prince Edward Island,0,0
+Mar-09,Prince Edward Island,0,0
+Mar-10,Prince Edward Island,0,0
+Mar-11,Prince Edward Island,0,0
+Mar-12,Prince Edward Island,0,0
+Mar-13,Prince Edward Island,0,0
+Mar-14,Prince Edward Island,0,0
+Mar-15,Prince Edward Island,1,0
+Mar-16,Prince Edward Island,1,0
+Mar-17,Prince Edward Island,1,0
+Mar-18,Prince Edward Island,1,0
+Mar-19,Prince Edward Island,2,0
+Mar-20,Prince Edward Island,2,0
+Mar-21,Prince Edward Island,2,0
+Mar-22,Prince Edward Island,3,0
+Mar-23,Prince Edward Island,3,0
+Mar-24,Prince Edward Island,3,0
+Mar-25,Prince Edward Island,5,0
+Mar-26,Prince Edward Island,5,0
+Mar-27,Prince Edward Island,9,0
+Mar-28,Prince Edward Island,11,0
+Mar-29,Prince Edward Island,11,0
+Mar-30,Prince Edward Island,18,0
+Mar-31,Prince Edward Island,21,0
+Apr-01,Prince Edward Island,21,0
+Apr-02,Prince Edward Island,22,0
+Apr-03,Prince Edward Island,22,0
+Apr-04,Prince Edward Island,22,0
+Apr-05,Prince Edward Island,22,0
+Jan-22,Quebec,0,0
+Jan-23,Quebec,0,0
+Jan-24,Quebec,0,0
+Jan-25,Quebec,0,0
+Jan-26,Quebec,0,0
+Jan-27,Quebec,0,0
+Jan-28,Quebec,0,0
+Jan-29,Quebec,0,0
+Jan-30,Quebec,0,0
+Jan-31,Quebec,0,0
+Feb-01,Quebec,0,0
+Feb-02,Quebec,0,0
+Feb-03,Quebec,0,0
+Feb-04,Quebec,0,0
+Feb-05,Quebec,0,0
+Feb-06,Quebec,0,0
+Feb-07,Quebec,0,0
+Feb-08,Quebec,0,0
+Feb-09,Quebec,0,0
+Feb-10,Quebec,0,0
+Feb-11,Quebec,0,0
+Feb-12,Quebec,0,0
+Feb-13,Quebec,0,0
+Feb-14,Quebec,0,0
+Feb-15,Quebec,0,0
+Feb-16,Quebec,0,0
+Feb-17,Quebec,0,0
+Feb-18,Quebec,0,0
+Feb-19,Quebec,0,0
+Feb-20,Quebec,0,0
+Feb-21,Quebec,0,0
+Feb-22,Quebec,0,0
+Feb-23,Quebec,0,0
+Feb-24,Quebec,0,0
+Feb-25,Quebec,0,0
+Feb-26,Quebec,0,0
+Feb-27,Quebec,0,0
+Feb-28,Quebec,1,0
+Feb-29,Quebec,1,0
+Mar-01,Quebec,1,0
+Mar-02,Quebec,1,0
+Mar-03,Quebec,1,0
+Mar-04,Quebec,1,0
+Mar-05,Quebec,2,0
+Mar-06,Quebec,2,0
+Mar-07,Quebec,3,0
+Mar-08,Quebec,4,0
+Mar-09,Quebec,4,0
+Mar-10,Quebec,4,0
+Mar-11,Quebec,8,0
+Mar-12,Quebec,9,0
+Mar-13,Quebec,17,0
+Mar-14,Quebec,17,0
+Mar-15,Quebec,24,0
+Mar-16,Quebec,50,0
+Mar-17,Quebec,74,0
+Mar-18,Quebec,94,0
+Mar-19,Quebec,121,1
+Mar-20,Quebec,139,1
+Mar-21,Quebec,181,5
+Mar-22,Quebec,219,4
+Mar-23,Quebec,628,4
+Mar-24,Quebec,1013,4
+Mar-25,Quebec,1342,6
+Mar-26,Quebec,1632,8
+Mar-27,Quebec,2024,18
+Mar-28,Quebec,2498,22
+Mar-29,Quebec,2840,22
+Mar-30,Quebec,3430,22
+Mar-31,Quebec,4162,31
+Apr-01,Quebec,4611,33
+Apr-02,Quebec,5518,36
+Apr-03,Quebec,6101,61
+Apr-04,Quebec,6101,61
+Apr-05,Quebec,7944,75
+Jan-22,Saskatchewan,0,0
+Jan-23,Saskatchewan,0,0
+Jan-24,Saskatchewan,0,0
+Jan-25,Saskatchewan,0,0
+Jan-26,Saskatchewan,0,0
+Jan-27,Saskatchewan,0,0
+Jan-28,Saskatchewan,0,0
+Jan-29,Saskatchewan,0,0
+Jan-30,Saskatchewan,0,0
+Jan-31,Saskatchewan,0,0
+Feb-01,Saskatchewan,0,0
+Feb-02,Saskatchewan,0,0
+Feb-03,Saskatchewan,0,0
+Feb-04,Saskatchewan,0,0
+Feb-05,Saskatchewan,0,0
+Feb-06,Saskatchewan,0,0
+Feb-07,Saskatchewan,0,0
+Feb-08,Saskatchewan,0,0
+Feb-09,Saskatchewan,0,0
+Feb-10,Saskatchewan,0,0
+Feb-11,Saskatchewan,0,0
+Feb-12,Saskatchewan,0,0
+Feb-13,Saskatchewan,0,0
+Feb-14,Saskatchewan,0,0
+Feb-15,Saskatchewan,0,0
+Feb-16,Saskatchewan,0,0
+Feb-17,Saskatchewan,0,0
+Feb-18,Saskatchewan,0,0
+Feb-19,Saskatchewan,0,0
+Feb-20,Saskatchewan,0,0
+Feb-21,Saskatchewan,0,0
+Feb-22,Saskatchewan,0,0
+Feb-23,Saskatchewan,0,0
+Feb-24,Saskatchewan,0,0
+Feb-25,Saskatchewan,0,0
+Feb-26,Saskatchewan,0,0
+Feb-27,Saskatchewan,0,0
+Feb-28,Saskatchewan,0,0
+Feb-29,Saskatchewan,0,0
+Mar-01,Saskatchewan,0,0
+Mar-02,Saskatchewan,0,0
+Mar-03,Saskatchewan,0,0
+Mar-04,Saskatchewan,0,0
+Mar-05,Saskatchewan,0,0
+Mar-06,Saskatchewan,0,0
+Mar-07,Saskatchewan,0,0
+Mar-08,Saskatchewan,0,0
+Mar-09,Saskatchewan,0,0
+Mar-10,Saskatchewan,0,0
+Mar-11,Saskatchewan,0,0
+Mar-12,Saskatchewan,0,0
+Mar-13,Saskatchewan,2,0
+Mar-14,Saskatchewan,2,0
+Mar-15,Saskatchewan,2,0
+Mar-16,Saskatchewan,7,0
+Mar-17,Saskatchewan,7,0
+Mar-18,Saskatchewan,8,0
+Mar-19,Saskatchewan,16,0
+Mar-20,Saskatchewan,20,0
+Mar-21,Saskatchewan,26,0
+Mar-22,Saskatchewan,52,0
+Mar-23,Saskatchewan,66,0
+Mar-24,Saskatchewan,72,0
+Mar-25,Saskatchewan,72,0
+Mar-26,Saskatchewan,95,0
+Mar-27,Saskatchewan,95,0
+Mar-28,Saskatchewan,134,0
+Mar-29,Saskatchewan,156,0
+Mar-30,Saskatchewan,156,2
+Mar-31,Saskatchewan,184,2
+Apr-01,Saskatchewan,193,3
+Apr-02,Saskatchewan,206,3
+Apr-03,Saskatchewan,220,3
+Apr-04,Saskatchewan,220,3
+Apr-05,Saskatchewan,249,3
+Jan-22,Repartriated Canadians,0,0
+Jan-23,Repartriated Canadians,0,0
+Jan-24,Repartriated Canadians,0,0
+Jan-25,Repartriated Canadians,0,0
+Jan-26,Repartriated Canadians,0,0
+Jan-27,Repartriated Canadians,0,0
+Jan-28,Repartriated Canadians,0,0
+Jan-29,Repartriated Canadians,0,0
+Jan-30,Repartriated Canadians,0,0
+Jan-31,Repartriated Canadians,0,0
+Feb-01,Repartriated Canadians,0,0
+Feb-02,Repartriated Canadians,0,0
+Feb-03,Repartriated Canadians,0,0
+Feb-04,Repartriated Canadians,0,0
+Feb-05,Repartriated Canadians,0,0
+Feb-06,Repartriated Canadians,0,0
+Feb-07,Repartriated Canadians,0,0
+Feb-08,Repartriated Canadians,0,0
+Feb-09,Repartriated Canadians,0,0
+Feb-10,Repartriated Canadians,0,0
+Feb-11,Repartriated Canadians,0,0
+Feb-12,Repartriated Canadians,0,0
+Feb-13,Repartriated Canadians,0,0
+Feb-14,Repartriated Canadians,0,0
+Feb-15,Repartriated Canadians,0,0
+Feb-16,Repartriated Canadians,0,0
+Feb-17,Repartriated Canadians,0,0
+Feb-18,Repartriated Canadians,0,0
+Feb-19,Repartriated Canadians,0,0
+Feb-20,Repartriated Canadians,0,0
+Feb-21,Repartriated Canadians,0,0
+Feb-22,Repartriated Canadians,0,0
+Feb-23,Repartriated Canadians,0,0
+Feb-24,Repartriated Canadians,0,0
+Feb-25,Repartriated Canadians,0,0
+Feb-26,Repartriated Canadians,0,0
+Feb-27,Repartriated Canadians,0,0
+Feb-28,Repartriated Canadians,0,0
+Feb-29,Repartriated Canadians,0,0
+Mar-01,Repartriated Canadians,0,0
+Mar-02,Repartriated Canadians,0,0
+Mar-03,Repartriated Canadians,0,0
+Mar-04,Repartriated Canadians,0,0
+Mar-05,Repartriated Canadians,0,0
+Mar-06,Repartriated Canadians,0,0
+Mar-07,Repartriated Canadians,0,0
+Mar-08,Repartriated Canadians,0,0
+Mar-09,Repartriated Canadians,0,0
+Mar-10,Repartriated Canadians,0,0
+Mar-11,Repartriated Canadians,0,0
+Mar-12,Repartriated Canadians,0,0
+Mar-13,Repartriated Canadians,2,0
+Mar-14,Repartriated Canadians,2,0
+Mar-15,Repartriated Canadians,2,0
+Mar-16,Repartriated Canadians,2,0
+Mar-17,Repartriated Canadians,8,0
+Mar-18,Repartriated Canadians,9,0
+Mar-19,Repartriated Canadians,9,0
+Mar-20,Repartriated Canadians,10,0
+Mar-21,Repartriated Canadians,10,0
+Mar-22,Repartriated Canadians,13,1
+Mar-23,Repartriated Canadians,13,1
+Mar-24,Repartriated Canadians,13,1
+Mar-25,Repartriated Canadians,13,1
+Mar-26,Repartriated Canadians,13,1
+Mar-27,Repartriated Canadians,13,1
+Mar-28,Repartriated Canadians,13,1
+Mar-29,Repartriated Canadians,13,1
+Mar-30,Repartriated Canadians,13,1
+Mar-31,Repartriated Canadians,13,1
+Apr-01,Repartriated Canadians,13,1
+Apr-02,Repartriated Canadians,13,1
+Apr-03,Repartriated Canadians,13,1
+Apr-04,Repartriated Canadians,13,1
+Apr-05,Repartriated Canadians,13,1
+Jan-22,Canada,0,0
+Jan-23,Canada,0,0
+Jan-24,Canada,0,0
+Jan-25,Canada,0,0
+Jan-26,Canada,1,0
+Jan-27,Canada,1,0
+Jan-28,Canada,2,0
+Jan-29,Canada,2,0
+Jan-30,Canada,2,0
+Jan-31,Canada,4,0
+Feb-01,Canada,4,0
+Feb-02,Canada,4,0
+Feb-03,Canada,4,0
+Feb-04,Canada,4,0
+Feb-05,Canada,5,0
+Feb-06,Canada,5,0
+Feb-07,Canada,7,0
+Feb-08,Canada,7,0
+Feb-09,Canada,7,0
+Feb-10,Canada,7,0
+Feb-11,Canada,7,0
+Feb-12,Canada,7,0
+Feb-13,Canada,7,0
+Feb-14,Canada,7,0
+Feb-15,Canada,7,0
+Feb-16,Canada,7,0
+Feb-17,Canada,8,0
+Feb-18,Canada,8,0
+Feb-19,Canada,8,0
+Feb-20,Canada,8,0
+Feb-21,Canada,9,0
+Feb-22,Canada,9,0
+Feb-23,Canada,9,0
+Feb-24,Canada,10,0
+Feb-25,Canada,11,0
+Feb-26,Canada,11,0
+Feb-27,Canada,13,0
+Feb-28,Canada,14,0
+Feb-29,Canada,20,0
+Mar-01,Canada,24,0
+Mar-02,Canada,27,0
+Mar-03,Canada,30,0
+Mar-04,Canada,33,0
+Mar-05,Canada,37,0
+Mar-06,Canada,49,0
+Mar-07,Canada,54,0
+Mar-08,Canada,64,0
+Mar-09,Canada,77,1
+Mar-10,Canada,79,1
+Mar-11,Canada,108,1
+Mar-12,Canada,117,1
+Mar-13,Canada,193,1
+Mar-14,Canada,198,1
+Mar-15,Canada,252,1
+Mar-16,Canada,415,4
+Mar-17,Canada,478,5
+Mar-18,Canada,657,8
+Mar-19,Canada,800,9
+Mar-20,Canada,943,12
+Mar-21,Canada,1277,19
+Mar-22,Canada,1469,21
+Mar-23,Canada,2088,25
+Mar-24,Canada,2790,26
+Mar-25,Canada,3251,30
+Mar-26,Canada,4042,38
+Mar-27,Canada,4682,54
+Mar-28,Canada,5576,61
+Mar-29,Canada,6280,64
+Mar-30,Canada,7398,80
+Mar-31,Canada,8527,101
+Apr-01,Canada,9560,109
+Apr-02,Canada,11284,139
+Apr-03,Canada,12437,179
+Apr-04,Canada,12978,218
+Apr-05,Canada,15756,259
