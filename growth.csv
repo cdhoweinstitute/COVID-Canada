@@ -73,7 +73,7 @@ Mar-21,Alberta,49,0
 Mar-22,Alberta,64,0
 Mar-23,Alberta,42,0
 Mar-24,Alberta,58,0
-Mar-25,Alberta,-1,1
+Mar-25,Alberta,0,1
 Mar-26,Alberta,128,0
 Mar-27,Alberta,56,0
 Mar-28,Alberta,0,0
@@ -541,7 +541,7 @@ Apr-02,Ontario,401,16
 Apr-03,Ontario,462,14
 Apr-04,Ontario,375,27
 Apr-05,Ontario,724,25
-Apr-06,Ontario,-7,31
+Apr-06,Ontario,0,31
 Apr-07,Ontario,379,3
 Jan-23,Prince Edward Island,0,0
 Jan-24,Prince Edward Island,0,0
@@ -678,7 +678,7 @@ Mar-18,Quebec,20,0
 Mar-19,Quebec,27,1
 Mar-20,Quebec,18,0
 Mar-21,Quebec,42,4
-Mar-22,Quebec,38,-1
+Mar-22,Quebec,38,0
 Mar-23,Quebec,409,0
 Mar-24,Quebec,385,0
 Mar-25,Quebec,329,2
