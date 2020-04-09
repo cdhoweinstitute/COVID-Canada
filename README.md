@@ -21,7 +21,7 @@ This file contains weekly refinery runs by refinery in the three Canadian region
 This file provides monthly import and export container shipments for the Port of Vancouver.
 
 ## elec.csv
-This file provides daily updated power demand in Ontario, Alberta, and soon-to-be British Colombia. Note the date is up to date as of the previous date, so there is also a one day lag. Data is colleced from the Independent Electricity Systems Operator and the Alberta Electricity Systems Operator.
+This file provides daily updated power demand in Ontario, Alberta, and British Colombia. Note the date is up to date as of the previous date, so there is also a one day lag. Data is colleced from the Independent Electricity Systems Operator and the Alberta Electricity Systems Operator, and BC Hydro.
 
 ## new-vehicles.csv
 This file provides monthly updated data on the sale of motor vehicles in Canada, by type of vehicle as per the Marklines Automotive Industry Portal.
