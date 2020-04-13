@@ -103,8 +103,8 @@ Week 15-Tuesday,Ontario,333929,368635,355542,312688
 Week 15-Wednesday,Ontario,348375,369796,358505,312800
 Week 15-Thursday,Ontario,338111,366742,368446,309055
 Week 15-Friday,Ontario,287957,366099,350688,293993
-Week 15-Saturday,Ontario,296341,363082,309335,null
-Week 16 (Apr-12),Ontario,284922,367733,337231,null
+Week 15-Saturday,Ontario,296341,363082,309335,291919
+Week 16 (Apr-12),Ontario,284922,367733,337231,294426
 Week 16-Monday,Ontario,326999,382648,355472,null
 Week 16-Tuesday,Ontario,333343,374369,358985,null
 Week 16-Wednesday,Ontario,341462,371192,340041,null
@@ -236,8 +236,8 @@ Week 15-Tuesday,Alberta,215825,225763,224666,226923
 Week 15-Wednesday,Alberta,215731,227864,226020,225747
 Week 15-Thursday,Alberta,216450,229508,226310,221066
 Week 15-Friday,Alberta,207365,223628,224876,216904
-Week 15-Saturday,Alberta,205748,214002,219756,null
-Week 16 (Apr-12),Alberta,204249,215722,221105,null
+Week 15-Saturday,Alberta,205748,214002,219756,220103
+Week 16 (Apr-12),Alberta,204249,215722,221105,221306
 Week 16-Monday,Alberta,213148,228797,226971,null
 Week 16-Tuesday,Alberta,215587,223653,226284,null
 Week 16-Wednesday,Alberta,212415,219472,223849,null
@@ -366,7 +366,7 @@ Week 14-Saturday,British Colombia,168082,168915,164323,176229
 Week 15 (Apr-05),British Colombia,165503,164575,160866,170670
 Week 15-Monday,British Colombia,175862,169026,172361,172377
 Week 15-Tuesday,British Colombia,172418,168670,168578,167908
-Week 15-Wednesday,British Colombia,173333,172648,171136,null
+Week 15-Wednesday,British Colombia,173333,172648,171136,168354
 Week 15-Thursday,British Colombia,172261,170302,174940,null
 Week 15-Friday,British Colombia,162210,174552,169942,null
 Week 15-Saturday,British Colombia,160620,161198,165898,null
