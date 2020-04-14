@@ -81,6 +81,7 @@ Apr-09,Alberta,1423,29
 Apr-10,Alberta,1451,32
 Apr-11,Alberta,1567,40
 Apr-12,Alberta,1567,40
+Apr-13,Alberta,1732,46
 Jan-22,British Columbia,0,0
 Jan-23,British Columbia,0,0
 Jan-24,British Columbia,0,0
@@ -163,6 +164,7 @@ Apr-09,British Columbia,1336,48
 Apr-10,British Columbia,1370,50
 Apr-11,British Columbia,1445,58
 Apr-12,British Columbia,1445,58
+Apr-13,British Columbia,1490,69
 Jan-22,Manitoba,0,0
 Jan-23,Manitoba,0,0
 Jan-24,Manitoba,0,0
@@ -245,6 +247,7 @@ Apr-09,Manitoba,221,3
 Apr-10,Manitoba,230,3
 Apr-11,Manitoba,243,4
 Apr-12,Manitoba,242,4
+Apr-13,Manitoba,246,4
 Jan-22,New Brunswick,0,0
 Jan-23,New Brunswick,0,0
 Jan-24,New Brunswick,0,0
@@ -327,6 +330,7 @@ Apr-09,New Brunswick,108,0
 Apr-10,New Brunswick,112,0
 Apr-11,New Brunswick,112,0
 Apr-12,New Brunswick,114,0
+Apr-13,New Brunswick,116,0
 Jan-22,Newfoundland and Labrador,0,0
 Jan-23,Newfoundland and Labrador,0,0
 Jan-24,Newfoundland and Labrador,0,0
@@ -409,6 +413,7 @@ Apr-09,Newfoundland and Labrador,232,2
 Apr-10,Newfoundland and Labrador,239,3
 Apr-11,Newfoundland and Labrador,241,3
 Apr-12,Newfoundland and Labrador,242,3
+Apr-13,Newfoundland and Labrador,244,3
 Jan-22,Nova Scotia,0,0
 Jan-23,Nova Scotia,0,0
 Jan-24,Nova Scotia,0,0
@@ -491,6 +496,7 @@ Apr-09,Nova Scotia,342,1
 Apr-10,Nova Scotia,407,2
 Apr-11,Nova Scotia,428,2
 Apr-12,Nova Scotia,445,2
+Apr-13,Nova Scotia,474,3
 Jan-22,Ontario,0,0
 Jan-23,Ontario,0,0
 Jan-24,Ontario,0,0
@@ -573,6 +579,7 @@ Apr-09,Ontario,5759,200
 Apr-10,Ontario,6237,222
 Apr-11,Ontario,6648,253
 Apr-12,Ontario,7049,274
+Apr-13,Ontario,7470,291
 Jan-22,Prince Edward Island,0,0
 Jan-23,Prince Edward Island,0,0
 Jan-24,Prince Edward Island,0,0
@@ -655,6 +662,7 @@ Apr-09,Prince Edward Island,25,0
 Apr-10,Prince Edward Island,25,0
 Apr-11,Prince Edward Island,25,0
 Apr-12,Prince Edward Island,25,0
+Apr-13,Prince Edward Island,25,0
 Jan-22,Quebec,0,0
 Jan-23,Quebec,0,0
 Jan-24,Quebec,0,0
@@ -737,6 +745,7 @@ Apr-09,Quebec,10912,216
 Apr-10,Quebec,11677,241
 Apr-11,Quebec,12292,289
 Apr-12,Quebec,12846,328
+Apr-13,Quebec,13557,360
 Jan-22,Saskatchewan,0,0
 Jan-23,Saskatchewan,0,0
 Jan-24,Saskatchewan,0,0
@@ -819,6 +828,7 @@ Apr-09,Saskatchewan,271,3
 Apr-10,Saskatchewan,285,3
 Apr-11,Saskatchewan,289,4
 Apr-12,Saskatchewan,298,4
+Apr-13,Saskatchewan,300,4
 Jan-22,Repartriated Canadians,0,0
 Jan-23,Repartriated Canadians,0,0
 Jan-24,Repartriated Canadians,0,0
@@ -901,6 +911,7 @@ Apr-09,Repartriated Canadians,13,1
 Apr-10,Repartriated Canadians,13,1
 Apr-11,Repartriated Canadians,13,1
 Apr-12,Repartriated Canadians,12,1
+Apr-13,Repartriated Canadians,12,-1
 Jan-22,Canada,0,0
 Jan-23,Canada,0,0
 Jan-24,Canada,0,0
@@ -983,3 +994,4 @@ Apr-09,Canada,20654,503
 Apr-10,Canada,22059,557
 Apr-11,Canada,23316,654
 Apr-12,Canada,24298,714
+Apr-13,Canada,25679,779
