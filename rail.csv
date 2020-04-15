@@ -13,7 +13,7 @@ Chemicals,Week 11 (Mar-08),12773,12326,12807
 Chemicals,Week 12 (Mar-15),12390,12179,13528
 Chemicals,Week 13 (Mar-22),12201,13751,13088
 Chemicals,Week 14 (Mar-29),11762,13021,12721
-Chemicals,Week 15 (Apr-05),12500,12275,null
+Chemicals,Week 15 (Apr-05),12500,12275,11919
 Chemicals,Week 16 (Apr-12),12130,12664,null
 Coal,Week 1 (Dec-29),6512,7691,7045
 Coal,Week 2 (Jan-05),6535,7777,7423
@@ -29,7 +29,7 @@ Coal,Week 11 (Mar-08),7454,7357,7963
 Coal,Week 12 (Mar-15),7923,8303,7892
 Coal,Week 13 (Mar-22),8150,7848,7703
 Coal,Week 14 (Mar-29),9071,8100,7105
-Coal,Week 15 (Apr-05),8923,8031,null
+Coal,Week 15 (Apr-05),8923,8031,6820
 Coal,Week 16 (Apr-12),8222,7564,null
 "Farm Products excl. Grain, and Food",Week 1 (Dec-29),6814,6957,8451
 "Farm Products excl. Grain, and Food",Week 2 (Jan-05),6229,6977,6882
@@ -45,7 +45,7 @@ Coal,Week 16 (Apr-12),8222,7564,null
 "Farm Products excl. Grain, and Food",Week 12 (Mar-15),7043,7142,9020
 "Farm Products excl. Grain, and Food",Week 13 (Mar-22),7398,7154,9070
 "Farm Products excl. Grain, and Food",Week 14 (Mar-29),8118,7517,7042
-"Farm Products excl. Grain, and Food",Week 15 (Apr-05),8034,7158,null
+"Farm Products excl. Grain, and Food",Week 15 (Apr-05),8034,7158,8343
 "Farm Products excl. Grain, and Food",Week 16 (Apr-12),7707,7098,null
 Forest Products,Week 1 (Dec-29),6017,5307,5369
 Forest Products,Week 2 (Jan-05),7011,7018,6573
@@ -61,7 +61,7 @@ Forest Products,Week 11 (Mar-08),7045,7066,6582
 Forest Products,Week 12 (Mar-15),7760,7519,6985
 Forest Products,Week 13 (Mar-22),7399,7495,7033
 Forest Products,Week 14 (Mar-29),7370,7790,6682
-Forest Products,Week 15 (Apr-05),7907,7907,null
+Forest Products,Week 15 (Apr-05),7907,7907,6695
 Forest Products,Week 16 (Apr-12),7743,7433,null
 Grain,Week 1 (Dec-29),6557,7304,6729
 Grain,Week 2 (Jan-05),7362,8054,8158
@@ -77,7 +77,7 @@ Grain,Week 11 (Mar-08),8104,7861,7662
 Grain,Week 12 (Mar-15),9160,8592,7661
 Grain,Week 13 (Mar-22),8612,9353,8881
 Grain,Week 14 (Mar-29),8897,11290,10339
-Grain,Week 15 (Apr-05),9141,11444,null
+Grain,Week 15 (Apr-05),9141,11444,10898
 Grain,Week 16 (Apr-12),9028,10184,null
 Metallic Ores and Metals,Week 1 (Dec-29),12419,15872,15333
 Metallic Ores and Metals,Week 2 (Jan-05),14939,16074,14031
@@ -93,7 +93,7 @@ Metallic Ores and Metals,Week 11 (Mar-08),14794,16051,16249
 Metallic Ores and Metals,Week 12 (Mar-15),15299,15528,15796
 Metallic Ores and Metals,Week 13 (Mar-22),15662,15443,16942
 Metallic Ores and Metals,Week 14 (Mar-29),14930,15318,14741
-Metallic Ores and Metals,Week 15 (Apr-05),15550,14399,null
+Metallic Ores and Metals,Week 15 (Apr-05),15550,14399,14242
 Metallic Ores and Metals,Week 16 (Apr-12),14315,14501,null
 Motor Vehicles and Parts,Week 1 (Dec-29),3485,3767,2426
 Motor Vehicles and Parts,Week 2 (Jan-05),4844,5391,4557
@@ -109,7 +109,7 @@ Motor Vehicles and Parts,Week 11 (Mar-08),5688,5170,5900
 Motor Vehicles and Parts,Week 12 (Mar-15),5878,5696,5158
 Motor Vehicles and Parts,Week 13 (Mar-22),5352,5759,1625
 Motor Vehicles and Parts,Week 14 (Mar-29),5726,5669,1043
-Motor Vehicles and Parts,Week 15 (Apr-05),5948,6156,null
+Motor Vehicles and Parts,Week 15 (Apr-05),5948,6156,807
 Motor Vehicles and Parts,Week 16 (Apr-12),5617,5246,null
 Nonmetallic Minerals,Week 1 (Dec-29),5610,4976,5336
 Nonmetallic Minerals,Week 2 (Jan-05),6612,6956,5827
@@ -125,7 +125,7 @@ Nonmetallic Minerals,Week 11 (Mar-08),7026,6583,6219
 Nonmetallic Minerals,Week 12 (Mar-15),7902,6875,6046
 Nonmetallic Minerals,Week 13 (Mar-22),7586,7222,5507
 Nonmetallic Minerals,Week 14 (Mar-29),7768,8149,4787
-Nonmetallic Minerals,Week 15 (Apr-05),7885,6868,null
+Nonmetallic Minerals,Week 15 (Apr-05),7885,6868,5350
 Nonmetallic Minerals,Week 16 (Apr-12),6917,7415,null
 Other,Week 1 (Dec-29),1455,1113,1322
 Other,Week 2 (Jan-05),1124,1609,1793
@@ -141,7 +141,7 @@ Other,Week 11 (Mar-08),1384,1138,1551
 Other,Week 12 (Mar-15),1851,1418,1592
 Other,Week 13 (Mar-22),1570,1349,1220
 Other,Week 14 (Mar-29),1627,1878,1645
-Other,Week 15 (Apr-05),1618,1408,null
+Other,Week 15 (Apr-05),1618,1408,1240
 Other,Week 16 (Apr-12),1660,1878,null
 Petroleum and Petroleum Products,Week 1 (Dec-29),7587,11524,12540
 Petroleum and Petroleum Products,Week 2 (Jan-05),7961,11329,12793
@@ -157,7 +157,7 @@ Petroleum and Petroleum Products,Week 11 (Mar-08),7941,8949,10468
 Petroleum and Petroleum Products,Week 12 (Mar-15),7505,9456,10276
 Petroleum and Petroleum Products,Week 13 (Mar-22),8010,9051,8706
 Petroleum and Petroleum Products,Week 14 (Mar-29),7952,9837,7736
-Petroleum and Petroleum Products,Week 15 (Apr-05),7276,9139,null
+Petroleum and Petroleum Products,Week 15 (Apr-05),7276,9139,7242
 Petroleum and Petroleum Products,Week 16 (Apr-12),7188,9085,null
 Total Carloads,Week 1 (Dec-29),66985,76698,75918
 Total Carloads,Week 2 (Jan-05),74596,84517,79508
@@ -173,7 +173,7 @@ Total Carloads,Week 11 (Mar-08),79311,79303,84612
 Total Carloads,Week 12 (Mar-15),82708,82708,83954
 Total Carloads,Week 13 (Mar-22),81966,84425,79775
 Total Carloads,Week 14 (Mar-29),83242,88569,73841
-Total Carloads,Week 15 (Apr-05),84785,84785,null
+Total Carloads,Week 15 (Apr-05),84785,84785,73556
 Total Carloads,Week 16 (Apr-12),83068,83068,null
 Total Intermodal Units,Week 1 (Dec-29),52436,54166,56430
 Total Intermodal Units,Week 2 (Jan-05),63360,72357,69486
@@ -189,7 +189,7 @@ Total Intermodal Units,Week 11 (Mar-08),68631,69935,60886
 Total Intermodal Units,Week 12 (Mar-15),70882,71236,61041
 Total Intermodal Units,Week 13 (Mar-22),68913,72703,61259
 Total Intermodal Units,Week 14 (Mar-29),69166,72970,63604
-Total Intermodal Units,Week 15 (Apr-05),67186,74039,null
+Total Intermodal Units,Week 15 (Apr-05),67186,74039,66088
 Total Intermodal Units,Week 16 (Apr-12),63947,70789,null
 Total Traffic,Week 1 (Dec-29),119401,130864,132348
 Total Traffic,Week 2 (Jan-05),137972,156874,148994
@@ -205,5 +205,5 @@ Total Traffic,Week 11 (Mar-08),147907,149238,145498
 Total Traffic,Week 12 (Mar-15),153637,153944,144995
 Total Traffic,Week 13 (Mar-22),150795,157128,141034
 Total Traffic,Week 14 (Mar-29),152395,161539,137445
-Total Traffic,Week 15 (Apr-05),151985,158824,null
+Total Traffic,Week 15 (Apr-05),151985,158824,139644
 Total Traffic,Week 16 (Apr-12),144467,153857,null
