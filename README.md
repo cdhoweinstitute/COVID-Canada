@@ -28,3 +28,6 @@ This file provides monthly updated data on the sale of motor vehicles in Canada,
 
 ## rail.csv
 This file provides weekly updated data on rail shipments in Canada, by type of product as per the American Railroad Association.
+
+## Visualization/Data Use
+This data can be seen live at http://dashboard.cdhowe.org
