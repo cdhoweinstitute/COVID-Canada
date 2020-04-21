@@ -245,7 +245,7 @@ Week 16-Thursday,Alberta,213520.0,220826.0,223765.0,216937.0
 Week 16-Friday,Alberta,214683.0,218142.0,216418.0,216713.0
 Week 16-Saturday,Alberta,208259.0,213963.0,217022.0,210202.0
 Week 17 (Apr-19),Alberta,208208.0,212933.0,215254.0,207926.0
-Week 17-Monday,Alberta,214994.0,219825.0,222417.0,null
+Week 17-Monday,Alberta,214994.0,219825.0,222417.0,213762.0
 Week 17-Tuesday,Alberta,215366.0,217039.0,224249.0,null
 Week 17-Wednesday,Alberta,216845.0,217261.0,224654.0,null
 Week 17-Thursday,Alberta,215617.0,217173.0,224395.0,null
@@ -375,9 +375,9 @@ Week 16-Monday,British Colombia,168654.0,173330,170542,162070
 Week 16-Tuesday,British Colombia,168730.0,166188,171469,159588
 Week 16-Wednesday,British Colombia,168571.0,166026,166777,156052
 Week 16-Thursday,British Colombia,166488.0,164657,167452,155888
-Week 16-Friday,British Colombia,162779.0,163872,154150,null
-Week 16-Saturday,British Colombia,153580.0,153289,150510,null
-Week 17 (Apr-19),British Colombia,154256.0,153173,150242,null
+Week 16-Friday,British Colombia,162779.0,163872,154150,154156
+Week 16-Saturday,British Colombia,153580.0,153289,150510,145541
+Week 17 (Apr-19),British Colombia,154256.0,153173,150242,143594
 Week 17-Monday,British Colombia,164174.0,161138,162685,null
 Week 17-Tuesday,British Colombia,161385.0,156902,159593,null
 Week 17-Wednesday,British Colombia,160494.0,154648,159612,null
