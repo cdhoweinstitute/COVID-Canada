@@ -29,5 +29,8 @@ This file provides monthly updated data on the sale of motor vehicles in Canada,
 ## rail.csv
 This file provides weekly updated data on rail shipments in Canada, by type of product as per the American Railroad Association.
 
+## rigs.csv
+This file provides weekly updated data on the count of land rigs in Canada, as provided by Baker Hughes.
+
 ## Visualization/Data Use
 This data can be seen live at http://dashboard.cdhowe.org
