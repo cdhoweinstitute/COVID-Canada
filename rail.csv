@@ -1,209 +1,261 @@
-﻿Product,Week,2018,2019,2020
-Chemicals,Week 1 (Dec-29),10542,12187,11367
-Chemicals,Week 2 (Jan-05),11989,13332,11471
-Chemicals,Week 3 (Jan-12),11367,12754,10358
-Chemicals,Week 4 (Jan-19),12699,12597,11797
-Chemicals,Week 5 (Jan-26),10782,12647,12290
-Chemicals,Week 6 (Feb-02),12479,11106,10777
-Chemicals,Week 7 (Feb-09),12194,11633,12295
-Chemicals,Week 8 (Feb-16),11720,10771,12220
-Chemicals,Week 9 (Feb-23),13486,12596,13105
-Chemicals,Week 10 (Mar-01),12288,11538,12297
-Chemicals,Week 11 (Mar-08),12773,12326,12807
-Chemicals,Week 12 (Mar-15),12390,12179,13528
-Chemicals,Week 13 (Mar-22),12201,13751,13088
-Chemicals,Week 14 (Mar-29),11762,13021,12721
-Chemicals,Week 15 (Apr-05),12500,12275,11919
-Chemicals,Week 16 (Apr-12),12130,12664,null
-Coal,Week 1 (Dec-29),6512,7691,7045
-Coal,Week 2 (Jan-05),6535,7777,7423
-Coal,Week 3 (Jan-12),7345,8043,3980
-Coal,Week 4 (Jan-19),7217,8689,5317
-Coal,Week 5 (Jan-26),7506,8797,6641
-Coal,Week 6 (Feb-02),6193,7109,4746
-Coal,Week 7 (Feb-09),6522,6287,5155
-Coal,Week 8 (Feb-16),5519,7489,6421
-Coal,Week 9 (Feb-23),6217,8318,7000
-Coal,Week 10 (Mar-01),6773,7220,8414
-Coal,Week 11 (Mar-08),7454,7357,7963
-Coal,Week 12 (Mar-15),7923,8303,7892
-Coal,Week 13 (Mar-22),8150,7848,7703
-Coal,Week 14 (Mar-29),9071,8100,7105
-Coal,Week 15 (Apr-05),8923,8031,6820
-Coal,Week 16 (Apr-12),8222,7564,null
-"Farm Products excl. Grain, and Food",Week 1 (Dec-29),6814,6957,8451
-"Farm Products excl. Grain, and Food",Week 2 (Jan-05),6229,6977,6882
-"Farm Products excl. Grain, and Food",Week 3 (Jan-12),7112,7425,7179
-"Farm Products excl. Grain, and Food",Week 4 (Jan-19),6808,7659,8705
-"Farm Products excl. Grain, and Food",Week 5 (Jan-26),6751,7055,8149
-"Farm Products excl. Grain, and Food",Week 6 (Feb-02),6465,6478,6779
-"Farm Products excl. Grain, and Food",Week 7 (Feb-09),5853,5525,7006
-"Farm Products excl. Grain, and Food",Week 8 (Feb-16),6097,5798,7138
-"Farm Products excl. Grain, and Food",Week 9 (Feb-23),7100,5950,8400
-"Farm Products excl. Grain, and Food",Week 10 (Mar-01),7427,6335,8328
-"Farm Products excl. Grain, and Food",Week 11 (Mar-08),7123,6802,9211
-"Farm Products excl. Grain, and Food",Week 12 (Mar-15),7043,7142,9020
-"Farm Products excl. Grain, and Food",Week 13 (Mar-22),7398,7154,9070
-"Farm Products excl. Grain, and Food",Week 14 (Mar-29),8118,7517,7042
-"Farm Products excl. Grain, and Food",Week 15 (Apr-05),8034,7158,8343
-"Farm Products excl. Grain, and Food",Week 16 (Apr-12),7707,7098,null
-Forest Products,Week 1 (Dec-29),6017,5307,5369
-Forest Products,Week 2 (Jan-05),7011,7018,6573
-Forest Products,Week 3 (Jan-12),6915,7752,5740
-Forest Products,Week 4 (Jan-19),7467,7355,6571
-Forest Products,Week 5 (Jan-26),7207,6991,7029
-Forest Products,Week 6 (Feb-02),6348,6189,6292
-Forest Products,Week 7 (Feb-09),6295,6496,6276
-Forest Products,Week 8 (Feb-16),7223,6291,5496
-Forest Products,Week 9 (Feb-23),7105,6579,6109
-Forest Products,Week 10 (Mar-01),6976,6948,6585
-Forest Products,Week 11 (Mar-08),7045,7066,6582
-Forest Products,Week 12 (Mar-15),7760,7519,6985
-Forest Products,Week 13 (Mar-22),7399,7495,7033
-Forest Products,Week 14 (Mar-29),7370,7790,6682
-Forest Products,Week 15 (Apr-05),7907,7907,6695
-Forest Products,Week 16 (Apr-12),7743,7433,null
-Grain,Week 1 (Dec-29),6557,7304,6729
-Grain,Week 2 (Jan-05),7362,8054,8158
-Grain,Week 3 (Jan-12),9184,8945,5707
-Grain,Week 4 (Jan-19),7327,7920,7314
-Grain,Week 5 (Jan-26),8379,7591,7809
-Grain,Week 6 (Feb-02),7255,7088,6559
-Grain,Week 7 (Feb-09),7259,7833,6019
-Grain,Week 8 (Feb-16),6156,7707,6984
-Grain,Week 9 (Feb-23),7524,8637,6539
-Grain,Week 10 (Mar-01),8301,6774,7072
-Grain,Week 11 (Mar-08),8104,7861,7662
-Grain,Week 12 (Mar-15),9160,8592,7661
-Grain,Week 13 (Mar-22),8612,9353,8881
-Grain,Week 14 (Mar-29),8897,11290,10339
-Grain,Week 15 (Apr-05),9141,11444,10898
-Grain,Week 16 (Apr-12),9028,10184,null
-Metallic Ores and Metals,Week 1 (Dec-29),12419,15872,15333
-Metallic Ores and Metals,Week 2 (Jan-05),14939,16074,14031
-Metallic Ores and Metals,Week 3 (Jan-12),13485,15508,15066
-Metallic Ores and Metals,Week 4 (Jan-19),15212,14756,16047
-Metallic Ores and Metals,Week 5 (Jan-26),15765,13542,16680
-Metallic Ores and Metals,Week 6 (Feb-02),14637,14008,15466
-Metallic Ores and Metals,Week 7 (Feb-09),13657,15310,15495
-Metallic Ores and Metals,Week 8 (Feb-16),14921,16204,14644
-Metallic Ores and Metals,Week 9 (Feb-23),15426,13837,15323
-Metallic Ores and Metals,Week 10 (Mar-01),16653,15104,15773
-Metallic Ores and Metals,Week 11 (Mar-08),14794,16051,16249
-Metallic Ores and Metals,Week 12 (Mar-15),15299,15528,15796
-Metallic Ores and Metals,Week 13 (Mar-22),15662,15443,16942
-Metallic Ores and Metals,Week 14 (Mar-29),14930,15318,14741
-Metallic Ores and Metals,Week 15 (Apr-05),15550,14399,14242
-Metallic Ores and Metals,Week 16 (Apr-12),14315,14501,null
-Motor Vehicles and Parts,Week 1 (Dec-29),3485,3767,2426
-Motor Vehicles and Parts,Week 2 (Jan-05),4844,5391,4557
-Motor Vehicles and Parts,Week 3 (Jan-12),4729,5788,4670
-Motor Vehicles and Parts,Week 4 (Jan-19),5317,4551,4734
-Motor Vehicles and Parts,Week 5 (Jan-26),5200,4581,5773
-Motor Vehicles and Parts,Week 6 (Feb-02),4891,5439,5259
-Motor Vehicles and Parts,Week 7 (Feb-09),5285,5475,5632
-Motor Vehicles and Parts,Week 8 (Feb-16),5143,4593,5039
-Motor Vehicles and Parts,Week 9 (Feb-23),5643,5310,4670
-Motor Vehicles and Parts,Week 10 (Mar-01),5365,5488,6047
-Motor Vehicles and Parts,Week 11 (Mar-08),5688,5170,5900
-Motor Vehicles and Parts,Week 12 (Mar-15),5878,5696,5158
-Motor Vehicles and Parts,Week 13 (Mar-22),5352,5759,1625
-Motor Vehicles and Parts,Week 14 (Mar-29),5726,5669,1043
-Motor Vehicles and Parts,Week 15 (Apr-05),5948,6156,807
-Motor Vehicles and Parts,Week 16 (Apr-12),5617,5246,null
-Nonmetallic Minerals,Week 1 (Dec-29),5610,4976,5336
-Nonmetallic Minerals,Week 2 (Jan-05),6612,6956,5827
-Nonmetallic Minerals,Week 3 (Jan-12),7081,6196,5199
-Nonmetallic Minerals,Week 4 (Jan-19),7137,6202,5701
-Nonmetallic Minerals,Week 5 (Jan-26),7788,5724,5972
-Nonmetallic Minerals,Week 6 (Feb-02),6593,5518,6342
-Nonmetallic Minerals,Week 7 (Feb-09),6000,5682,5873
-Nonmetallic Minerals,Week 8 (Feb-16),7132,6597,6023
-Nonmetallic Minerals,Week 9 (Feb-23),7448,5869,6622
-Nonmetallic Minerals,Week 10 (Mar-01),7219,6620,6483
-Nonmetallic Minerals,Week 11 (Mar-08),7026,6583,6219
-Nonmetallic Minerals,Week 12 (Mar-15),7902,6875,6046
-Nonmetallic Minerals,Week 13 (Mar-22),7586,7222,5507
-Nonmetallic Minerals,Week 14 (Mar-29),7768,8149,4787
-Nonmetallic Minerals,Week 15 (Apr-05),7885,6868,5350
-Nonmetallic Minerals,Week 16 (Apr-12),6917,7415,null
-Other,Week 1 (Dec-29),1455,1113,1322
-Other,Week 2 (Jan-05),1124,1609,1793
-Other,Week 3 (Jan-12),1224,1400,1509
-Other,Week 4 (Jan-19),1646,1134,1515
-Other,Week 5 (Jan-26),1459,1141,1618
-Other,Week 6 (Feb-02),1275,1552,1571
-Other,Week 7 (Feb-09),1450,1389,1681
-Other,Week 8 (Feb-16),1736,1269,1383
-Other,Week 9 (Feb-23),1461,1137,1373
-Other,Week 10 (Mar-01),1402,1103,1647
-Other,Week 11 (Mar-08),1384,1138,1551
-Other,Week 12 (Mar-15),1851,1418,1592
-Other,Week 13 (Mar-22),1570,1349,1220
-Other,Week 14 (Mar-29),1627,1878,1645
-Other,Week 15 (Apr-05),1618,1408,1240
-Other,Week 16 (Apr-12),1660,1878,null
-Petroleum and Petroleum Products,Week 1 (Dec-29),7587,11524,12540
-Petroleum and Petroleum Products,Week 2 (Jan-05),7961,11329,12793
-Petroleum and Petroleum Products,Week 3 (Jan-12),8116,10859,9960
-Petroleum and Petroleum Products,Week 4 (Jan-19),7988,9697,13057
-Petroleum and Petroleum Products,Week 5 (Jan-26),7566,8602,12988
-Petroleum and Petroleum Products,Week 6 (Feb-02),7714,7174,12377
-Petroleum and Petroleum Products,Week 7 (Feb-09),7178,7645,9989
-Petroleum and Petroleum Products,Week 8 (Feb-16),7407,8066,10983
-Petroleum and Petroleum Products,Week 9 (Feb-23),8142,8834,11025
-Petroleum and Petroleum Products,Week 10 (Mar-01),7385,8404,11240
-Petroleum and Petroleum Products,Week 11 (Mar-08),7941,8949,10468
-Petroleum and Petroleum Products,Week 12 (Mar-15),7505,9456,10276
-Petroleum and Petroleum Products,Week 13 (Mar-22),8010,9051,8706
-Petroleum and Petroleum Products,Week 14 (Mar-29),7952,9837,7736
-Petroleum and Petroleum Products,Week 15 (Apr-05),7276,9139,7242
-Petroleum and Petroleum Products,Week 16 (Apr-12),7188,9085,null
-Total Carloads,Week 1 (Dec-29),66985,76698,75918
-Total Carloads,Week 2 (Jan-05),74596,84517,79508
-Total Carloads,Week 3 (Jan-12),76555,84670,69368
-Total Carloads,Week 4 (Jan-19),78826,80560,80758
-Total Carloads,Week 5 (Jan-26),78396,76671,84949
-Total Carloads,Week 6 (Feb-02),73877,71661,76168
-Total Carloads,Week 7 (Feb-09),71698,73275,75421
-Total Carloads,Week 8 (Feb-16),73032,74785,76331
-Total Carloads,Week 9 (Feb-23),79533,77067,80166
-Total Carloads,Week 10 (Mar-01),79761,75534,83886
-Total Carloads,Week 11 (Mar-08),79311,79303,84612
-Total Carloads,Week 12 (Mar-15),82708,82708,83954
-Total Carloads,Week 13 (Mar-22),81966,84425,79775
-Total Carloads,Week 14 (Mar-29),83242,88569,73841
-Total Carloads,Week 15 (Apr-05),84785,84785,73556
-Total Carloads,Week 16 (Apr-12),83068,83068,null
-Total Intermodal Units,Week 1 (Dec-29),52436,54166,56430
-Total Intermodal Units,Week 2 (Jan-05),63360,72357,69486
-Total Intermodal Units,Week 3 (Jan-12),65265,71008,61451
-Total Intermodal Units,Week 4 (Jan-19),67391,66650,68925
-Total Intermodal Units,Week 5 (Jan-26),70534,62070,73106
-Total Intermodal Units,Week 6 (Feb-02),63412,62207,62145
-Total Intermodal Units,Week 7 (Feb-09),66157,62783,55059
-Total Intermodal Units,Week 8 (Feb-16),68200,66290,56299
-Total Intermodal Units,Week 9 (Feb-23),70516,67977,58116
-Total Intermodal Units,Week 10 (Mar-01),69273,67818,64025
-Total Intermodal Units,Week 11 (Mar-08),68631,69935,60886
-Total Intermodal Units,Week 12 (Mar-15),70882,71236,61041
-Total Intermodal Units,Week 13 (Mar-22),68913,72703,61259
-Total Intermodal Units,Week 14 (Mar-29),69166,72970,63604
-Total Intermodal Units,Week 15 (Apr-05),67186,74039,66088
-Total Intermodal Units,Week 16 (Apr-12),63947,70789,null
-Total Traffic,Week 1 (Dec-29),119401,130864,132348
-Total Traffic,Week 2 (Jan-05),137972,156874,148994
-Total Traffic,Week 3 (Jan-12),141783,155678,130819
-Total Traffic,Week 4 (Jan-19),146187,147210,149683
-Total Traffic,Week 5 (Jan-26),149024,138741,158055
-Total Traffic,Week 6 (Feb-02),137301,133868,138313
-Total Traffic,Week 7 (Feb-09),137850,136058,130480
-Total Traffic,Week 8 (Feb-16),141216,141075,132630
-Total Traffic,Week 9 (Feb-23),149994,145044,138282
-Total Traffic,Week 10 (Mar-01),149015,143352,147911
-Total Traffic,Week 11 (Mar-08),147907,149238,145498
-Total Traffic,Week 12 (Mar-15),153637,153944,144995
-Total Traffic,Week 13 (Mar-22),150795,157128,141034
-Total Traffic,Week 14 (Mar-29),152395,161539,137445
-Total Traffic,Week 15 (Apr-05),151985,158824,139644
-Total Traffic,Week 16 (Apr-12),144467,153857,null
+﻿Product,Week,2018,2019,2020,,,
+Chemicals,Week 1 (Dec-29),10542,12187,11367,,,
+Chemicals,Week 2 (Jan-05),11989,13332,11471,,,
+Chemicals,Week 3 (Jan-12),11367,12754,10358,,,
+Chemicals,Week 4 (Jan-19),12699,12597,11797,,,
+Chemicals,Week 5 (Jan-26),10782,12647,12290,,,
+Chemicals,Week 6 (Feb-02),12479,11106,10777,,,
+Chemicals,Week 7 (Feb-09),12194,11633,12295,,,s
+Chemicals,Week 8 (Feb-16),11720,10771,12220,,,
+Chemicals,Week 9 (Feb-23),13486,12596,13105,,,
+Chemicals,Week 10 (Mar-01),12288,11538,12297,,,
+Chemicals,Week 11 (Mar-08),12778,12326,12807,,,
+Chemicals,Week 12 (Mar-15),12394,12179,13528,,,
+Chemicals,Week 13 (Mar-22),12292,13751,13088,,,
+Chemicals,Week 14 (Mar-29),11767,13021,12721,,,
+Chemicals,Week 15 (Apr-05),12604,12275,11919,,,
+Chemicals,Week 16 (Apr-12),12119,12664,null,,,
+Chemicals,Week 17 (Apr-19),13211,13132,null,,,
+Chemicals,Week 18 (Apr-26),12834,13504,null,,,
+Chemicals,Week 19 (May-3),12987,12215,null,,,
+Chemicals,Week 20 (May-10),13396,13360,null,,,
+Coal,Week 1 (Dec-29),6512,7691,7045,,,
+Coal,Week 2 (Jan-05),6535,7777,7423,,,
+Coal,Week 3 (Jan-12),7345,8043,3980,,,
+Coal,Week 4 (Jan-19),7217,8689,5317,,,
+Coal,Week 5 (Jan-26),7506,8797,6641,,,
+Coal,Week 6 (Feb-02),6193,7109,4746,,,
+Coal,Week 7 (Feb-09),6522,6287,5155,,,
+Coal,Week 8 (Feb-16),5519,7489,6421,,,
+Coal,Week 9 (Feb-23),6217,8318,7000,,,
+Coal,Week 10 (Mar-01),6773,7220,8414,,,
+Coal,Week 11 (Mar-08),7604,7357,7963,,,
+Coal,Week 12 (Mar-15),7923,8303,7892,,,
+Coal,Week 13 (Mar-22),8146,7848,7703,,,
+Coal,Week 14 (Mar-29),9070,8100,7105,,,
+Coal,Week 15 (Apr-05),8920,8031,6820,,,
+Coal,Week 16 (Apr-12),8226,7564,null,,,
+Coal,Week 17 (Apr-19),8503,7399,null,,,
+Coal,Week 18 (Apr-26),7923,8246,null,,,
+Coal,Week 19 (May-3),7483,7653,null,,,
+Coal,Week 20 (May-10),7922,8076,null,,,
+"Farm Products excl. Grain, and Food",Week 1 (Dec-29),6814,6957,8451,,,
+"Farm Products excl. Grain, and Food",Week 2 (Jan-05),6229,6977,6882,,,
+"Farm Products excl. Grain, and Food",Week 3 (Jan-12),7112,7425,7179,,,
+"Farm Products excl. Grain, and Food",Week 4 (Jan-19),6808,7659,8705,,,
+"Farm Products excl. Grain, and Food",Week 5 (Jan-26),6751,7055,8149,,,
+"Farm Products excl. Grain, and Food",Week 6 (Feb-02),6465,6478,6779,,,
+"Farm Products excl. Grain, and Food",Week 7 (Feb-09),5853,5525,7006,,,
+"Farm Products excl. Grain, and Food",Week 8 (Feb-16),6097,5798,7138,,,
+"Farm Products excl. Grain, and Food",Week 9 (Feb-23),7100,5950,8400,,,
+"Farm Products excl. Grain, and Food",Week 10 (Mar-01),7427,6335,8328,,,
+"Farm Products excl. Grain, and Food",Week 11 (Mar-08),7128,6802,9211,,,
+"Farm Products excl. Grain, and Food",Week 12 (Mar-15),7065,7142,9020,,,
+"Farm Products excl. Grain, and Food",Week 13 (Mar-22),7408,7154,9070,,,
+"Farm Products excl. Grain, and Food",Week 14 (Mar-29),8112,7517,7042,,,
+"Farm Products excl. Grain, and Food",Week 15 (Apr-05),8036,7158,8343,,,
+"Farm Products excl. Grain, and Food",Week 16 (Apr-12),7702,7098,null,,,
+"Farm Products excl. Grain, and Food",Week 17 (Apr-19),7649,8792,null,,,
+"Farm Products excl. Grain, and Food",Week 18 (Apr-26),8985,8096,null,,,
+"Farm Products excl. Grain, and Food",Week 19 (May-3),7622,7552,null,,,
+"Farm Products excl. Grain, and Food",Week 20 (May-10),7113,6953,null,,,
+Forest Products,Week 1 (Dec-29),6017,5307,5369,,,
+Forest Products,Week 2 (Jan-05),7011,7018,6573,,,
+Forest Products,Week 3 (Jan-12),6915,7752,5740,,,
+Forest Products,Week 4 (Jan-19),7467,7355,6571,,,
+Forest Products,Week 5 (Jan-26),7207,6991,7029,,,
+Forest Products,Week 6 (Feb-02),6348,6189,6292,,,
+Forest Products,Week 7 (Feb-09),6295,6496,6276,,,
+Forest Products,Week 8 (Feb-16),7223,6291,5496,,,
+Forest Products,Week 9 (Feb-23),7105,6579,6109,,,
+Forest Products,Week 10 (Mar-01),6976,6948,6585,,,
+Forest Products,Week 11 (Mar-08),7048,7066,6582,,,
+Forest Products,Week 12 (Mar-15),7760,7519,6985,,,
+Forest Products,Week 13 (Mar-22),7394,7495,7033,,,
+Forest Products,Week 14 (Mar-29),7367,7790,6682,,,
+Forest Products,Week 15 (Apr-05),7902,7907,6695,,,
+Forest Products,Week 16 (Apr-12),7743,7433,null,,,
+Forest Products,Week 17 (Apr-19),7899,7615,null,,,
+Forest Products,Week 18 (Apr-26),8154,7261,null,,,
+Forest Products,Week 19 (May-3),7859,7521,null,,,
+Forest Products,Week 20 (May-10),7584,7358,null,,,
+Grain,Week 1 (Dec-29),6557,7304,6729,,,
+Grain,Week 2 (Jan-05),7362,8054,8158,,,
+Grain,Week 3 (Jan-12),9184,8945,5707,,,
+Grain,Week 4 (Jan-19),7327,7920,7314,,,
+Grain,Week 5 (Jan-26),8379,7591,7809,,,
+Grain,Week 6 (Feb-02),7255,7088,6559,,,
+Grain,Week 7 (Feb-09),7259,7833,6019,,,
+Grain,Week 8 (Feb-16),6156,7707,6984,,,
+Grain,Week 9 (Feb-23),7524,8637,6539,,,
+Grain,Week 10 (Mar-01),8301,6774,7072,,,
+Grain,Week 11 (Mar-08),8083,7861,7662,,,
+Grain,Week 12 (Mar-15),9174,8592,7661,,,
+Grain,Week 13 (Mar-22),8617,9353,8881,,,
+Grain,Week 14 (Mar-29),8909,11290,10339,,,
+Grain,Week 15 (Apr-05),9140,11444,10898,,,
+Grain,Week 16 (Apr-12),9039,10184,null,,,
+Grain,Week 17 (Apr-19),8306,11169,null,,,
+Grain,Week 18 (Apr-26),10135,9327,null,,,
+Grain,Week 19 (May-3),9781,8854,null,,,
+Grain,Week 20 (May-10),8559,8869,null,,,
+Metallic Ores and Metals,Week 1 (Dec-29),12419,15872,15333,,,
+Metallic Ores and Metals,Week 2 (Jan-05),14939,16074,14031,,,
+Metallic Ores and Metals,Week 3 (Jan-12),13485,15508,15066,,,
+Metallic Ores and Metals,Week 4 (Jan-19),15212,14756,16047,,,
+Metallic Ores and Metals,Week 5 (Jan-26),15765,13542,16680,,,
+Metallic Ores and Metals,Week 6 (Feb-02),14637,14008,15466,,,
+Metallic Ores and Metals,Week 7 (Feb-09),13657,15310,15495,,,
+Metallic Ores and Metals,Week 8 (Feb-16),14921,16204,14644,,,
+Metallic Ores and Metals,Week 9 (Feb-23),15426,13837,15323,,,
+Metallic Ores and Metals,Week 10 (Mar-01),16653,15104,15773,,,
+Metallic Ores and Metals,Week 11 (Mar-08),14796,16051,16249,,,
+Metallic Ores and Metals,Week 12 (Mar-15),15303,15528,15796,,,
+Metallic Ores and Metals,Week 13 (Mar-22),15659,15443,16942,,,
+Metallic Ores and Metals,Week 14 (Mar-29),14932,15318,14741,,,
+Metallic Ores and Metals,Week 15 (Apr-05),15558,14399,14242,,,
+Metallic Ores and Metals,Week 16 (Apr-12),14324,14501,null,,,
+Metallic Ores and Metals,Week 17 (Apr-19),14970,16176,null,,,
+Metallic Ores and Metals,Week 18 (Apr-26),14752,15719,null,,,
+Metallic Ores and Metals,Week 19 (May-3),14563,15605,null,,,
+Metallic Ores and Metals,Week 20 (May-10),15186,15319,null,,,
+Motor Vehicles and Parts,Week 1 (Dec-29),3485,3767,2426,,,
+Motor Vehicles and Parts,Week 2 (Jan-05),4844,5391,4557,,,
+Motor Vehicles and Parts,Week 3 (Jan-12),4729,5788,4670,,,
+Motor Vehicles and Parts,Week 4 (Jan-19),5317,4551,4734,,,
+Motor Vehicles and Parts,Week 5 (Jan-26),5200,4581,5773,,,
+Motor Vehicles and Parts,Week 6 (Feb-02),4891,5439,5259,,,
+Motor Vehicles and Parts,Week 7 (Feb-09),5285,5475,5632,,,
+Motor Vehicles and Parts,Week 8 (Feb-16),5143,4593,5039,,,
+Motor Vehicles and Parts,Week 9 (Feb-23),5643,5310,4670,,,
+Motor Vehicles and Parts,Week 10 (Mar-01),5365,5488,6047,,,
+Motor Vehicles and Parts,Week 11 (Mar-08),5690,5170,5900,,,
+Motor Vehicles and Parts,Week 12 (Mar-15),5885,5696,5158,,,
+Motor Vehicles and Parts,Week 13 (Mar-22),5356,5759,1625,,,
+Motor Vehicles and Parts,Week 14 (Mar-29),5738,5669,1043,,,
+Motor Vehicles and Parts,Week 15 (Apr-05),5963,6156,807,,,
+Motor Vehicles and Parts,Week 16 (Apr-12),5628,5246,null,,,
+Motor Vehicles and Parts,Week 17 (Apr-19),6069,5795,null,,,
+Motor Vehicles and Parts,Week 18 (Apr-26),6075,6696,null,,,
+Motor Vehicles and Parts,Week 19 (May-3),5880,6201,null,,,
+Motor Vehicles and Parts,Week 20 (May-10),5722,6375,null,,,
+Nonmetallic Minerals,Week 1 (Dec-29),5610,4976,5336,,,
+Nonmetallic Minerals,Week 2 (Jan-05),6612,6956,5827,,,
+Nonmetallic Minerals,Week 3 (Jan-12),7081,6196,5199,,,
+Nonmetallic Minerals,Week 4 (Jan-19),7137,6202,5701,,,
+Nonmetallic Minerals,Week 5 (Jan-26),7788,5724,5972,,,
+Nonmetallic Minerals,Week 6 (Feb-02),6593,5518,6342,,,
+Nonmetallic Minerals,Week 7 (Feb-09),6000,5682,5873,,,
+Nonmetallic Minerals,Week 8 (Feb-16),7132,6597,6023,,,
+Nonmetallic Minerals,Week 9 (Feb-23),7448,5869,6622,,,
+Nonmetallic Minerals,Week 10 (Mar-01),7219,6620,6483,,,
+Nonmetallic Minerals,Week 11 (Mar-08),7047,6583,6219,,,
+Nonmetallic Minerals,Week 12 (Mar-15),7975,6875,6046,,,
+Nonmetallic Minerals,Week 13 (Mar-22),7612,7222,5507,,,
+Nonmetallic Minerals,Week 14 (Mar-29),7848,8149,4787,,,
+Nonmetallic Minerals,Week 15 (Apr-05),7922,6868,5350,,,
+Nonmetallic Minerals,Week 16 (Apr-12),6968,7415,null,,,
+Nonmetallic Minerals,Week 17 (Apr-19),8351,7064,null,,,
+Nonmetallic Minerals,Week 18 (Apr-26),8427,7233,null,,,
+Nonmetallic Minerals,Week 19 (May-3),8915,7758,null,,,
+Nonmetallic Minerals,Week 20 (May-10),9340,7458,null,,,
+Other,Week 1 (Dec-29),1455,1113,1322,,,
+Other,Week 2 (Jan-05),1124,1609,1793,,,
+Other,Week 3 (Jan-12),1224,1400,1509,,,
+Other,Week 4 (Jan-19),1646,1134,1515,,,
+Other,Week 5 (Jan-26),1459,1141,1618,,,
+Other,Week 6 (Feb-02),1275,1552,1571,,,
+Other,Week 7 (Feb-09),1450,1389,1681,,,
+Other,Week 8 (Feb-16),1736,1269,1383,,,
+Other,Week 9 (Feb-23),1461,1137,1373,,,
+Other,Week 10 (Mar-01),1402,1103,1647,,,
+Other,Week 11 (Mar-08),1199,1138,1551,,,
+Other,Week 12 (Mar-15),1630,1418,1592,,,
+Other,Week 13 (Mar-22),1572,1349,1220,,,
+Other,Week 14 (Mar-29),1344,1878,1645,,,
+Other,Week 15 (Apr-05),1328,1408,1240,,,
+Other,Week 16 (Apr-12),1392,1878,null,,,
+Other,Week 17 (Apr-19),1521,1214,null,,,
+Other,Week 18 (Apr-26),1054,2258,null,,,
+Other,Week 19 (May-3),1557,1545,null,,,
+Other,Week 20 (May-10),1374,2103,null,,,
+Petroleum and Petroleum Products,Week 1 (Dec-29),7587,11524,12540,,,
+Petroleum and Petroleum Products,Week 2 (Jan-05),7961,11329,12793,,,
+Petroleum and Petroleum Products,Week 3 (Jan-12),8116,10859,9960,,,
+Petroleum and Petroleum Products,Week 4 (Jan-19),7988,9697,13057,,,
+Petroleum and Petroleum Products,Week 5 (Jan-26),7566,8602,12988,,,
+Petroleum and Petroleum Products,Week 6 (Feb-02),7714,7174,12377,,,
+Petroleum and Petroleum Products,Week 7 (Feb-09),7178,7645,9989,,,
+Petroleum and Petroleum Products,Week 8 (Feb-16),7407,8066,10983,,,
+Petroleum and Petroleum Products,Week 9 (Feb-23),8142,8834,11025,,,
+Petroleum and Petroleum Products,Week 10 (Mar-01),7385,8404,11240,,,
+Petroleum and Petroleum Products,Week 11 (Mar-08),7941,8949,10468,,,
+Petroleum and Petroleum Products,Week 12 (Mar-15),7509,9456,10276,,,
+Petroleum and Petroleum Products,Week 13 (Mar-22),8022,9051,8706,,,
+Petroleum and Petroleum Products,Week 14 (Mar-29),7955,9837,7736,,,
+Petroleum and Petroleum Products,Week 15 (Apr-05),7275,9139,7242,,,
+Petroleum and Petroleum Products,Week 16 (Apr-12),7181,9085,null,,,
+Petroleum and Petroleum Products,Week 17 (Apr-19),7636,10392,null,,,
+Petroleum and Petroleum Products,Week 18 (Apr-26),7775,10568,null,,,
+Petroleum and Petroleum Products,Week 19 (May-3),7528,10291,null,,,
+Petroleum and Petroleum Products,Week 20 (May-10),7379,9994,null,,,
+Total Carloads,Week 1 (Dec-29),66985,76698,75918,,,
+Total Carloads,Week 2 (Jan-05),74596,84517,79508,,,
+Total Carloads,Week 3 (Jan-12),76555,84670,69368,,,
+Total Carloads,Week 4 (Jan-19),78826,80560,80758,,,
+Total Carloads,Week 5 (Jan-26),78396,76671,84949,,,
+Total Carloads,Week 6 (Feb-02),73877,71661,76168,,,
+Total Carloads,Week 7 (Feb-09),71698,73275,75421,,,
+Total Carloads,Week 8 (Feb-16),73032,74785,76331,,,
+Total Carloads,Week 9 (Feb-23),79533,77067,80166,,,
+Total Carloads,Week 10 (Mar-01),79761,75534,83886,,,
+Total Carloads,Week 11 (Mar-08),79314,79303,84612,,,
+Total Carloads,Week 12 (Mar-15),82618,82708,83954,,,
+Total Carloads,Week 13 (Mar-22),82078,84425,79775,,,
+Total Carloads,Week 14 (Mar-29),83042,88569,73841,,,
+Total Carloads,Week 15 (Apr-05),84648,84785,73556,,,
+Total Carloads,Week 16 (Apr-12),80327,83068,null,,,
+Total Carloads,Week 17 (Apr-19),84115,88748,null,,,
+Total Carloads,Week 18 (Apr-26),86114,88908,null,,,
+Total Carloads,Week 19 (May-3),84175,85195,null,,,
+Total Carloads,Week 20 (May-10),83575,85865,null,,,
+Total Intermodal Units,Week 1 (Dec-29),52436,54166,56430,,,
+Total Intermodal Units,Week 2 (Jan-05),63360,72357,69486,,,
+Total Intermodal Units,Week 3 (Jan-12),65265,71008,61451,,,
+Total Intermodal Units,Week 4 (Jan-19),67391,66650,68925,,,
+Total Intermodal Units,Week 5 (Jan-26),70534,62070,73106,,,
+Total Intermodal Units,Week 6 (Feb-02),63412,62207,62145,,,
+Total Intermodal Units,Week 7 (Feb-09),66157,62783,55059,,,
+Total Intermodal Units,Week 8 (Feb-16),68200,66290,56299,,,
+Total Intermodal Units,Week 9 (Feb-23),70516,67977,58116,,,
+Total Intermodal Units,Week 10 (Mar-01),69273,67818,64025,,,
+Total Intermodal Units,Week 11 (Mar-08),68715,69935,60886,,,
+Total Intermodal Units,Week 12 (Mar-15),70986,71236,61041,,,
+Total Intermodal Units,Week 13 (Mar-22),68985,72703,61259,,,
+Total Intermodal Units,Week 14 (Mar-29),69295,72970,63604,,,
+Total Intermodal Units,Week 15 (Apr-05),67335,74039,66088,,,
+Total Intermodal Units,Week 16 (Apr-12),64061,70789,null,,,
+Total Intermodal Units,Week 17 (Apr-19),68512,71660,null,,,
+Total Intermodal Units,Week 18 (Apr-26),71685,74194,null,,,
+Total Intermodal Units,Week 19 (May-3),70827,69992,null,,,
+Total Intermodal Units,Week 20 (May-10),70974,69605,null,,,
+Total Traffic,Week 1 (Dec-29),119401,130864,132348,,,
+Total Traffic,Week 2 (Jan-05),137972,156874,148994,,,
+Total Traffic,Week 3 (Jan-12),141783,155678,130819,,,
+Total Traffic,Week 4 (Jan-19),146187,147210,149683,,,
+Total Traffic,Week 5 (Jan-26),149024,138741,158055,,,
+Total Traffic,Week 6 (Feb-02),137301,267736,138313,,,
+Total Traffic,Week 7 (Feb-09),137850,136058,130480,,,
+Total Traffic,Week 8 (Feb-16),141216,141075,132630,,,
+Total Traffic,Week 9 (Feb-23),149994,145044,138282,,,
+Total Traffic,Week 10 (Mar-01),149015,143352,147911,,,
+Total Traffic,Week 11 (Mar-08),148029,149238,145498,,,
+Total Traffic,Week 12 (Mar-15),153604,153944,144995,,,
+Total Traffic,Week 13 (Mar-22),151063,157128,141034,,,
+Total Traffic,Week 14 (Mar-29),152337,161539,137445,,,
+Total Traffic,Week 15 (Apr-05),151983,158824,139644,,,
+Total Traffic,Week 16 (Apr-12),144388,153857,null,,,
+Total Traffic,Week 17 (Apr-19),152627,160408,null,,,
+Total Traffic,Week 18 (Apr-26),157799,163102,null,,,
+Total Traffic,Week 19 (May-3),155002,155187,null,,,
+Total Traffic,Week 20 (May-10),154549,155470,null,,,
