@@ -95,6 +95,7 @@ Apr-23,Alberta,3720,68
 Apr-24,Alberta,4017,72
 Apr-25,Alberta,4233,73
 Apr-26,Alberta,4480,73
+Apr-27,Alberta,4696,75
 Jan-22,British Columbia,0,0
 Jan-23,British Columbia,0,0
 Jan-24,British Columbia,0,0
@@ -191,6 +192,7 @@ Apr-23,British Columbia,1824,94
 Apr-24,British Columbia,1853,98
 Apr-25,British Columbia,1948,100
 Apr-26,British Columbia,1948,100
+Apr-27,British Columbia,1998,104
 Jan-22,Manitoba,0,0
 Jan-23,Manitoba,0,0
 Jan-24,Manitoba,0,0
@@ -287,6 +289,7 @@ Apr-23,Manitoba,262,6
 Apr-24,Manitoba,263,6
 Apr-25,Manitoba,267,6
 Apr-26,Manitoba,271,6
+Apr-27,Manitoba,273,6
 Jan-22,New Brunswick,0,0
 Jan-23,New Brunswick,0,0
 Jan-24,New Brunswick,0,0
@@ -383,6 +386,7 @@ Apr-23,New Brunswick,118,0
 Apr-24,New Brunswick,118,0
 Apr-25,New Brunswick,118,0
 Apr-26,New Brunswick,118,0
+Apr-27,New Brunswick,118,0
 Jan-22,Newfoundland and Labrador,0,0
 Jan-23,Newfoundland and Labrador,0,0
 Jan-24,Newfoundland and Labrador,0,0
@@ -479,6 +483,7 @@ Apr-23,Newfoundland and Labrador,256,3
 Apr-24,Newfoundland and Labrador,256,3
 Apr-25,Newfoundland and Labrador,257,3
 Apr-26,Newfoundland and Labrador,258,3
+Apr-27,Newfoundland and Labrador,258,3
 Jan-22,Nova Scotia,0,0
 Jan-23,Nova Scotia,0,0
 Jan-24,Nova Scotia,0,0
@@ -572,9 +577,10 @@ Apr-20,Nova Scotia,721,9
 Apr-21,Nova Scotia,737,10
 Apr-22,Nova Scotia,772,12
 Apr-23,Nova Scotia,827,16
-Apr-24,Nova Scotia,-1,-1
-Apr-25,Nova Scotia,-1,-1
-Apr-26,Nova Scotia,-1,-1
+Apr-24,Nova Scotia,850,16
+Apr-25,Nova Scotia,865,22
+Apr-26,Nova Scotia,873,24
+Apr-27,Nova Scotia,900,24
 Jan-22,Ontario,0,0
 Jan-23,Ontario,0,0
 Jan-24,Ontario,0,0
@@ -671,6 +677,7 @@ Apr-23,Ontario,14068,806
 Apr-24,Ontario,14550,862
 Apr-25,Ontario,15012,916
 Apr-26,Ontario,15568,960
+Apr-27,Ontario,15970,1023
 Jan-22,Prince Edward Island,0,0
 Jan-23,Prince Edward Island,0,0
 Jan-24,Prince Edward Island,0,0
@@ -767,6 +774,7 @@ Apr-23,Prince Edward Island,26,0
 Apr-24,Prince Edward Island,26,0
 Apr-25,Prince Edward Island,26,0
 Apr-26,Prince Edward Island,26,0
+Apr-27,Prince Edward Island,26,0
 Jan-22,Quebec,0,0
 Jan-23,Quebec,0,0
 Jan-24,Quebec,0,0
@@ -863,6 +871,7 @@ Apr-23,Quebec,21838,1243
 Apr-24,Quebec,22616,1340
 Apr-25,Quebec,23267,1446
 Apr-26,Quebec,24109,1516
+Apr-27,Quebec,24983,1600
 Jan-22,Saskatchewan,0,0
 Jan-23,Saskatchewan,0,0
 Jan-24,Saskatchewan,0,0
@@ -959,6 +968,7 @@ Apr-23,Saskatchewan,331,4
 Apr-24,Saskatchewan,341,4
 Apr-25,Saskatchewan,349,4
 Apr-26,Saskatchewan,353,4
+Apr-27,Saskatchewan,365,5
 Jan-22,Repartriated Canadians,0,0
 Jan-23,Repartriated Canadians,0,0
 Jan-24,Repartriated Canadians,0,0
@@ -1040,21 +1050,22 @@ Apr-08,Repartriated Canadians,13,1
 Apr-09,Repartriated Canadians,13,1
 Apr-10,Repartriated Canadians,13,1
 Apr-11,Repartriated Canadians,13,1
-Apr-12,Repartriated Canadians,12,1
-Apr-13,Repartriated Canadians,12,-1
-Apr-14,Repartriated Canadians,12,-1
-Apr-15,Repartriated Canadians,12,-1
-Apr-16,Repartriated Canadians,12,-1
-Apr-17,Repartriated Canadians,12,-1
-Apr-18,Repartriated Canadians,12,-1
-Apr-19,Repartriated Canadians,12,-1
-Apr-20,Repartriated Canadians,12,-1
-Apr-21,Repartriated Canadians,12,-1
-Apr-22,Repartriated Canadians,-2,-2
-Apr-23,Repartriated Canadians,-1,0
-Apr-24,Repartriated Canadians,-1,0
-Apr-25,Repartriated Canadians,-1,0
-Apr-26,Repartriated Canadians,-1,0
+Apr-12,Repartriated Canadians,13,1
+Apr-13,Repartriated Canadians,13,1
+Apr-14,Repartriated Canadians,13,1
+Apr-15,Repartriated Canadians,13,1
+Apr-16,Repartriated Canadians,13,1
+Apr-17,Repartriated Canadians,13,1
+Apr-18,Repartriated Canadians,13,1
+Apr-19,Repartriated Canadians,13,1
+Apr-20,Repartriated Canadians,13,1
+Apr-21,Repartriated Canadians,13,1
+Apr-22,Repartriated Canadians,13,1
+Apr-23,Repartriated Canadians,13,1
+Apr-24,Repartriated Canadians,13,1
+Apr-25,Repartriated Canadians,13,1
+Apr-26,Repartriated Canadians,13,1
+Apr-27,Repartriated Canadians,13,1
 Jan-22,Canada,0,0
 Jan-23,Canada,0,0
 Jan-24,Canada,0,0
@@ -1136,18 +1147,19 @@ Apr-08,Canada,19141,407
 Apr-09,Canada,20654,503
 Apr-10,Canada,22059,557
 Apr-11,Canada,23316,654
-Apr-12,Canada,24298,714
-Apr-13,Canada,25679,779
-Apr-14,Canada,27034,899
-Apr-15,Canada,28208,1006
-Apr-16,Canada,30808,1257
-Apr-17,Canada,32813,1354
-Apr-18,Canada,34355,1399
-Apr-19,Canada,35632,1563
-Apr-20,Canada,37657,1725
-Apr-21,Canada,39401,1908
-Apr-22,Canada,41648,2075
-Apr-23,Canada,43285,2240
-Apr-24,Canada,44054,2384
-Apr-25,Canada,45491,2547
-Apr-26,Canada,47145,2661
+Apr-12,Canada,24299,714
+Apr-13,Canada,25680,781
+Apr-14,Canada,27035,901
+Apr-15,Canada,28209,1008
+Apr-16,Canada,30809,1259
+Apr-17,Canada,32814,1356
+Apr-18,Canada,34356,1401
+Apr-19,Canada,35633,1565
+Apr-20,Canada,37658,1727
+Apr-21,Canada,39402,1910
+Apr-22,Canada,41663,2078
+Apr-23,Canada,43299,2241
+Apr-24,Canada,44919,2402
+Apr-25,Canada,46371,2571
+Apr-26,Canada,48033,2687
+Apr-27,Canada,49616,2841
