@@ -123,9 +123,9 @@ Week 18-Monday,Ontario,344956.0,327586,355272,299015
 Week 18-Tuesday,Ontario,334021.0,322065,351911,302365
 Week 18-Wednesday,Ontario,330955.0,333736,359763,307090
 Week 18-Thursday,Ontario,345943.0,344165,355881,311748
-Week 18-Friday,Ontario,346728.0,318967,350734,null
-Week 18-Saturday,Ontario,317674.0,292545,318976,null
-Week 19 (May-03),Ontario,304007.0,294662,298837,null
+Week 18-Friday,Ontario,346728.0,318967,350734,291631
+Week 18-Saturday,Ontario,317674.0,292545,318976,278953
+Week 19 (May-03),Ontario,304007.0,294662,298837,267919
 Week 19-Monday,Ontario,338942.0,324234,332458,null
 Week 19-Tuesday,Ontario,345118.0,330123,332508,null
 Week 19-Wednesday,Ontario,336559.0,330871,321881,null
@@ -256,9 +256,9 @@ Week 18-Monday,Alberta,211592.0,214355.0,223052.0,212212.0
 Week 18-Tuesday,Alberta,208963.0,212120.0,227892.0,211215.0
 Week 18-Wednesday,Alberta,209640.0,212984.0,227509.0,209636.0
 Week 18-Thursday,Alberta,210151.0,214476.0,226831.0,209208.0
-Week 18-Friday,Alberta,210537.0,214194.0,227451.0,null
-Week 18-Saturday,Alberta,205494.0,206685.0,223292.0,null
-Week 19 (May-03),Alberta,201245.0,205748.0,219764.0,null
+Week 18-Friday,Alberta,210537.0,214194.0,227451.0,206451.0
+Week 18-Saturday,Alberta,205494.0,206685.0,223292.0,199781.0
+Week 19 (May-03),Alberta,201245.0,205748.0,219764.0,200676.0
 Week 19-Monday,Alberta,208212.0,215356.0,224303.0,null
 Week 19-Tuesday,Alberta,206744.0,216726.0,222149.0,null
 Week 19-Wednesday,Alberta,207633.0,216282.0,222730.0,null
@@ -388,7 +388,7 @@ Week 18 (Apr-26),British Colombia,152095.0,148765,153038,146762
 Week 18-Monday,British Colombia,166649.0,157355,158672,152677
 Week 18-Tuesday,British Colombia,165472.0,155071,156224,154504
 Week 18-Wednesday,British Colombia,165101.0,155205,156447,153565
-Week 18-Thursday,British Colombia,162566.0,156144,158151,null
+Week 18-Thursday,British Colombia,162566.0,156144,158151,151444
 Week 18-Friday,British Colombia,159695.0,154165,157988,null
 Week 18-Saturday,British Colombia,153549.0,144854,149279,null
 Week 19 (May-03),British Colombia,152219.0,144598,146560,null
