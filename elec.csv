@@ -126,7 +126,7 @@ Week 18-Thursday,Ontario,345943.0,344165,355881,311748
 Week 18-Friday,Ontario,346728.0,318967,350734,291631
 Week 18-Saturday,Ontario,317674.0,292545,318976,278953
 Week 19 (May-03),Ontario,304007.0,294662,298837,267919
-Week 19-Monday,Ontario,338942.0,324234,332458,null
+Week 19-Monday,Ontario,338942.0,324234,332458,298436
 Week 19-Tuesday,Ontario,345118.0,330123,332508,null
 Week 19-Wednesday,Ontario,336559.0,330871,321881,null
 Week 19-Thursday,Ontario,334274.0,330459,336696,null
@@ -260,7 +260,7 @@ Week 18-Friday,Alberta,210537.0,214194.0,227451.0,206451.0
 Week 18-Saturday,Alberta,205494.0,206685.0,223292.0,199781.0
 Week 19 (May-03),Alberta,201245.0,205748.0,219764.0,200676.0
 Week 19-Monday,Alberta,208212.0,215356.0,224303.0,208630.0
-Week 19-Tuesday,Alberta,206744.0,216726.0,222149.0,null
+Week 19-Tuesday,Alberta,206744.0,216726.0,222149.0,202505.0
 Week 19-Wednesday,Alberta,207633.0,216282.0,222730.0,null
 Week 19-Thursday,Alberta,210457.0,219116.0,222125.0,null
 Week 19-Friday,Alberta,213187.0,218359.0,217124.0,null
@@ -389,10 +389,10 @@ Week 18-Monday,British Colombia,166649.0,157355,158672,152677
 Week 18-Tuesday,British Colombia,165472.0,155071,156224,154504
 Week 18-Wednesday,British Colombia,165101.0,155205,156447,153565
 Week 18-Thursday,British Colombia,162566.0,156144,158151,151444
-Week 18-Friday,British Colombia,159695.0,154165,157988,null
-Week 18-Saturday,British Colombia,153549.0,144854,149279,null
-Week 19 (May-03),British Colombia,152219.0,144598,146560,null
-Week 19-Monday,British Colombia,162517.0,152341,154765,null
+Week 18-Friday,British Colombia,159695.0,154165,157988,150750
+Week 18-Saturday,British Colombia,153549.0,144854,149279,146712
+Week 19 (May-03),British Colombia,152219.0,144598,146560,146967
+Week 19-Monday,British Colombia,162517.0,152341,154765,156240
 Week 19-Tuesday,British Colombia,159954.0,155114,151932,null
 Week 19-Wednesday,British Colombia,157883.0,153675,152925,null
 Week 19-Thursday,British Colombia,158852.0,155321,156076,null
