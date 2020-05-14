@@ -1,16 +1,37 @@
-﻿Type,Month,2017,2018,2019,2020
-"Light Trucks (Pickup Truck, SUV)",Jan,78727,85906,81690,87183
-"Light Trucks (Pickup Truck, SUV)",Feb,84866,89651,90767,96500
-"Light Trucks (Pickup Truck, SUV)",Mar,125983,132515,133317,77064
-"Light Trucks (Pickup Truck, SUV)",Apr,130912,133773,136163,null
-"Light Trucks (Pickup Truck, SUV)",May,141689,146448,145825,null
-Passenger cars,Jan,32218,31375,27084,22433
-Passenger cars,Feb,38167,35879,30124,26875
-Passenger cars,Mar,61557,53932,48483,19053
-Passenger cars,Apr,66291,58083,48995,null
-Passenger cars,May,75172,68959,56975,null
-Total,Jan,110945,117281,108774,109616
-Total,Feb,123033,125530,120891,123375
-Total,Mar,187540,186447,181800,96117
-Total,Apr,197203,191856,185158,45833
-Total,May,216861,215407,202800,null
+﻿Type,Month,2017,2018,2019,2020,,,
+"Light Trucks (Pickup Truck, SUV)",Jan,78727,85906,81690,87183,,,
+"Light Trucks (Pickup Truck, SUV)",Feb,84866,89651,90767,96500,,,
+"Light Trucks (Pickup Truck, SUV)",Mar,125983,132515,133317,null,,,
+"Light Trucks (Pickup Truck, SUV)",Apr,130912,133773,131324,null,,,
+"Light Trucks (Pickup Truck, SUV)",May,141689,146448,143995,null,,,
+"Light Trucks (Pickup Truck, SUV)",June,137046,139003,136059,null,,,
+"Light Trucks (Pickup Truck, SUV)",July,123603,122299,127636,null,,,
+"Light Trucks (Pickup Truck, SUV)",August,124849,128100,138223,null,,,
+"Light Trucks (Pickup Truck, SUV)",September,129731,123696,126213,null,,,
+"Light Trucks (Pickup Truck, SUV)",October,115417,115688,121374,null,,,
+"Light Trucks (Pickup Truck, SUV)",November,114592,104637,111517,null,,,
+"Light Trucks (Pickup Truck, SUV)",December,91560,85565,87555,null,,,
+Passenger cars,Jan,32218,31375,27084,22433,,,
+Passenger cars,Feb,38167,35879,30124,26875,,,
+Passenger cars,Mar,61557,53932,48483,null,,,
+Passenger cars,Apr,66291,58083,49292,null,,,
+Passenger cars,May,75172,68959,58146,null,,,
+Passenger cars,June,66440,61153,49437,null,,,
+Passenger cars,July,58231,53018,45883,null,,,
+Passenger cars,August,59096,52842,43563,null,,,
+Passenger cars,September,57106,49278,39719,null,,,
+Passenger cars,October,48797,45437,38066,null,,,a
+Passenger cars,November,44061,39031,31798,null,,,
+Passenger cars,December,32687,28724,23092,null,,,
+Total,Jan,110945,117281,108774,109616,,,
+Total,Feb,123033,125530,120891,123375,,,
+Total,Mar,187540,186447,181800,93991,,,
+Total,Apr,197203,191856,180616,45688,,,
+Total,May,216861,215407,202141,null,,,
+Total,June,203486,200156,185496,null,,,
+Total,July,181834,175317,173519,null,,,
+Total,August,183945,180942,181786,null,,,
+Total,September,186837,172974,165932,null,,,
+Total,October,164214,161125,159440,null,,,
+Total,November,158653,143668,143315,null,,,
+Total,December,124247,114289,110647,null,,,
