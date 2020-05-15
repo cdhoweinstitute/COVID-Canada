@@ -1,8 +1,5 @@
-﻿As of:,"Unique applications
-(Millions)",Last LF,"Unique applications
-as LF share","Total applications processed
-(Millions)"
-13-Apr-20,3.5,18507.9,0.189108435,
+﻿Date,Unique,Last_LF,Percent_Unique,Total_Paid
+13-Apr-20,3.5,18507.9,0.189108435,null
 16-Apr-20,6.39,18507.9,0.345257971,7.55
 19-Apr-20,6.73,18507.9,0.363628505,8.38
 21-Apr-20,6.82,18507.9,0.368491293,8.9
