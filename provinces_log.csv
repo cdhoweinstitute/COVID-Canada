@@ -118,6 +118,7 @@ May-16,Alberta,3.818687663441514,2.100370545117563
 May-17,Alberta,3.8224296237793567,2.103803720955957
 May-18,Alberta,3.824971461123693,2.1072099696478683
 May-19,Alberta,3.827110687466011,2.1072099696478683
+May-20,Alberta,3.8283376000590046,2.1072099696478683
 Jan-22,British Columbia,null,null
 Jan-23,British Columbia,null,null
 Jan-24,British Columbia,null,null
@@ -237,6 +238,7 @@ May-16,British Columbia,3.38524868240322,2.1492191126553797
 May-17,British Columbia,3.38524868240322,2.1492191126553797
 May-18,British Columbia,3.3881012015705165,2.155336037465062
 May-19,British Columbia,3.3884564527002667,2.164352855784437
+May-20,British Columbia,3.392169149489736,2.173186268412274
 Jan-22,Manitoba,null,null
 Jan-23,Manitoba,null,null
 Jan-24,Manitoba,null,null
@@ -356,6 +358,7 @@ May-16,Manitoba,2.4608978427565478,0.8450980400142568
 May-17,Manitoba,2.4608978427565478,0.8450980400142568
 May-18,Manitoba,2.462397997898956,0.8450980400142568
 May-19,Manitoba,2.462397997898956,0.8450980400142568
+May-20,Manitoba,2.462397997898956,0.8450980400142568
 Jan-22,New Brunswick,null,null
 Jan-23,New Brunswick,null,null
 Jan-24,New Brunswick,null,null
@@ -475,6 +478,7 @@ May-16,New Brunswick,2.0791812460476247,null
 May-17,New Brunswick,2.0791812460476247,null
 May-18,New Brunswick,2.0791812460476247,null
 May-19,New Brunswick,2.0791812460476247,null
+May-20,New Brunswick,2.0791812460476247,null
 Jan-22,Newfoundland and Labrador,null,null
 Jan-23,Newfoundland and Labrador,null,null
 Jan-24,Newfoundland and Labrador,null,null
@@ -594,6 +598,7 @@ May-16,Newfoundland and Labrador,2.4149733479708178,0.47712125471966244
 May-17,Newfoundland and Labrador,2.4149733479708178,0.47712125471966244
 May-18,Newfoundland and Labrador,2.4149733479708178,0.47712125471966244
 May-19,Newfoundland and Labrador,2.4149733479708178,0.47712125471966244
+May-20,Newfoundland and Labrador,2.4149733479708178,0.47712125471966244
 Jan-22,Nova Scotia,null,null
 Jan-23,Nova Scotia,null,null
 Jan-24,Nova Scotia,null,null
@@ -713,6 +718,7 @@ May-16,Nova Scotia,3.015778756389041,1.7403626894942439
 May-17,Nova Scotia,3.0170333392987803,1.7403626894942439
 May-18,Nova Scotia,3.018284308426531,1.7403626894942439
 May-19,Nova Scotia,3.0187004986662433,1.7481880270062005
+May-20,Nova Scotia,3.019116290447073,1.7558748556724915
 Jan-22,Ontario,null,null
 Jan-23,Ontario,null,null
 Jan-24,Ontario,null,null
@@ -832,6 +838,7 @@ May-16,Ontario,4.373739318351445,3.295786940251609
 May-17,Ontario,4.379740500992257,3.300812794118117
 May-18,Ontario,4.385355990680808,3.305136318943639
 May-19,Ontario,4.393662930667503,3.307923703611882
+May-20,Ontario,4.40134883597978,3.317854489331469
 Jan-22,Prince Edward Island,null,null
 Jan-23,Prince Edward Island,null,null
 Jan-24,Prince Edward Island,null,null
@@ -951,6 +958,7 @@ May-16,Prince Edward Island,1.4313637641589874,null
 May-17,Prince Edward Island,1.4313637641589874,null
 May-18,Prince Edward Island,1.4313637641589874,null
 May-19,Prince Edward Island,1.4313637641589874,null
+May-20,Prince Edward Island,1.4313637641589874,null
 Jan-22,Quebec,null,null
 Jan-23,Quebec,null,null
 Jan-24,Quebec,null,null
@@ -1070,6 +1078,7 @@ May-16,Quebec,4.625230112449359,3.5420781463356255
 May-17,Quebec,4.632740655327864,3.5518158223510157
 May-18,Quebec,4.6398449330816,3.5559404378185113
 May-19,Quebec,4.64548121935012,3.5620548296563785
+May-20,Quebec,4.651122881122087,3.570426178358973
 Jan-22,Saskatchewan,null,null
 Jan-23,Saskatchewan,null,null
 Jan-24,Saskatchewan,null,null
@@ -1189,6 +1198,7 @@ May-16,Saskatchewan,2.7715874808812555,0.8450980400142568
 May-17,Saskatchewan,2.77232170672292,0.8450980400142568
 May-18,Saskatchewan,2.77232170672292,0.8450980400142568
 May-19,Saskatchewan,2.7774268223893115,0.8450980400142568
+May-20,Saskatchewan,2.792391689498254,0.8450980400142568
 Jan-22,Repartriated Canadians,null,null
 Jan-23,Repartriated Canadians,null,null
 Jan-24,Repartriated Canadians,null,null
@@ -1308,6 +1318,7 @@ May-16,Repartriated Canadians,1.146128035678238,0.0
 May-17,Repartriated Canadians,1.146128035678238,0.0
 May-18,Repartriated Canadians,1.146128035678238,0.0
 May-19,Repartriated Canadians,1.146128035678238,0.0
+May-20,Repartriated Canadians,1.146128035678238,0.0
 Jan-22,Canada,null,null
 Jan-23,Canada,null,null
 Jan-24,Canada,null,null
@@ -1427,3 +1438,4 @@ May-16,Canada,4.887651052481284,3.7634279935629373
 May-17,Canada,4.89393921524266,3.7710727832211948
 May-18,Canada,4.899880665001585,3.7752462597402365
 May-19,Canada,4.905758113988272,3.780173243642594
+May-20,Canada,4.911557082459913,3.788875115775417
