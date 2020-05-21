@@ -32,5 +32,8 @@ This file provides weekly updated data on rail shipments in Canada, by type of p
 ## rigs.csv
 This file provides weekly updated data on the count of land rigs in Canada, as provided by Baker Hughes.
 
+## CERB.csv
+Contains data on the Canada Emergency Response Benefit, specifically date reported, number of unique applicants, share of the labour force, and total value of benefits paid.
+
 ## Visualization/Data Use
 This data can be seen live at http://dashboard.cdhowe.org
