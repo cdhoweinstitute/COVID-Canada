@@ -149,7 +149,7 @@ Week 21-Saturday,Ontario,306020.0,351924,312550,299366
 Week 22 (May-24),Ontario,301887.0,348860,306389,306310
 Week 22-Monday,Ontario,346404.0,408330,335686,378395
 Week 22-Tuesday,Ontario,338516.0,405836,345144,407475
-Week 22-Wednesday,Ontario,334157.0,400421,342930,null
+Week 22-Wednesday,Ontario,334157.0,400421,342930,402817
 Week 22-Thursday,Ontario,326688.0,418151,339842,null
 Week 22-Friday,Ontario,325006.0,409791,333328,null
 Week 22-Saturday,Ontario,300507.0,328376,312410,null
@@ -317,7 +317,7 @@ Week 21-Saturday,Alberta,207282.0,216681.0,211058.0,198574.0
 Week 22 (May-24),Alberta,204901.0,215460.0,210279.0,196842.0
 Week 22-Monday,Alberta,215642.0,227142.0,217269.0,202589.0
 Week 22-Tuesday,Alberta,217863.0,219162.0,217163.0,200781.0
-Week 22-Wednesday,Alberta,219965.0,218368.0,222299.0,null
+Week 22-Wednesday,Alberta,219965.0,218368.0,222299.0,201552.0
 Week 22-Thursday,Alberta,219986.0,218365.0,224361.0,null
 Week 22-Friday,Alberta,216157.0,217385.0,220177.0,null
 Week 22-Saturday,Alberta,206458.0,209275.0,217961.0,null
@@ -473,18 +473,18 @@ Week 20-Monday,British Colombia,167578.0,160786,156044,148334
 Week 20-Tuesday,British Colombia,166612.0,158645,158001,146182
 Week 20-Wednesday,British Colombia,162270.0,157164,158625,145920
 Week 20-Thursday,British Colombia,160937.0,156669,157711,147943
-Week 20-Friday,British Colombia,158470.0,157370,160969,null
-Week 20-Saturday,British Colombia,146136.0,148068,152119,null
-Week 21 (May-17),British Colombia,141768.0,145415,149122,null
-Week 21-Monday,British Colombia,147300.0,150504,147563,null
-Week 21-Tuesday,British Colombia,156170.0,161907,158373,null
-Week 21-Wednesday,British Colombia,153673.0,159812,158191,null
-Week 21-Thursday,British Colombia,155388.0,158431,158597,null
-Week 21-Friday,British Colombia,156220.0,156951,156510,null
-Week 21-Saturday,British Colombia,147819.0,145305,149968,null
-Week 22 (May-24),British Colombia,149369.0,145396,147112,null
-Week 22-Monday,British Colombia,162694.0,156351,156519,null
-Week 22-Tuesday,British Colombia,157010.0,155036,154944,null
+Week 20-Friday,British Colombia,158470.0,157370,160969,147151
+Week 20-Saturday,British Colombia,146136.0,148068,152119,143036
+Week 21 (May-17),British Colombia,141768.0,145415,149122,142985
+Week 21-Monday,British Colombia,147300.0,150504,147563,139720
+Week 21-Tuesday,British Colombia,156170.0,161907,158373,146864
+Week 21-Wednesday,British Colombia,153673.0,159812,158191,149035
+Week 21-Thursday,British Colombia,155388.0,158431,158597,151945
+Week 21-Friday,British Colombia,156220.0,156951,156510,151656
+Week 21-Saturday,British Colombia,147819.0,145305,149968,143517
+Week 22 (May-24),British Colombia,149369.0,145396,147112,142190
+Week 22-Monday,British Colombia,162694.0,156351,156519,150537
+Week 22-Tuesday,British Colombia,157010.0,155036,154944,149257
 Week 22-Wednesday,British Colombia,153217.0,153710,157298,null
 Week 22-Thursday,British Colombia,152165.0,153440,158869,null
 Week 22-Friday,British Colombia,152949.0,154417,161065,null
