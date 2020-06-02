@@ -141,6 +141,7 @@ May-28,Alberta,29,2
 May-29,Alberta,24,0
 May-30,Alberta,13,0
 May-31,Alberta,18,0
+Jun-01,Alberta,34,0
 Jan-23,British Columbia,0,0
 Jan-24,British Columbia,0,0
 Jan-25,British Columbia,0,0
@@ -271,6 +272,7 @@ May-28,British Columbia,8,2
 May-29,British Columbia,4,0
 May-30,British Columbia,11,0
 May-31,British Columbia,0,0
+Jun-01,British Columbia,24,1
 Jan-23,Manitoba,0,0
 Jan-24,Manitoba,0,0
 Jan-25,Manitoba,0,0
@@ -401,6 +403,7 @@ May-28,Manitoba,2,0
 May-29,Manitoba,0,0
 May-30,Manitoba,0,0
 May-31,Manitoba,1,0
+Jun-01,Manitoba,0,0
 Jan-23,New Brunswick,0,0
 Jan-24,New Brunswick,0,0
 Jan-25,New Brunswick,0,0
@@ -531,6 +534,7 @@ May-28,New Brunswick,3,0
 May-29,New Brunswick,2,0
 May-30,New Brunswick,1,0
 May-31,New Brunswick,3,0
+Jun-01,New Brunswick,0,0
 Jan-23,Newfoundland and Labrador,0,0
 Jan-24,Newfoundland and Labrador,0,0
 Jan-25,Newfoundland and Labrador,0,0
@@ -661,6 +665,7 @@ May-28,Newfoundland and Labrador,1,0
 May-29,Newfoundland and Labrador,0,0
 May-30,Newfoundland and Labrador,0,0
 May-31,Newfoundland and Labrador,0,0
+Jun-01,Newfoundland and Labrador,0,0
 Jan-23,Nova Scotia,0,0
 Jan-24,Nova Scotia,0,0
 Jan-25,Nova Scotia,0,0
@@ -791,6 +796,7 @@ May-28,Nova Scotia,2,0
 May-29,Nova Scotia,0,0
 May-30,Nova Scotia,1,1
 May-31,Nova Scotia,0,0
+Jun-01,Nova Scotia,1,0
 Jan-23,Ontario,0,0
 Jan-24,Ontario,0,0
 Jan-25,Ontario,0,0
@@ -921,6 +927,7 @@ May-28,Ontario,377,28
 May-29,Ontario,380,21
 May-30,Ontario,323,19
 May-31,Ontario,367,12
+Jun-01,Ontario,455,9
 Jan-23,Prince Edward Island,0,0
 Jan-24,Prince Edward Island,0,0
 Jan-25,Prince Edward Island,0,0
@@ -1051,6 +1058,7 @@ May-28,Prince Edward Island,0,0
 May-29,Prince Edward Island,0,0
 May-30,Prince Edward Island,0,0
 May-31,Prince Edward Island,0,0
+Jun-01,Prince Edward Island,0,0
 Jan-23,Quebec,0,0
 Jan-24,Quebec,0,0
 Jan-25,Quebec,0,0
@@ -1181,6 +1189,7 @@ May-28,Quebec,563,74
 May-29,Quebec,521,60
 May-30,Quebec,419,76
 May-31,Quebec,408,202
+Jun-01,Quebec,295,20
 Jan-23,Saskatchewan,0,0
 Jan-24,Saskatchewan,0,0
 Jan-25,Saskatchewan,0,0
@@ -1311,6 +1320,7 @@ May-28,Saskatchewan,2,0
 May-29,Saskatchewan,2,0
 May-30,Saskatchewan,4,0
 May-31,Saskatchewan,1,1
+Jun-01,Saskatchewan,0,0
 Jan-23,Repartriated Canadians,0,0
 Jan-24,Repartriated Canadians,0,0
 Jan-25,Repartriated Canadians,0,0
@@ -1441,6 +1451,7 @@ May-28,Repartriated Canadians,0,0
 May-29,Repartriated Canadians,0,0
 May-30,Repartriated Canadians,0,0
 May-31,Repartriated Canadians,0,0
+Jun-01,Repartriated Canadians,0,0
 Jan-23,Canada,0,0
 Jan-24,Canada,0,0
 Jan-25,Canada,0,0
@@ -1571,3 +1582,4 @@ May-28,Canada,987,106
 May-29,Canada,933,81
 May-30,Canada,772,96
 May-31,Canada,798,215
+Jun-01,Canada,809,30
