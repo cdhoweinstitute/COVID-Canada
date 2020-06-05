@@ -18,7 +18,17 @@ Ontario,Week 16 (Apr-21),55.71,55.86,42.72,36.38
 Ontario,Week 17 (Apr-28),56.28,47.61,38.18,42.85
 Ontario,Week 18 (May-5),57.34,50.27,39.66,40.85
 Ontario,Week 19 (May-12),55.13,51.44,40,45.34
-Ontario,Week 20 (May-19),50.26,48.55,47.28,null
+Ontario,Week 20 (May-19),50.26,48.55,47.28,45.82
+Ontario,Week 21 (May-26),49.13,50.26,47.21,45.13
+Ontario,Week 22 (June 2),49.7,51.15,48.79,null
+Ontario,Week 23 (June 9),49.4,55.56,53.06,null
+Ontario,Week 24 (June 16),49.85,60.31,54.72,null
+Ontario,Week 25 (June 23),48.85,62.51,57.89,null
+Ontario,Week 26 (June 30),49.15,61.08,59.02,null
+Ontario,Week 27 (July 7),49.79,59.04,57.94,null
+Ontario,Week 28 (July 14),49.85,60.95,58.22,null
+Ontario,Week 29 (July 21),50.04,61.17,59.76,null
+Ontario,Week 30 (July 28),56.57,61.25,59.19,null
 East,Week 1 (Jan-7),123.97,115.86,109.13,115.94
 East,Week 2 (Jan-14),124.03,120.04,111.38,123.36
 East,Week 3 (Jan-21),125.63,122.7,112.94,123.5
@@ -37,8 +47,18 @@ East,Week 15 (Apr-14),128.01,122.06,117.71,77.94
 East,Week 16 (Apr-21),128.46,88.6,109.76,71.76
 East,Week 17 (Apr-28),123,83.27,107.01,70.64
 East,Week 18 (May-5),123.83,84.43,106.76,72.84
-East,Week 19 (May-12),124.71,88.1,105.64,84.20
-East,Week 20 (May-19),125.7,84.31,107.95,null
+East,Week 19 (May-12),124.71,88.1,105.64,84.2
+East,Week 20 (May-19),125.7,84.31,107.95,84.33
+East,Week 21 (May-26),124.51,75.4,110.66,84
+East,Week 22 (June 2),125.77,93.15,112.12,null
+East,Week 23 (June 9),125.03,106.86,120.15,null
+East,Week 24 (June 16),123.05,114.85,121.59,null
+East,Week 25 (June 23),127.94,114.5,121.78,null
+East,Week 26 (June 30),126.61,116.13,121.99,null
+East,Week 27 (July 7),126.07,118.29,117.97,null
+East,Week 28 (July 14),124.02,118.63,113.86,null
+East,Week 29 (July 21),124.22,121.38,113.87,null
+East,Week 30 (July 28),124.21,119.35,109.96,null
 West,Week 1 (Jan-7),75.17,96.48,98.33,99.4
 West,Week 2 (Jan-14),77.23,99.49,95.03,101.23
 West,Week 3 (Jan-21),94.6,105.59,97.48,92.76
@@ -58,4 +78,14 @@ West,Week 16 (Apr-21),60.12,47.6,80.45,70.04
 West,Week 17 (Apr-28),57.68,49.77,81.41,75.79
 West,Week 18 (May-5),51.44,53.56,81.85,87.58
 West,Week 19 (May-12),48.74,60.98,81.63,77.89
-West,Week 20 (May-19),63.09,70.83,84.42,null
+West,Week 20 (May-19),63.09,70.83,84.42,75.56
+West,Week 21 (May-26),70.73,68.81,89.29,74.94
+West,Week 22 (June 2),67.1,71.51,92.46,null
+West,Week 23 (June 9),71.28,78.95,99.85,null
+West,Week 24 (June 16),75.91,78.02,100.46,null
+West,Week 25 (June 23),78.8,76.15,96.81,null
+West,Week 26 (June 30),93.64,79.14,94.47,null
+West,Week 27 (July 7),95.26,86.84,97.97,null
+West,Week 28 (July 14),99.47,95.54,96.79,null
+West,Week 29 (July 21),91.71,97.51,100.21,null
+West,Week 30 (July 28),94.46,95.71,100.49,null
