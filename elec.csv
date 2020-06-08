@@ -158,9 +158,9 @@ Week 23-Monday,Ontario,338933.0,338213,324613,309090
 Week 23-Tuesday,Ontario,336305.0,332733,337900,334759
 Week 23-Wednesday,Ontario,332171.0,336067,347267,348846
 Week 23-Thursday,Ontario,342867.0,343430,339869,365752
-Week 23-Friday,Ontario,346147.0,350858,344526,null
-Week 23-Saturday,Ontario,333737.0,320812,309156,null
-Week 24 (Jun-07),Ontario,365681.0,305771,313615,null
+Week 23-Friday,Ontario,346147.0,350858,344526,376780
+Week 23-Saturday,Ontario,333737.0,320812,309156,325892
+Week 24 (Jun-07),Ontario,365681.0,305771,313615,299144
 Week 24-Monday,Ontario,431183.0,342933,348110,null
 Week 24-Tuesday,Ontario,408138.0,369478,337408,null
 Week 24-Wednesday,Ontario,370548.0,388116,338764,null
@@ -326,9 +326,9 @@ Week 23-Monday,Alberta,210913.0,219689.0,223218.0,202318.0
 Week 23-Tuesday,Alberta,212486.0,218480.0,219471.0,203547.0
 Week 23-Wednesday,Alberta,216241.0,220472.0,221533.0,204970.0
 Week 23-Thursday,Alberta,217301.0,224941.0,223419.0,204591.0
-Week 23-Friday,Alberta,212857.0,229090.0,223032.0,null
-Week 23-Saturday,Alberta,202659.0,218457.0,212778.0,null
-Week 24 (Jun-07),Alberta,200004.0,212682.0,212512.0,null
+Week 23-Friday,Alberta,212857.0,229090.0,223032.0,204867.0
+Week 23-Saturday,Alberta,202659.0,218457.0,212778.0,201959.0
+Week 24 (Jun-07),Alberta,200004.0,212682.0,212512.0,198005.0
 Week 24-Monday,Alberta,211969.0,221427.0,222856.0,null
 Week 24-Tuesday,Alberta,209128.0,219353.0,223410.0,null
 Week 24-Wednesday,Alberta,208370.0,223159.0,229922.0,null
@@ -493,7 +493,7 @@ Week 23 (May-31),British Colombia,139053.0,144515,148646,null
 Week 23-Monday,British Colombia,153553.0,154322,157691,148519
 Week 23-Tuesday,British Colombia,151109.0,153615,157265,149416
 Week 23-Wednesday,British Colombia,151248.0,150908,157706,144599
-Week 23-Thursday,British Colombia,152080.0,153862,157705,null
+Week 23-Thursday,British Colombia,152080.0,153862,157705,145225
 Week 23-Friday,British Colombia,151960.0,153738,158335,null
 Week 23-Saturday,British Colombia,141333.0,144643,151127,null
 Week 24 (Jun-07),British Colombia,136182.0,144221,149721,null
