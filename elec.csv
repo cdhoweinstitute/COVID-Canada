@@ -162,11 +162,46 @@ Week 23-Friday,Ontario,346147.0,350858,344526,376780
 Week 23-Saturday,Ontario,333737.0,320812,309156,325892
 Week 24 (Jun-07),Ontario,365681.0,305771,313615,299144
 Week 24-Monday,Ontario,431183.0,342933,348110,335034
-Week 24-Tuesday,Ontario,408138.0,369478,337408,null
-Week 24-Wednesday,Ontario,370548.0,388116,338764,null
+Week 24-Tuesday,Ontario,408138.0,369478,337408,382234
+Week 24-Wednesday,Ontario,370548.0,388116,338764,399904
 Week 24-Thursday,Ontario,363381.0,360524,344806,null
 Week 24-Friday,Ontario,392361.0,362524,324774,null
 Week 24-Saturday,Ontario,373810.0,355319,311163,null
+Week 25 (Jun-14),Ontario,372773.0,395212,303358,null
+Week 25-Monday,Ontario,389597.0,449568,340639,null
+Week 25-Tuesday,Ontario,364479.0,386619,361875,null
+Week 25-Wednesday,Ontario,360595.0,377181,373771,null
+Week 25-Thursday,Ontario,366474.0,365664,363575,null
+Week 25-Friday,Ontario,383601.0,349240,342204,null
+Week 25-Saturday,Ontario,335097.0,338622,319892,null
+Week 26 (Jun-21),Ontario,314827.0,330246,326816,null
+Week 26-Monday,Ontario,345670.0,351411,370242,null
+Week 26-Tuesday,Ontario,339268.0,358216,378122,null
+Week 26-Wednesday,Ontario,347095.0,377388,401941,null
+Week 26-Thursday,Ontario,362324.0,411207,413366,null
+Week 26-Friday,Ontario,379907.0,433289,407963,null
+Week 26-Saturday,Ontario,337181.0,431309,386105,null
+Week 27 (Jun-28),Ontario,324388.0,435916,339974,null
+Week 27-Monday,Ontario,337627.0,440414,354749,null
+Week 27-Tuesday,Ontario,370926.0,442517,412355,null
+Week 27-Wednesday,Ontario,382572.0,458233,426193,null
+Week 27-Thursday,Ontario,405799.0,475016,437465,null
+Week 27-Friday,Ontario,406869.0,379669,455718,null
+Week 27-Saturday,Ontario,341299.0,344537,427604,null
+Week 28 (Jul-05),Ontario,326896.0,363501,362516,null
+Week 28-Monday,Ontario,379742.0,424364,387313,null
+Week 28-Tuesday,Ontario,407098.0,434216,401465,null
+Week 28-Wednesday,Ontario,413015.0,406820,420167,null
+Week 28-Thursday,Ontario,372770.0,411762,431156,null
+Week 28-Friday,Ontario,373219.0,436434,386556,null
+Week 28-Saturday,Ontario,351853.0,409953,376780,null
+Week 29 (Jul-12),Ontario,351793.0,427343,364597,null
+Week 29-Monday,Ontario,394223.0,449611,400866,null
+Week 29-Tuesday,Ontario,406015.0,412609,431989,null
+Week 29-Wednesday,Ontario,418109.0,383159,440622,null
+Week 29-Thursday,Ontario,399728.0,395331,433936,null
+Week 29-Friday,Ontario,414102.0,417909,458216,null
+Week 29-Saturday,Ontario,367345.0,387368,446430,null
 Week 1 (Dec-29),Alberta,235155.0,null,null,null
 Week 1-Monday,Alberta,247051.0,245750.0,null,null
 Week 1-Tuesday,Alberta,254852.0,245728.0,237805.0,null
@@ -331,10 +366,45 @@ Week 23-Saturday,Alberta,202659.0,218457.0,212778.0,201959.0
 Week 24 (Jun-07),Alberta,200004.0,212682.0,212512.0,198005.0
 Week 24-Monday,Alberta,211969.0,221427.0,222856.0,204736.0
 Week 24-Tuesday,Alberta,209128.0,219353.0,223410.0,207472.0
-Week 24-Wednesday,Alberta,208370.0,223159.0,229922.0,null
+Week 24-Wednesday,Alberta,208370.0,223159.0,229922.0,208642.0
 Week 24-Thursday,Alberta,208605.0,223157.0,233948.0,null
 Week 24-Friday,Alberta,209996.0,221813.0,227932.0,null
 Week 24-Saturday,Alberta,201746.0,212088.0,219878.0,null
+Week 25 (Jun-14),Alberta,201282.0,214129.0,219358.0,null
+Week 25-Monday,Alberta,213698.0,225823.0,230321.0,null
+Week 25-Tuesday,Alberta,215975.0,228075.0,226174.0,null
+Week 25-Wednesday,Alberta,213880.0,228882.0,222353.0,null
+Week 25-Thursday,Alberta,216632.0,227291.0,224680.0,null
+Week 25-Friday,Alberta,217904.0,225115.0,223059.0,null
+Week 25-Saturday,Alberta,211674.0,217862.0,215026.0,null
+Week 26 (Jun-21),Alberta,213575.0,222130.0,215921.0,null
+Week 26-Monday,Alberta,226353.0,231525.0,226723.0,null
+Week 26-Tuesday,Alberta,219679.0,220736.0,229128.0,null
+Week 26-Wednesday,Alberta,220422.0,220964.0,231237.0,null
+Week 26-Thursday,Alberta,222188.0,221713.0,229757.0,null
+Week 26-Friday,Alberta,225116.0,222241.0,228588.0,null
+Week 26-Saturday,Alberta,214634.0,215602.0,215234.0,null
+Week 27 (Jun-28),Alberta,216454.0,210594.0,216852.0,null
+Week 27-Monday,Alberta,221040.0,213859.0,218186.0,null
+Week 27-Tuesday,Alberta,226655.0,222449.0,224547.0,null
+Week 27-Wednesday,Alberta,228725.0,220884.0,225190.0,null
+Week 27-Thursday,Alberta,233783.0,227925.0,224884.0,null
+Week 27-Friday,Alberta,236270.0,232947.0,223197.0,null
+Week 27-Saturday,Alberta,227483.0,217789.0,219501.0,null
+Week 28 (Jul-05),Alberta,228317.0,215440.0,218802.0,null
+Week 28-Monday,Alberta,227845.0,231542.0,226269.0,null
+Week 28-Tuesday,Alberta,218478.0,230997.0,225137.0,null
+Week 28-Wednesday,Alberta,219066.0,230545.0,227700.0,null
+Week 28-Thursday,Alberta,227783.0,234628.0,231357.0,null
+Week 28-Friday,Alberta,228529.0,233452.0,233269.0,null
+Week 28-Saturday,Alberta,223635.0,216762.0,227718.0,null
+Week 29 (Jul-12),Alberta,214238.0,223713.0,225787.0,null
+Week 29-Monday,Alberta,218509.0,238870.0,231505.0,null
+Week 29-Tuesday,Alberta,220396.0,244729.0,233200.0,null
+Week 29-Wednesday,Alberta,224139.0,242769.0,232330.0,null
+Week 29-Thursday,Alberta,227599.0,241167.0,229744.0,null
+Week 29-Friday,Alberta,222993.0,237993.0,227285.0,null
+Week 29-Saturday,Alberta,219107.0,222033.0,220650.0,null
 Week 1 (Dec-29),British Colombia,205231.0,null,null,null
 Week 1-Monday,British Colombia,222012.0,210648,null,null
 Week 1-Tuesday,British Colombia,236515.0,222835,190120,null
@@ -498,8 +568,43 @@ Week 23-Friday,British Colombia,151960.0,153738,158335,145808
 Week 23-Saturday,British Colombia,141333.0,144643,151127,139150
 Week 24 (Jun-07),British Colombia,136182.0,144221,149721,137357
 Week 24-Monday,British Colombia,146525.0,155566,159219,147787
-Week 24-Tuesday,British Colombia,143149.0,156379,163526,null
+Week 24-Tuesday,British Colombia,143149.0,156379,163526,150357
 Week 24-Wednesday,British Colombia,144220.0,152962,168653,null
 Week 24-Thursday,British Colombia,149644.0,154142,164591,null
 Week 24-Friday,British Colombia,146999.0,154386,159948,null
 Week 24-Saturday,British Colombia,138680.0,147012,153227,null
+Week 25 (Jun-14),British Colombia,140535.0,148990,151782,null
+Week 25-Monday,British Colombia,151247.0,166372,164289,null
+Week 25-Tuesday,British Colombia,148621.0,166345,161208,null
+Week 25-Wednesday,British Colombia,149642.0,165776,156098,null
+Week 25-Thursday,British Colombia,152586.0,157109,156471,null
+Week 25-Friday,British Colombia,152567.0,154935,158250,null
+Week 25-Saturday,British Colombia,147463.0,147432,150696,null
+Week 26 (Jun-21),British Colombia,150571.0,150301,147135,null
+Week 26-Monday,British Colombia,160185.0,157519,157485,null
+Week 26-Tuesday,British Colombia,157945.0,155695,157731,null
+Week 26-Wednesday,British Colombia,154985.0,155652,157455,null
+Week 26-Thursday,British Colombia,155924.0,155057,154931,null
+Week 26-Friday,British Colombia,154948.0,154744,152705,null
+Week 26-Saturday,British Colombia,141106.0,146638,146363,null
+Week 27 (Jun-28),British Colombia,141790.0,142220,144794,null
+Week 27-Monday,British Colombia,146327.0,145361,148928,null
+Week 27-Tuesday,British Colombia,153572.0,157491,155508,null
+Week 27-Wednesday,British Colombia,158616.0,158747,156848,null
+Week 27-Thursday,British Colombia,162699.0,167082,153700,null
+Week 27-Friday,British Colombia,157656.0,163048,154438,null
+Week 27-Saturday,British Colombia,146577.0,149801,146632,null
+Week 28 (Jul-05),British Colombia,147102.0,149641,144571,null
+Week 28-Monday,British Colombia,155712.0,160094,156921,null
+Week 28-Tuesday,British Colombia,154139.0,156012,160028,null
+Week 28-Wednesday,British Colombia,155948.0,161231,158521,null
+Week 28-Thursday,British Colombia,156655.0,162862,156320,null
+Week 28-Friday,British Colombia,159158.0,162661,157543,null
+Week 28-Saturday,British Colombia,149587.0,153510,150038,null
+Week 29 (Jul-12),British Colombia,140508.0,154745,150314,null
+Week 29-Monday,British Colombia,155191.0,168287,159335,null
+Week 29-Tuesday,British Colombia,157592.0,167568,158139,null
+Week 29-Wednesday,British Colombia,157663.0,164352,153313,null
+Week 29-Thursday,British Colombia,153161.0,159282,152126,null
+Week 29-Friday,British Colombia,153787.0,155022,151775,null
+Week 29-Saturday,British Colombia,147397.0,143878,145622,null
