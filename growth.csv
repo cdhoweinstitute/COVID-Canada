@@ -158,6 +158,7 @@ Jun-14,Alberta,50,0
 Jun-15,Alberta,20,1
 Jun-16,Alberta,29,0
 Jun-17,Alberta,48,0
+Jun-18,Alberta,49,1
 Jan-23,British Columbia,0,0
 Jan-24,British Columbia,0,0
 Jan-25,British Columbia,0,0
@@ -305,6 +306,7 @@ Jun-14,British Columbia,0,0
 Jun-15,British Columbia,36,0
 Jun-16,British Columbia,11,0
 Jun-17,British Columbia,19,0
+Jun-18,British Columbia,8,0
 Jan-23,Manitoba,0,0
 Jan-24,Manitoba,0,0
 Jan-25,Manitoba,0,0
@@ -452,6 +454,7 @@ Jun-14,Manitoba,1,0
 Jun-15,Manitoba,0,0
 Jun-16,Manitoba,0,0
 Jun-17,Manitoba,2,0
+Jun-18,Manitoba,2,0
 Jan-23,New Brunswick,0,0
 Jan-24,New Brunswick,0,0
 Jan-25,New Brunswick,0,0
@@ -599,6 +602,7 @@ Jun-14,New Brunswick,0,0
 Jun-15,New Brunswick,3,0
 Jun-16,New Brunswick,3,0
 Jun-17,New Brunswick,1,0
+Jun-18,New Brunswick,0,0
 Jan-23,Newfoundland and Labrador,0,0
 Jan-24,Newfoundland and Labrador,0,0
 Jan-25,Newfoundland and Labrador,0,0
@@ -746,6 +750,7 @@ Jun-14,Newfoundland and Labrador,0,0
 Jun-15,Newfoundland and Labrador,0,0
 Jun-16,Newfoundland and Labrador,0,0
 Jun-17,Newfoundland and Labrador,0,0
+Jun-18,Newfoundland and Labrador,0,0
 Jan-23,Nova Scotia,0,0
 Jan-24,Nova Scotia,0,0
 Jan-25,Nova Scotia,0,0
@@ -893,6 +898,7 @@ Jun-14,Nova Scotia,0,0
 Jun-15,Nova Scotia,0,0
 Jun-16,Nova Scotia,0,0
 Jun-17,Nova Scotia,0,0
+Jun-18,Nova Scotia,0,0
 Jan-23,Ontario,0,0
 Jan-24,Ontario,0,0
 Jan-25,Ontario,0,0
@@ -1040,6 +1046,7 @@ Jun-14,Ontario,181,8
 Jun-15,Ontario,180,0
 Jun-16,Ontario,188,16
 Jun-17,Ontario,208,12
+Jun-18,Ontario,192,6
 Jan-23,Prince Edward Island,0,0
 Jan-24,Prince Edward Island,0,0
 Jan-25,Prince Edward Island,0,0
@@ -1187,6 +1194,7 @@ Jun-14,Prince Edward Island,0,0
 Jun-15,Prince Edward Island,0,0
 Jun-16,Prince Edward Island,0,0
 Jun-17,Prince Edward Island,0,0
+Jun-18,Prince Edward Island,0,0
 Jan-23,Quebec,0,0
 Jan-24,Quebec,0,0
 Jan-25,Quebec,0,0
@@ -1334,6 +1342,7 @@ Jun-14,Quebec,128,27
 Jun-15,Quebec,102,20
 Jun-16,Quebec,92,27
 Jun-17,Quebec,117,29
+Jun-18,Quebec,120,42
 Jan-23,Saskatchewan,0,0
 Jan-24,Saskatchewan,0,0
 Jan-25,Saskatchewan,0,0
@@ -1481,6 +1490,7 @@ Jun-14,Saskatchewan,1,0
 Jun-15,Saskatchewan,18,0
 Jun-16,Saskatchewan,1,0
 Jun-17,Saskatchewan,9,0
+Jun-18,Saskatchewan,15,0
 Jan-23,Repartriated Canadians,0,0
 Jan-24,Repartriated Canadians,0,0
 Jan-25,Repartriated Canadians,0,0
@@ -1628,6 +1638,7 @@ Jun-14,Repartriated Canadians,0,0
 Jun-15,Repartriated Canadians,0,0
 Jun-16,Repartriated Canadians,0,0
 Jun-17,Repartriated Canadians,0,0
+Jun-18,Repartriated Canadians,0,0
 Jan-23,Canada,0,0
 Jan-24,Canada,0,0
 Jan-25,Canada,0,0
@@ -1775,3 +1786,4 @@ Jun-14,Canada,361,35
 Jun-15,Canada,359,10
 Jun-16,Canada,324,43
 Jun-17,Canada,404,41
+Jun-18,Canada,386,49
