@@ -172,6 +172,7 @@ Jun-28,Alberta,39,0
 Jun-29,Alberta,71,0
 Jun-30,Alberta,41,0
 Jul-01,Alberta,0,0
+Jul-02,Alberta,94,1
 Jan-23,British Columbia,0,0
 Jan-24,British Columbia,0,0
 Jan-25,British Columbia,0,0
@@ -333,6 +334,7 @@ Jun-28,British Columbia,0,0
 Jun-29,British Columbia,26,0
 Jun-30,British Columbia,12,0
 Jul-01,British Columbia,0,0
+Jul-02,British Columbia,24,3
 Jan-23,Manitoba,0,0
 Jan-24,Manitoba,0,0
 Jan-25,Manitoba,0,0
@@ -494,6 +496,7 @@ Jun-28,Manitoba,0,0
 Jun-29,Manitoba,2,0
 Jun-30,Manitoba,1,0
 Jul-01,Manitoba,0,0
+Jul-02,Manitoba,0,0
 Jan-23,New Brunswick,0,0
 Jan-24,New Brunswick,0,0
 Jan-25,New Brunswick,0,0
@@ -655,6 +658,7 @@ Jun-28,New Brunswick,0,0
 Jun-29,New Brunswick,0,0
 Jun-30,New Brunswick,0,0
 Jul-01,New Brunswick,0,0
+Jul-02,New Brunswick,0,0
 Jan-23,Newfoundland and Labrador,0,0
 Jan-24,Newfoundland and Labrador,0,0
 Jan-25,Newfoundland and Labrador,0,0
@@ -816,6 +820,7 @@ Jun-28,Newfoundland and Labrador,0,0
 Jun-29,Newfoundland and Labrador,0,0
 Jun-30,Newfoundland and Labrador,0,0
 Jul-01,Newfoundland and Labrador,0,0
+Jul-02,Newfoundland and Labrador,0,0
 Jan-23,Nova Scotia,0,0
 Jan-24,Nova Scotia,0,0
 Jan-25,Nova Scotia,0,0
@@ -977,6 +982,7 @@ Jun-28,Nova Scotia,0,0
 Jun-29,Nova Scotia,0,0
 Jun-30,Nova Scotia,1,0
 Jul-01,Nova Scotia,1,0
+Jul-02,Nova Scotia,1,0
 Jan-23,Ontario,0,0
 Jan-24,Ontario,0,0
 Jan-25,Ontario,0,0
@@ -1138,6 +1144,7 @@ Jun-28,Ontario,275,6
 Jun-29,Ontario,226,9
 Jun-30,Ontario,138,4
 Jul-01,Ontario,124,4
+Jul-02,Ontario,157,3
 Jan-23,Prince Edward Island,0,0
 Jan-24,Prince Edward Island,0,0
 Jan-25,Prince Edward Island,0,0
@@ -1299,6 +1306,7 @@ Jun-28,Prince Edward Island,0,0
 Jun-29,Prince Edward Island,0,0
 Jun-30,Prince Edward Island,0,0
 Jul-01,Prince Edward Island,0,0
+Jul-02,Prince Edward Island,0,0
 Jan-23,Quebec,0,0
 Jan-24,Quebec,0,0
 Jan-25,Quebec,0,0
@@ -1460,6 +1468,7 @@ Jun-28,Quebec,0,0
 Jun-29,Quebec,311,37
 Jun-30,Quebec,68,18
 Jul-01,Quebec,66,24
+Jul-02,Quebec,69,14
 Jan-23,Saskatchewan,0,0
 Jan-24,Saskatchewan,0,0
 Jan-25,Saskatchewan,0,0
@@ -1621,6 +1630,7 @@ Jun-28,Saskatchewan,1,0
 Jun-29,Saskatchewan,1,0
 Jun-30,Saskatchewan,6,0
 Jul-01,Saskatchewan,0,0
+Jul-02,Saskatchewan,10,1
 Jan-23,Repartriated Canadians,0,0
 Jan-24,Repartriated Canadians,0,0
 Jan-25,Repartriated Canadians,0,0
@@ -1782,6 +1792,7 @@ Jun-28,Repartriated Canadians,0,0
 Jun-29,Repartriated Canadians,0,0
 Jun-30,Repartriated Canadians,0,0
 Jul-01,Repartriated Canadians,0,0
+Jul-02,Repartriated Canadians,0,0
 Jan-23,Canada,0,0
 Jan-24,Canada,0,0
 Jan-25,Canada,0,0
@@ -1943,3 +1954,4 @@ Jun-28,Canada,315,6
 Jun-29,Canada,637,46
 Jun-30,Canada,267,22
 Jul-01,Canada,191,28
+Jul-02,Canada,355,22
