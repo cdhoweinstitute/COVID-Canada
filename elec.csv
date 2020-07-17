@@ -197,9 +197,9 @@ Week 28-Friday,Ontario,373219.0,436434,386556,488557
 Week 28-Saturday,Ontario,351853.0,409953,376780,401268
 Week 29 (Jul-12),Ontario,351793.0,427343,364597,370345
 Week 29-Monday,Ontario,394223.0,449611,400866,386519
-Week 29-Tuesday,Ontario,406015.0,412609,431989,null
-Week 29-Wednesday,Ontario,418109.0,383159,440622,null
-Week 29-Thursday,Ontario,399728.0,395331,433936,null
+Week 29-Tuesday,Ontario,406015.0,412609,431989,398938
+Week 29-Wednesday,Ontario,418109.0,383159,440622,421996
+Week 29-Thursday,Ontario,399728.0,395331,433936,417593
 Week 29-Friday,Ontario,414102.0,417909,458216,null
 Week 29-Saturday,Ontario,367345.0,387368,446430,null
 Week 1 (Dec-29),Alberta,235155.0,null,null,null
@@ -401,8 +401,8 @@ Week 28-Saturday,Alberta,223635.0,216762.0,227718.0,209696.0
 Week 29 (Jul-12),Alberta,214238.0,223713.0,225787.0,206616.0
 Week 29-Monday,Alberta,218509.0,238870.0,231505.0,210041.0
 Week 29-Tuesday,Alberta,220396.0,244729.0,233200.0,213427.0
-Week 29-Wednesday,Alberta,224139.0,242769.0,232330.0,null
-Week 29-Thursday,Alberta,227599.0,241167.0,229744.0,null
+Week 29-Wednesday,Alberta,224139.0,242769.0,232330.0,215132.0
+Week 29-Thursday,Alberta,227599.0,241167.0,229744.0,218593.0
 Week 29-Friday,Alberta,222993.0,237993.0,227285.0,null
 Week 29-Saturday,Alberta,219107.0,222033.0,220650.0,null
 Week 1 (Dec-29),British Colombia,205231.0,null,null,null
