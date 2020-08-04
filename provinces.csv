@@ -189,6 +189,11 @@ Jul-26,Alberta,10086,178
 Jul-27,Alberta,10390,186
 Jul-28,Alberta,10470,187
 Jul-29,Alberta,10603,190
+Jul-30,Alberta,10716,195
+Jul-31,Alberta,10843,196
+Aug-01,Alberta,10843,196
+Aug-02,Alberta,10843,196
+Aug-03,Alberta,10843,196
 Jan-22,British Columbia,0,0
 Jan-23,British Columbia,0,0
 Jan-24,British Columbia,0,0
@@ -379,6 +384,11 @@ Jul-26,British Columbia,3419,191
 Jul-27,British Columbia,3500,193
 Jul-28,British Columbia,3523,194
 Jul-29,British Columbia,3562,194
+Jul-30,British Columbia,3591,194
+Jul-31,British Columbia,3641,195
+Aug-01,British Columbia,3641,195
+Aug-02,British Columbia,3641,195
+Aug-03,British Columbia,3641,195
 Jan-22,Manitoba,0,0
 Jan-23,Manitoba,0,0
 Jan-24,Manitoba,0,0
@@ -569,6 +579,11 @@ Jul-26,Manitoba,394,7
 Jul-27,Manitoba,400,7
 Jul-28,Manitoba,405,8
 Jul-29,Manitoba,407,8
+Jul-30,Manitoba,409,8
+Jul-31,Manitoba,415,8
+Aug-01,Manitoba,417,8
+Aug-02,Manitoba,435,8
+Aug-03,Manitoba,442,8
 Jan-22,New Brunswick,0,0
 Jan-23,New Brunswick,0,0
 Jan-24,New Brunswick,0,0
@@ -759,6 +774,11 @@ Jul-26,New Brunswick,170,2
 Jul-27,New Brunswick,170,2
 Jul-28,New Brunswick,170,2
 Jul-29,New Brunswick,170,2
+Jul-30,New Brunswick,170,2
+Jul-31,New Brunswick,170,2
+Aug-01,New Brunswick,170,2
+Aug-02,New Brunswick,170,2
+Aug-03,New Brunswick,170,2
 Jan-22,Newfoundland and Labrador,0,0
 Jan-23,Newfoundland and Labrador,0,0
 Jan-24,Newfoundland and Labrador,0,0
@@ -949,6 +969,11 @@ Jul-26,Newfoundland and Labrador,266,3
 Jul-27,Newfoundland and Labrador,266,3
 Jul-28,Newfoundland and Labrador,266,3
 Jul-29,Newfoundland and Labrador,266,3
+Jul-30,Newfoundland and Labrador,266,3
+Jul-31,Newfoundland and Labrador,266,3
+Aug-01,Newfoundland and Labrador,266,3
+Aug-02,Newfoundland and Labrador,266,3
+Aug-03,Newfoundland and Labrador,266,3
 Jan-22,Nova Scotia,0,0
 Jan-23,Nova Scotia,0,0
 Jan-24,Nova Scotia,0,0
@@ -1139,6 +1164,11 @@ Jul-26,Nova Scotia,1067,63
 Jul-27,Nova Scotia,1067,63
 Jul-28,Nova Scotia,1067,63
 Jul-29,Nova Scotia,1067,64
+Jul-30,Nova Scotia,1067,64
+Jul-31,Nova Scotia,1069,64
+Aug-01,Nova Scotia,1069,64
+Aug-02,Nova Scotia,1071,64
+Aug-03,Nova Scotia,1071,64
 Jan-22,Ontario,0,0
 Jan-23,Ontario,0,0
 Jan-24,Ontario,0,0
@@ -1329,6 +1359,11 @@ Jul-26,Ontario,40558,2806
 Jul-27,Ontario,40673,2807
 Jul-28,Ontario,40787,2812
 Jul-29,Ontario,40873,2813
+Jul-30,Ontario,40953,2816
+Jul-31,Ontario,41178,2819
+Aug-01,Ontario,41257,2821
+Aug-02,Ontario,41333,2822
+Aug-03,Ontario,41391,2825
 Jan-22,Prince Edward Island,0,0
 Jan-23,Prince Edward Island,0,0
 Jan-24,Prince Edward Island,0,0
@@ -1519,6 +1554,11 @@ Jul-26,Prince Edward Island,36,0
 Jul-27,Prince Edward Island,36,0
 Jul-28,Prince Edward Island,36,0
 Jul-29,Prince Edward Island,36,0
+Jul-30,Prince Edward Island,36,0
+Jul-31,Prince Edward Island,36,0
+Aug-01,Prince Edward Island,36,0
+Aug-02,Prince Edward Island,36,0
+Aug-03,Prince Edward Island,36,0
 Jan-22,Quebec,0,0
 Jan-23,Quebec,0,0
 Jan-24,Quebec,0,0
@@ -1709,6 +1749,11 @@ Jul-26,Quebec,58583,5667
 Jul-27,Quebec,58728,5667
 Jul-28,Quebec,58897,5670
 Jul-29,Quebec,59073,5670
+Jul-30,Quebec,59131,5673
+Jul-31,Quebec,59312,5674
+Aug-01,Quebec,59458,5678
+Aug-02,Quebec,59599,5681
+Aug-03,Quebec,59722,5683
 Jan-22,Saskatchewan,0,0
 Jan-23,Saskatchewan,0,0
 Jan-24,Saskatchewan,0,0
@@ -1899,6 +1944,11 @@ Jul-26,Saskatchewan,1178,16
 Jul-27,Saskatchewan,1209,16
 Jul-28,Saskatchewan,1218,17
 Jul-29,Saskatchewan,1268,17
+Jul-30,Saskatchewan,1306,18
+Jul-31,Saskatchewan,1319,18
+Aug-01,Saskatchewan,1334,18
+Aug-02,Saskatchewan,1342,18
+Aug-03,Saskatchewan,1359,18
 Jan-22,Repartriated Canadians,0,0
 Jan-23,Repartriated Canadians,0,0
 Jan-24,Repartriated Canadians,0,0
@@ -2089,6 +2139,11 @@ Jul-26,Repartriated Canadians,13,1
 Jul-27,Repartriated Canadians,13,1
 Jul-28,Repartriated Canadians,13,1
 Jul-29,Repartriated Canadians,13,1
+Jul-30,Repartriated Canadians,13,1
+Jul-31,Repartriated Canadians,13,1
+Aug-01,Repartriated Canadians,13,1
+Aug-02,Repartriated Canadians,13,1
+Aug-03,Repartriated Canadians,13,1
 Jan-22,Canada,0,0
 Jan-23,Canada,0,0
 Jan-24,Canada,0,0
@@ -2279,3 +2334,8 @@ Jul-26,Canada,115789,8934
 Jul-27,Canada,116471,8945
 Jul-28,Canada,116871,8957
 Jul-29,Canada,117357,8962
+Jul-30,Canada,117677,8974
+Jul-31,Canada,118281,8980
+Aug-01,Canada,118523,8986
+Aug-02,Canada,118768,8990
+Aug-03,Canada,118973,8995
