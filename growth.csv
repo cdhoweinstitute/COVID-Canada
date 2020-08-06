@@ -206,6 +206,7 @@ Aug-01,Alberta,0,0
 Aug-02,Alberta,0,0
 Aug-03,Alberta,0,0
 Aug-04,Alberta,303,5
+Aug-05,Alberta,94,2
 Jan-23,British Columbia,0,0
 Jan-24,British Columbia,0,0
 Jan-25,British Columbia,0,0
@@ -401,6 +402,7 @@ Aug-01,British Columbia,0,0
 Aug-02,British Columbia,0,0
 Aug-03,British Columbia,0,0
 Aug-04,British Columbia,146,0
+Aug-05,British Columbia,47,0
 Jan-23,Manitoba,0,0
 Jan-24,Manitoba,0,0
 Jan-25,Manitoba,0,0
@@ -596,6 +598,7 @@ Aug-01,Manitoba,2,0
 Aug-02,Manitoba,18,0
 Aug-03,Manitoba,7,0
 Aug-04,Manitoba,1,0
+Aug-05,Manitoba,1,0
 Jan-23,New Brunswick,0,0
 Jan-24,New Brunswick,0,0
 Jan-25,New Brunswick,0,0
@@ -791,6 +794,7 @@ Aug-01,New Brunswick,0,0
 Aug-02,New Brunswick,0,0
 Aug-03,New Brunswick,0,0
 Aug-04,New Brunswick,0,0
+Aug-05,New Brunswick,4,0
 Jan-23,Newfoundland and Labrador,0,0
 Jan-24,Newfoundland and Labrador,0,0
 Jan-25,Newfoundland and Labrador,0,0
@@ -986,6 +990,7 @@ Aug-01,Newfoundland and Labrador,0,0
 Aug-02,Newfoundland and Labrador,0,0
 Aug-03,Newfoundland and Labrador,0,0
 Aug-04,Newfoundland and Labrador,0,0
+Aug-05,Newfoundland and Labrador,0,0
 Jan-23,Nova Scotia,0,0
 Jan-24,Nova Scotia,0,0
 Jan-25,Nova Scotia,0,0
@@ -1181,6 +1186,7 @@ Aug-01,Nova Scotia,0,0
 Aug-02,Nova Scotia,2,0
 Aug-03,Nova Scotia,0,0
 Aug-04,Nova Scotia,0,0
+Aug-05,Nova Scotia,0,0
 Jan-23,Ontario,0,0
 Jan-24,Ontario,0,0
 Jan-25,Ontario,0,0
@@ -1376,6 +1382,7 @@ Aug-01,Ontario,79,2
 Aug-02,Ontario,76,1
 Aug-03,Ontario,58,3
 Aug-04,Ontario,104,3
+Aug-05,Ontario,65,1
 Jan-23,Prince Edward Island,0,0
 Jan-24,Prince Edward Island,0,0
 Jan-25,Prince Edward Island,0,0
@@ -1571,6 +1578,7 @@ Aug-01,Prince Edward Island,0,0
 Aug-02,Prince Edward Island,0,0
 Aug-03,Prince Edward Island,0,0
 Aug-04,Prince Edward Island,0,0
+Aug-05,Prince Edward Island,0,0
 Jan-23,Quebec,0,0
 Jan-24,Quebec,0,0
 Jan-25,Quebec,0,0
@@ -1766,6 +1774,7 @@ Aug-01,Quebec,146,4
 Aug-02,Quebec,141,3
 Aug-03,Quebec,123,2
 Aug-04,Quebec,123,2
+Aug-05,Quebec,155,2
 Jan-23,Saskatchewan,0,0
 Jan-24,Saskatchewan,0,0
 Jan-25,Saskatchewan,0,0
@@ -1961,6 +1970,7 @@ Aug-01,Saskatchewan,15,0
 Aug-02,Saskatchewan,8,0
 Aug-03,Saskatchewan,17,0
 Aug-04,Saskatchewan,9,0
+Aug-05,Saskatchewan,8,0
 Jan-23,Repartriated Canadians,0,0
 Jan-24,Repartriated Canadians,0,0
 Jan-25,Repartriated Canadians,0,0
@@ -2156,6 +2166,7 @@ Aug-01,Repartriated Canadians,0,0
 Aug-02,Repartriated Canadians,0,0
 Aug-03,Repartriated Canadians,0,0
 Aug-04,Repartriated Canadians,0,0
+Aug-05,Repartriated Canadians,0,0
 Jan-23,Canada,0,0
 Jan-24,Canada,0,0
 Jan-25,Canada,0,0
@@ -2351,3 +2362,4 @@ Aug-01,Canada,242,6
 Aug-02,Canada,245,4
 Aug-03,Canada,205,5
 Aug-04,Canada,686,10
+Aug-05,Canada,374,5
