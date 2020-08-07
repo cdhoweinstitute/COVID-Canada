@@ -493,7 +493,7 @@ Week 32 (Aug-02),Alberta,213420.0,221837.0,223843.0,218144.0
 Week 32-Monday,Alberta,218315.0,228322.0,228598.0,216730.0
 Week 32-Tuesday,Alberta,224311.0,238617.0,234088.0,220320.0
 Week 32-Wednesday,Alberta,226762.0,240049.0,233958.0,223255.0
-Week 32-Thursday,Alberta,229393.0,244485.0,238527.0,null
+Week 32-Thursday,Alberta,229393.0,244485.0,238527.0,225689.0
 Week 32-Friday,Alberta,228350.0,246337.0,232040.0,null
 Week 32-Saturday,Alberta,219885.0,229150.0,220949.0,null
 Week 33 (Aug-09),Alberta,218414.0,222729.0,219398.0,null
@@ -761,11 +761,11 @@ Week 31-Tuesday,British Colombia,165547.0,171637,156708,165537
 Week 31-Wednesday,British Colombia,165982.0,165453,158773,167629
 Week 31-Thursday,British Colombia,168125.0,160996,160709,170184
 Week 31-Friday,British Colombia,168135.0,159771,160427,null
-Week 31-Saturday,British Colombia,154580.0,151912,150518,null
-Week 32 (Aug-02),British Colombia,151399.0,153626,151352,null
-Week 32-Monday,British Colombia,153293.0,161096,156917,null
-Week 32-Tuesday,British Colombia,166573.0,173760,166447,null
-Week 32-Wednesday,British Colombia,165278.0,176706,163580,null
+Week 31-Saturday,British Colombia,154580.0,151912,150518,156950
+Week 32 (Aug-02),British Colombia,151399.0,153626,151352,152403
+Week 32-Monday,British Colombia,153293.0,161096,156917,153694
+Week 32-Tuesday,British Colombia,166573.0,173760,166447,165950
+Week 32-Wednesday,British Colombia,165278.0,176706,163580,163518
 Week 32-Thursday,British Colombia,169449.0,179054,161308,null
 Week 32-Friday,British Colombia,169516.0,176046,160653,null
 Week 32-Saturday,British Colombia,153686.0,153380,147690,null
