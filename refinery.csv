@@ -28,7 +28,7 @@ Ontario,Week 26 (June 30),49.15,61.08,59.02,48.81
 Ontario,Week 27 (July 7),49.79,59.04,57.94,49.27
 Ontario,Week 28 (July 14),49.85,60.95,58.22,53.23
 Ontario,Week 29 (July 21),50.04,61.17,59.76,53.13
-Ontario,Week 30 (July 28),56.57,61.25,59.19,null
+Ontario,Week 30 (July 28),56.57,61.25,59.19,54.05
 Ontario,Week 31 (Aug-04),58.04,61.31,59.44,null
 Ontario,Week 32 (Aug-11),56.56,61.45,52.55,null
 Ontario,Week 33 (Aug-18),55.9,61.19,59.86,null
@@ -63,7 +63,7 @@ East,Week 26 (June 30),126.61,116.13,121.99,87.15
 East,Week 27 (July 7),126.07,118.29,117.97,94.34
 East,Week 28 (July 14),124.02,118.63,113.86,94.18
 East,Week 29 (July 21),124.22,121.38,113.87,95.63
-East,Week 30 (July 28),124.21,119.35,109.96,null
+East,Week 30 (July 28),124.21,119.35,109.96,95.14
 East,Week 31 (Aug-04),125.14,114.09,118.46,null
 East,Week 32 (Aug-11),121.51,121.31,118.36,null
 East,Week 33 (Aug-18),123.2,119.92,121.66,null
@@ -98,7 +98,7 @@ West,Week 26 (June 30),93.64,79.14,94.47,82.79
 West,Week 27 (July 7),95.26,86.84,97.97,83.71
 West,Week 28 (July 14),99.47,95.54,96.79,79.8
 West,Week 29 (July 21),91.71,97.51,100.21,77.73
-West,Week 30 (July 28),94.46,95.71,100.49,null
+West,Week 30 (July 28),94.46,95.71,100.49,78.31
 West,Week 31 (Aug-04),99.79,93.1,101.38,null
 West,Week 32 (Aug-11),98.63,98.68,102.49,null
 West,Week 33 (Aug-18),101.77,94.79,101.69,null
