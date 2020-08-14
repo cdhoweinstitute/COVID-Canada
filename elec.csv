@@ -225,9 +225,9 @@ Week 32-Friday,Ontario,389885.0,404771,372578,377069
 Week 32-Saturday,Ontario,349130.0,376543,335238,368760
 Week 33 (Aug-09),Ontario,338610.0,386389,348653,394095
 Week 33-Monday,Ontario,386192.0,426267,413056,466048
-Week 33-Tuesday,Ontario,393439.0,436699,420857,null
-Week 33-Wednesday,Ontario,384035.0,445789,395004,null
-Week 33-Thursday,Ontario,378633.0,446876,377666,null
+Week 33-Tuesday,Ontario,393439.0,436699,420857,447795
+Week 33-Wednesday,Ontario,384035.0,445789,395004,421328
+Week 33-Thursday,Ontario,378633.0,446876,377666,434764
 Week 33-Friday,Ontario,393193.0,440201,390454,null
 Week 33-Saturday,Ontario,343996.0,380695,381885,null
 Week 34 (Aug-16),Ontario,348029.0,365304,382353,null
@@ -499,8 +499,8 @@ Week 32-Saturday,Alberta,219885.0,229150.0,220949.0,207809.0
 Week 33 (Aug-09),Alberta,218414.0,222729.0,219398.0,205042.0
 Week 33-Monday,Alberta,224528.0,232157.0,226507.0,215391.0
 Week 33-Tuesday,Alberta,219366.0,237357.0,228732.0,215216.0
-Week 33-Wednesday,Alberta,219216.0,237682.0,229143.0,null
-Week 33-Thursday,Alberta,224181.0,237801.0,231643.0,null
+Week 33-Wednesday,Alberta,219216.0,237682.0,229143.0,214244.0
+Week 33-Thursday,Alberta,224181.0,237801.0,231643.0,216320.0
 Week 33-Friday,Alberta,225242.0,237239.0,224383.0,null
 Week 33-Saturday,Alberta,212596.0,223604.0,214553.0,null
 Week 34 (Aug-16),Alberta,210666.0,220451.0,215417.0,null
@@ -771,7 +771,7 @@ Week 32-Friday,British Colombia,169516.0,176046,160653,153509
 Week 32-Saturday,British Colombia,153686.0,153380,147690,149290
 Week 33 (Aug-09),British Colombia,149290.0,147023,145020,149257
 Week 33-Monday,British Colombia,159080.0,161640,157360,162725
-Week 33-Tuesday,British Colombia,161572.0,166100,160052,null
+Week 33-Tuesday,British Colombia,161572.0,166100,160052,160442
 Week 33-Wednesday,British Colombia,162038.0,167912,164604,null
 Week 33-Thursday,British Colombia,164560.0,165856,165175,null
 Week 33-Friday,British Colombia,161035.0,164309,159138,null
