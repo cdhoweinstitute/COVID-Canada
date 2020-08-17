@@ -204,6 +204,9 @@ Aug-10,Alberta,11687,213
 Aug-11,Alberta,11772,216
 Aug-12,Alberta,11893,217
 Aug-13,Alberta,11969,220
+Aug-14,Alberta,12053,221
+Aug-15,Alberta,12053,221
+Aug-16,Alberta,12053,221
 Jan-22,British Columbia,0,0
 Jan-23,British Columbia,0,0
 Jan-24,British Columbia,0,0
@@ -409,6 +412,9 @@ Aug-10,British Columbia,4065,195
 Aug-11,British Columbia,4111,195
 Aug-12,British Columbia,4111,195
 Aug-13,British Columbia,4274,196
+Aug-14,British Columbia,4358,196
+Aug-15,British Columbia,4358,196
+Aug-16,British Columbia,4358,196
 Jan-22,Manitoba,0,0
 Jan-23,Manitoba,0,0
 Jan-24,Manitoba,0,0
@@ -614,6 +620,9 @@ Aug-10,Manitoba,558,8
 Aug-11,Manitoba,562,8
 Aug-12,Manitoba,578,8
 Aug-13,Manitoba,603,8
+Aug-14,Manitoba,643,8
+Aug-15,Manitoba,663,9
+Aug-16,Manitoba,697,9
 Jan-22,New Brunswick,0,0
 Jan-23,New Brunswick,0,0
 Jan-24,New Brunswick,0,0
@@ -819,6 +828,9 @@ Aug-10,New Brunswick,176,2
 Aug-11,New Brunswick,177,2
 Aug-12,New Brunswick,178,2
 Aug-13,New Brunswick,180,2
+Aug-14,New Brunswick,180,2
+Aug-15,New Brunswick,184,2
+Aug-16,New Brunswick,186,2
 Jan-22,Newfoundland and Labrador,0,0
 Jan-23,Newfoundland and Labrador,0,0
 Jan-24,Newfoundland and Labrador,0,0
@@ -1024,6 +1036,9 @@ Aug-10,Newfoundland and Labrador,268,3
 Aug-11,Newfoundland and Labrador,268,3
 Aug-12,Newfoundland and Labrador,268,3
 Aug-13,Newfoundland and Labrador,268,3
+Aug-14,Newfoundland and Labrador,268,3
+Aug-15,Newfoundland and Labrador,268,3
+Aug-16,Newfoundland and Labrador,268,3
 Jan-22,Nova Scotia,0,0
 Jan-23,Nova Scotia,0,0
 Jan-24,Nova Scotia,0,0
@@ -1229,6 +1244,9 @@ Aug-10,Nova Scotia,1071,64
 Aug-11,Nova Scotia,1071,64
 Aug-12,Nova Scotia,1071,64
 Aug-13,Nova Scotia,1071,64
+Aug-14,Nova Scotia,1072,64
+Aug-15,Nova Scotia,1074,64
+Aug-16,Nova Scotia,1074,64
 Jan-22,Ontario,0,0
 Jan-23,Ontario,0,0
 Jan-24,Ontario,0,0
@@ -1434,6 +1452,9 @@ Aug-10,Ontario,42082,2832
 Aug-11,Ontario,42162,2832
 Aug-12,Ontario,42233,2833
 Aug-13,Ontario,42313,2834
+Aug-14,Ontario,42412,2835
+Aug-15,Ontario,42501,2836
+Aug-16,Ontario,42563,2836
 Jan-22,Prince Edward Island,0,0
 Jan-23,Prince Edward Island,0,0
 Jan-24,Prince Edward Island,0,0
@@ -1639,6 +1660,9 @@ Aug-10,Prince Edward Island,36,0
 Aug-11,Prince Edward Island,36,0
 Aug-12,Prince Edward Island,41,0
 Aug-13,Prince Edward Island,41,0
+Aug-14,Prince Edward Island,41,0
+Aug-15,Prince Edward Island,41,0
+Aug-16,Prince Edward Island,41,0
 Jan-22,Quebec,0,0
 Jan-23,Quebec,0,0
 Jan-24,Quebec,0,0
@@ -1844,6 +1868,9 @@ Aug-10,Quebec,60627,5696
 Aug-11,Quebec,60718,5697
 Aug-12,Quebec,60813,5709
 Aug-13,Quebec,60917,5715
+Aug-14,Quebec,61004,5718
+Aug-15,Quebec,61084,5719
+Aug-16,Quebec,61151,5720
 Jan-22,Saskatchewan,0,0
 Jan-23,Saskatchewan,0,0
 Jan-24,Saskatchewan,0,0
@@ -2049,6 +2076,9 @@ Aug-10,Saskatchewan,1450,20
 Aug-11,Saskatchewan,1479,20
 Aug-12,Saskatchewan,1484,20
 Aug-13,Saskatchewan,1511,20
+Aug-14,Saskatchewan,1541,20
+Aug-15,Saskatchewan,1566,21
+Aug-16,Saskatchewan,1580,22
 Jan-22,Repartriated Canadians,0,0
 Jan-23,Repartriated Canadians,0,0
 Jan-24,Repartriated Canadians,0,0
@@ -2254,6 +2284,9 @@ Aug-10,Repartriated Canadians,13,1
 Aug-11,Repartriated Canadians,13,1
 Aug-12,Repartriated Canadians,13,1
 Aug-13,Repartriated Canadians,13,1
+Aug-14,Repartriated Canadians,13,1
+Aug-15,Repartriated Canadians,13,1
+Aug-16,Repartriated Canadians,13,1
 Jan-22,Canada,0,0
 Jan-23,Canada,0,0
 Jan-24,Canada,0,0
@@ -2459,3 +2492,6 @@ Aug-10,Canada,122053,9034
 Aug-11,Canada,122389,9038
 Aug-12,Canada,122703,9052
 Aug-13,Canada,123180,9063
+Aug-14,Canada,123605,9068
+Aug-15,Canada,123825,9072
+Aug-16,Canada,124004,9074
