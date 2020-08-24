@@ -233,11 +233,11 @@ Week 33-Saturday,Ontario,343996.0,380695,381885,395289
 Week 34 (Aug-16),Ontario,348029.0,365304,382353,370139
 Week 34-Monday,Ontario,409044.0,406579,419231,383024
 Week 34-Tuesday,Ontario,407666.0,409862,416617,363979
-Week 34-Wednesday,Ontario,356512.0,368655,438863,null
-Week 34-Thursday,Ontario,347687.0,367940,385778,null
-Week 34-Friday,Ontario,339838.0,385308,355062,null
-Week 34-Saturday,Ontario,311814.0,363973,325837,null
-Week 35 (Aug-23),Ontario,307419.0,390905,325954,null
+Week 34-Wednesday,Ontario,356512.0,368655,438863,353522
+Week 34-Thursday,Ontario,347687.0,367940,385778,365411
+Week 34-Friday,Ontario,339838.0,385308,355062,398472
+Week 34-Saturday,Ontario,311814.0,363973,325837,398684
+Week 35 (Aug-23),Ontario,307419.0,390905,325954,410611
 Week 35-Monday,Ontario,353546.0,429184,363976,null
 Week 35-Tuesday,Ontario,361225.0,457843,374672,null
 Week 35-Wednesday,Ontario,365119.0,450249,388662,null
@@ -507,10 +507,10 @@ Week 34 (Aug-16),Alberta,210666.0,220451.0,215417.0,214611.0
 Week 34-Monday,Alberta,222426.0,229472.0,225054.0,223699.0
 Week 34-Tuesday,Alberta,228700.0,231862.0,226530.0,225925.0
 Week 34-Wednesday,Alberta,232234.0,236185.0,234917.0,221880.0
-Week 34-Thursday,Alberta,229898.0,235668.0,231285.0,null
-Week 34-Friday,Alberta,224760.0,230504.0,229034.0,null
-Week 34-Saturday,Alberta,218300.0,221235.0,221450.0,null
-Week 35 (Aug-23),Alberta,221045.0,220505.0,217330.0,null
+Week 34-Thursday,Alberta,229898.0,235668.0,231285.0,219857.0
+Week 34-Friday,Alberta,224760.0,230504.0,229034.0,220732.0
+Week 34-Saturday,Alberta,218300.0,221235.0,221450.0,210132.0
+Week 35 (Aug-23),Alberta,221045.0,220505.0,217330.0,205923.0
 Week 35-Monday,Alberta,232504.0,226764.0,225053.0,null
 Week 35-Tuesday,Alberta,230879.0,227942.0,225551.0,null
 Week 35-Wednesday,Alberta,231030.0,227554.0,223583.0,null
@@ -779,8 +779,8 @@ Week 33-Saturday,British Colombia,149632.0,151391,150408,158656
 Week 34 (Aug-16),British Colombia,147969.0,148696,149848,162827
 Week 34-Monday,British Colombia,161292.0,163606,160746,179392
 Week 34-Tuesday,British Colombia,166124.0,165721,161439,171993
-Week 34-Wednesday,British Colombia,164136.0,162299,155305,null
-Week 34-Thursday,British Colombia,157888.0,155961,159307,null
+Week 34-Wednesday,British Colombia,164136.0,162299,155305,169145
+Week 34-Thursday,British Colombia,157888.0,155961,159307,167121
 Week 34-Friday,British Colombia,154047.0,154636,157547,null
 Week 34-Saturday,British Colombia,148333.0,145240,148708,null
 Week 35 (Aug-23),British Colombia,152937.0,142678,146695,null
