@@ -253,7 +253,7 @@ Week 36-Friday,Ontario,329019.0,374005,352478,345010
 Week 36-Saturday,Ontario,295175.0,312996,319759,315718
 Week 37 (Sep-06),Ontario,294637.0,301842,310186,300805
 Week 37-Monday,Ontario,335097.0,348807,337675,322318
-Week 37-Tuesday,Ontario,342105.0,356178,356407,null
+Week 37-Tuesday,Ontario,342105.0,356178,356407,343349
 Week 37-Wednesday,Ontario,356280.0,363628,398540,null
 Week 37-Thursday,Ontario,373807.0,380873,352040,null
 Week 37-Friday,Ontario,377277.0,415815,343388,null
@@ -526,7 +526,7 @@ Week 36-Friday,Alberta,228937.0,226988.0,227732.0,211451.0
 Week 36-Saturday,Alberta,217280.0,218155.0,220792.0,205335.0
 Week 37 (Sep-06),Alberta,214051.0,214450.0,218362.0,202713.0
 Week 37-Monday,Alberta,223132.0,223879.0,226167.0,205070.0
-Week 37-Tuesday,Alberta,217838.0,220183.0,220272.0,null
+Week 37-Tuesday,Alberta,217838.0,220183.0,220272.0,210062.0
 Week 37-Wednesday,Alberta,215347.0,223672.0,218758.0,null
 Week 37-Thursday,Alberta,216561.0,225438.0,220801.0,null
 Week 37-Friday,Alberta,214066.0,226010.0,222367.0,null
@@ -795,10 +795,10 @@ Week 36-Monday,British Colombia,159827.0,146248,152512,158325
 Week 36-Tuesday,British Colombia,166056.0,157994,160618,159773
 Week 36-Wednesday,British Colombia,164960.0,155527,159879,155913
 Week 36-Thursday,British Colombia,162065.0,157465,161143,154358
-Week 36-Friday,British Colombia,157758.0,157247,160796,null
-Week 36-Saturday,British Colombia,146433.0,147622,151481,null
-Week 37 (Sep-06),British Colombia,143763.0,146903,148394,null
-Week 37-Monday,British Colombia,156276.0,155684,158084,null
+Week 36-Friday,British Colombia,157758.0,157247,160796,156910
+Week 36-Saturday,British Colombia,146433.0,147622,151481,147041
+Week 37 (Sep-06),British Colombia,143763.0,146903,148394,146067
+Week 37-Monday,British Colombia,156276.0,155684,158084,142539
 Week 37-Tuesday,British Colombia,156437.0,152871,157354,null
 Week 37-Wednesday,British Colombia,154772.0,156385,154714,null
 Week 37-Thursday,British Colombia,156766.0,158778,155061,null
