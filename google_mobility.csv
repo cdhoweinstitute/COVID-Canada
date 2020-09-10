@@ -1217,3 +1217,15 @@ Sep-04,parks_percent_change_from_baseline,1010.0,1359.0,216.0,289.0,467.0,298.0,
 Sep-04,transit_stations_percent_change_from_baseline,-141.0,-57.0,-110.0,-118.0,21.0,-101.0,-262.0,0.0,-117.0,-90.0
 Sep-04,workplaces_percent_change_from_baseline,-506.0,-719.0,-391.0,-436.0,-148.0,-354.0,-1615.0,-100.0,-2231.0,-423.0
 Sep-04,residential_percent_change_from_baseline,26.0,48.0,21.0,26.0,5.0,23.0,286.0,8.0,180.0,12.0
+Sep-05,retail_and_recreation_percent_change_from_baseline,145.0,283.0,-24.0,8.0,-5.0,49.0,676.0,49.0,466.0,40.0
+Sep-05,grocery_and_pharmacy_percent_change_from_baseline,196.0,646.0,38.0,22.0,28.0,92.0,927.0,28.0,492.0,130.0
+Sep-05,parks_percent_change_from_baseline,863.0,1425.0,228.0,202.0,312.0,536.0,2981.0,0.0,2520.0,639.0
+Sep-05,transit_stations_percent_change_from_baseline,-109.0,-26.0,-90.0,-65.0,23.0,-64.0,474.0,0.0,236.0,-91.0
+Sep-05,workplaces_percent_change_from_baseline,-287.0,-413.0,-96.0,-75.0,-39.0,-93.0,-216.0,-10.0,-301.0,-118.0
+Sep-05,residential_percent_change_from_baseline,-3.0,4.0,1.0,-10.0,-3.0,-5.0,-1.0,-3.0,-2.0,-4.0
+Sep-06,retail_and_recreation_percent_change_from_baseline,17.0,517.0,10.0,210.0,72.0,455.0,1400.0,227.0,951.0,88.0
+Sep-06,grocery_and_pharmacy_percent_change_from_baseline,114.0,403.0,46.0,181.0,44.0,330.0,1080.0,111.0,800.0,81.0
+Sep-06,parks_percent_change_from_baseline,725.0,1513.0,156.0,0.0,0.0,0.0,4114.0,0.0,2352.0,587.0
+Sep-06,transit_stations_percent_change_from_baseline,-154.0,50.0,-107.0,-22.0,39.0,23.0,-43.0,0.0,167.0,-100.0
+Sep-06,workplaces_percent_change_from_baseline,-276.0,-388.0,-99.0,-15.0,-18.0,80.0,-280.0,27.0,-222.0,-128.0
+Sep-06,residential_percent_change_from_baseline,3.0,-6.0,-1.0,-22.0,-19.0,-18.0,-40.0,0.0,-50.0,-3.0
