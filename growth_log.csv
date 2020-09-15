@@ -246,6 +246,7 @@ Sep-10,Alberta,2.3242824552976926,0.7781512503836436
 Sep-11,Alberta,2.0453229787866576,null
 Sep-12,Alberta,null,null
 Sep-13,Alberta,null,null
+Sep-14,Alberta,2.621176281775035,0.0
 Jan-23,British Columbia,null,null
 Jan-24,British Columbia,null,null
 Jan-25,British Columbia,null,null
@@ -481,6 +482,7 @@ Sep-10,British Columbia,2.3783979009481375,null
 Sep-11,British Columbia,2.12057393120585,null
 Sep-12,British Columbia,null,null
 Sep-13,British Columbia,null,null
+Sep-14,British Columbia,2.5010592622177517,0.7781512503836436
 Jan-23,Manitoba,null,null
 Jan-24,Manitoba,null,null
 Jan-25,Manitoba,null,null
@@ -716,6 +718,7 @@ Sep-10,Manitoba,1.1139433523068367,null
 Sep-11,Manitoba,1.1760912590556813,null
 Sep-12,Manitoba,1.2304489213782739,null
 Sep-13,Manitoba,1.255272505103306,null
+Sep-14,Manitoba,1.3222192947339193,null
 Jan-23,New Brunswick,null,null
 Jan-24,New Brunswick,null,null
 Jan-25,New Brunswick,null,null
@@ -951,6 +954,7 @@ Sep-10,New Brunswick,0.0,null
 Sep-11,New Brunswick,null,null
 Sep-12,New Brunswick,null,null
 Sep-13,New Brunswick,null,null
+Sep-14,New Brunswick,0.0,null
 Jan-23,Newfoundland and Labrador,null,null
 Jan-24,Newfoundland and Labrador,null,null
 Jan-25,Newfoundland and Labrador,null,null
@@ -1186,6 +1190,7 @@ Sep-10,Newfoundland and Labrador,null,null
 Sep-11,Newfoundland and Labrador,null,null
 Sep-12,Newfoundland and Labrador,0.0,null
 Sep-13,Newfoundland and Labrador,null,null
+Sep-14,Newfoundland and Labrador,null,null
 Jan-23,Nova Scotia,null,null
 Jan-24,Nova Scotia,null,null
 Jan-25,Nova Scotia,null,null
@@ -1421,6 +1426,7 @@ Sep-10,Nova Scotia,null,null
 Sep-11,Nova Scotia,null,null
 Sep-12,Nova Scotia,null,null
 Sep-13,Nova Scotia,null,null
+Sep-14,Nova Scotia,null,null
 Jan-23,Ontario,null,null
 Jan-24,Ontario,null,null
 Jan-25,Ontario,null,null
@@ -1656,6 +1662,7 @@ Sep-10,Ontario,2.2121876044039577,0.0
 Sep-11,Ontario,2.3636119798921444,null
 Sep-12,Ontario,2.311753861055754,null
 Sep-13,Ontario,2.2095150145426308,null
+Sep-14,Ontario,2.6232492903979003,0.3010299956639812
 Jan-23,Prince Edward Island,null,null
 Jan-24,Prince Edward Island,null,null
 Jan-25,Prince Edward Island,null,null
@@ -1891,6 +1898,7 @@ Sep-10,Prince Edward Island,null,null
 Sep-11,Prince Edward Island,null,null
 Sep-12,Prince Edward Island,null,null
 Sep-13,Prince Edward Island,null,null
+Sep-14,Prince Edward Island,null,null
 Jan-23,Quebec,null,null
 Jan-24,Quebec,null,null
 Jan-25,Quebec,null,null
@@ -2126,6 +2134,7 @@ Sep-10,Quebec,2.27415784926368,0.3010299956639812
 Sep-11,Quebec,2.3404441148401185,0.0
 Sep-12,Quebec,2.387389826338729,0.7781512503836436
 Sep-13,Quebec,2.4456042032735974,null
+Sep-14,Quebec,2.4409090820652177,null
 Jan-23,Saskatchewan,null,null
 Jan-24,Saskatchewan,null,null
 Jan-25,Saskatchewan,null,null
@@ -2361,6 +2370,7 @@ Sep-10,Saskatchewan,0.7781512503836436,null
 Sep-11,Saskatchewan,1.0791812460476249,null
 Sep-12,Saskatchewan,1.3222192947339193,null
 Sep-13,Saskatchewan,1.2304489213782739,null
+Sep-14,Saskatchewan,0.6989700043360189,null
 Jan-23,Repartriated Canadians,null,null
 Jan-24,Repartriated Canadians,null,null
 Jan-25,Repartriated Canadians,null,null
@@ -2596,6 +2606,7 @@ Sep-10,Repartriated Canadians,null,null
 Sep-11,Repartriated Canadians,null,null
 Sep-12,Repartriated Canadians,null,null
 Sep-13,Repartriated Canadians,null,null
+Sep-14,Repartriated Canadians,null,null
 Jan-23,Canada,null,null
 Jan-24,Canada,null,null
 Jan-25,Canada,null,null
@@ -2831,3 +2842,4 @@ Sep-10,Canada,2.9143431571194407,0.9542425094393249
 Sep-11,Canada,2.8573324964312685,0.0
 Sep-12,Canada,2.6884198220027105,0.7781512503836436
 Sep-13,Canada,2.677606952720493,null
+Sep-14,Canada,3.163757523981956,0.9542425094393249
