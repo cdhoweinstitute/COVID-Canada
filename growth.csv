@@ -254,6 +254,7 @@ Sep-18,Alberta,107,1
 Sep-19,Alberta,0,0
 Sep-20,Alberta,0,0
 Sep-21,Alberta,358,1
+Sep-22,Alberta,150,2
 Jan-23,British Columbia,0,0
 Jan-24,British Columbia,0,0
 Jan-25,British Columbia,0,0
@@ -497,6 +498,7 @@ Sep-18,British Columbia,179,3
 Sep-19,British Columbia,0,0
 Sep-20,British Columbia,0,0
 Sep-21,British Columbia,366,4
+Sep-22,British Columbia,96,0
 Jan-23,Manitoba,0,0
 Jan-24,Manitoba,0,0
 Jan-25,Manitoba,0,0
@@ -740,6 +742,7 @@ Sep-18,Manitoba,40,0
 Sep-19,Manitoba,18,0
 Sep-20,Manitoba,28,0
 Sep-21,Manitoba,22,2
+Sep-22,Manitoba,24,0
 Jan-23,New Brunswick,0,0
 Jan-24,New Brunswick,0,0
 Jan-25,New Brunswick,0,0
@@ -983,6 +986,7 @@ Sep-18,New Brunswick,0,0
 Sep-19,New Brunswick,0,0
 Sep-20,New Brunswick,0,0
 Sep-21,New Brunswick,2,0
+Sep-22,New Brunswick,0,0
 Jan-23,Newfoundland and Labrador,0,0
 Jan-24,Newfoundland and Labrador,0,0
 Jan-25,Newfoundland and Labrador,0,0
@@ -1226,6 +1230,7 @@ Sep-18,Newfoundland and Labrador,1,0
 Sep-19,Newfoundland and Labrador,0,0
 Sep-20,Newfoundland and Labrador,0,0
 Sep-21,Newfoundland and Labrador,0,0
+Sep-22,Newfoundland and Labrador,0,0
 Jan-23,Nova Scotia,0,0
 Jan-24,Nova Scotia,0,0
 Jan-25,Nova Scotia,0,0
@@ -1469,6 +1474,7 @@ Sep-18,Nova Scotia,0,0
 Sep-19,Nova Scotia,0,0
 Sep-20,Nova Scotia,0,0
 Sep-21,Nova Scotia,0,0
+Sep-22,Nova Scotia,1,0
 Jan-23,Ontario,0,0
 Jan-24,Ontario,0,0
 Jan-25,Ontario,0,0
@@ -1712,6 +1718,7 @@ Sep-18,Ontario,531,2
 Sep-19,Ontario,98,1
 Sep-20,Ontario,633,0
 Sep-21,Ontario,492,3
+Sep-22,Ontario,502,4
 Jan-23,Prince Edward Island,0,0
 Jan-24,Prince Edward Island,0,0
 Jan-25,Prince Edward Island,0,0
@@ -1955,6 +1962,7 @@ Sep-18,Prince Edward Island,0,0
 Sep-19,Prince Edward Island,0,0
 Sep-20,Prince Edward Island,0,0
 Sep-21,Prince Edward Island,0,0
+Sep-22,Prince Edward Island,0,0
 Jan-23,Quebec,0,0
 Jan-24,Quebec,0,0
 Jan-25,Quebec,0,0
@@ -2198,6 +2206,7 @@ Sep-18,Quebec,297,1
 Sep-19,Quebec,427,5
 Sep-20,Quebec,462,5
 Sep-21,Quebec,586,2
+Sep-22,Quebec,489,1
 Jan-23,Saskatchewan,0,0
 Jan-24,Saskatchewan,0,0
 Jan-25,Saskatchewan,0,0
@@ -2441,6 +2450,7 @@ Sep-18,Saskatchewan,19,0
 Sep-19,Saskatchewan,11,0
 Sep-20,Saskatchewan,20,0
 Sep-21,Saskatchewan,7,0
+Sep-22,Saskatchewan,10,0
 Jan-23,Repartriated Canadians,0,0
 Jan-24,Repartriated Canadians,0,0
 Jan-25,Repartriated Canadians,0,0
@@ -2684,6 +2694,7 @@ Sep-18,Repartriated Canadians,0,0
 Sep-19,Repartriated Canadians,0,0
 Sep-20,Repartriated Canadians,0,0
 Sep-21,Repartriated Canadians,0,0
+Sep-22,Repartriated Canadians,0,0
 Jan-23,Canada,0,0
 Jan-24,Canada,0,0
 Jan-25,Canada,0,0
@@ -2927,3 +2938,4 @@ Sep-18,Canada,1174,7
 Sep-19,Canada,554,6
 Sep-20,Canada,1143,5
 Sep-21,Canada,1833,12
+Sep-22,Canada,1272,7
