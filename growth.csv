@@ -299,6 +299,9 @@ Nov-02,Alberta,0,0
 Nov-03,Alberta,2268,15
 Nov-04,Alberta,0,0
 Nov-05,Alberta,515,5
+Nov-06,Alberta,1411,9
+Nov-07,Alberta,919,5
+Nov-08,Alberta,727,6
 Jan-23,British Columbia,0,0
 Jan-24,British Columbia,0,0
 Jan-25,British Columbia,0,0
@@ -587,6 +590,9 @@ Nov-02,British Columbia,1120,6
 Nov-03,British Columbia,299,3
 Nov-04,British Columbia,335,1
 Nov-05,British Columbia,425,0
+Nov-06,British Columbia,589,2
+Nov-07,British Columbia,567,1
+Nov-08,British Columbia,0,0
 Jan-23,Manitoba,0,0
 Jan-24,Manitoba,0,0
 Jan-25,Manitoba,0,0
@@ -875,6 +881,9 @@ Nov-02,Manitoba,241,5
 Nov-03,Manitoba,102,5
 Nov-04,Manitoba,374,2
 Nov-05,Manitoba,426,4
+Nov-06,Manitoba,242,5
+Nov-07,Manitoba,270,7
+Nov-08,Manitoba,441,3
 Jan-23,New Brunswick,0,0
 Jan-24,New Brunswick,0,0
 Jan-25,New Brunswick,0,0
@@ -1163,6 +1172,9 @@ Nov-02,New Brunswick,0,0
 Nov-03,New Brunswick,0,0
 Nov-04,New Brunswick,3,0
 Nov-05,New Brunswick,2,0
+Nov-06,New Brunswick,1,0
+Nov-07,New Brunswick,3,0
+Nov-08,New Brunswick,1,0
 Jan-23,Newfoundland and Labrador,0,0
 Jan-24,Newfoundland and Labrador,0,0
 Jan-25,Newfoundland and Labrador,0,0
@@ -1451,6 +1463,9 @@ Nov-02,Newfoundland and Labrador,0,0
 Nov-03,Newfoundland and Labrador,0,0
 Nov-04,Newfoundland and Labrador,1,0
 Nov-05,Newfoundland and Labrador,2,0
+Nov-06,Newfoundland and Labrador,0,0
+Nov-07,Newfoundland and Labrador,2,0
+Nov-08,Newfoundland and Labrador,1,0
 Jan-23,Nova Scotia,0,0
 Jan-24,Nova Scotia,0,0
 Jan-25,Nova Scotia,0,0
@@ -1739,6 +1754,9 @@ Nov-02,Nova Scotia,2,0
 Nov-03,Nova Scotia,1,0
 Nov-04,Nova Scotia,4,0
 Nov-05,Nova Scotia,1,0
+Nov-06,Nova Scotia,2,0
+Nov-07,Nova Scotia,4,0
+Nov-08,Nova Scotia,3,0
 Jan-23,Ontario,0,0
 Jan-24,Ontario,0,0
 Jan-25,Ontario,0,0
@@ -2027,6 +2045,9 @@ Nov-02,Ontario,1055,10
 Nov-03,Ontario,1116,15
 Nov-04,Ontario,1001,15
 Nov-05,Ontario,147,10
+Nov-06,Ontario,1925,20
+Nov-07,Ontario,1232,11
+Nov-08,Ontario,1214,9
 Jan-23,Prince Edward Island,0,0
 Jan-24,Prince Edward Island,0,0
 Jan-25,Prince Edward Island,0,0
@@ -2315,6 +2336,9 @@ Nov-02,Prince Edward Island,0,0
 Nov-03,Prince Edward Island,0,0
 Nov-04,Prince Edward Island,0,0
 Nov-05,Prince Edward Island,0,0
+Nov-06,Prince Edward Island,2,0
+Nov-07,Prince Edward Island,0,0
+Nov-08,Prince Edward Island,0,0
 Jan-23,Quebec,0,0
 Jan-24,Quebec,0,0
 Jan-25,Quebec,0,0
@@ -2603,6 +2627,9 @@ Nov-02,Quebec,1037,11
 Nov-03,Quebec,871,34
 Nov-04,Quebec,1029,33
 Nov-05,Quebec,1138,28
+Nov-06,Quebec,1133,25
+Nov-07,Quebec,1234,28
+Nov-08,Quebec,1397,9
 Jan-23,Saskatchewan,0,0
 Jan-24,Saskatchewan,0,0
 Jan-25,Saskatchewan,0,0
@@ -2891,6 +2918,9 @@ Nov-02,Saskatchewan,74,0
 Nov-03,Saskatchewan,81,0
 Nov-04,Saskatchewan,35,0
 Nov-05,Saskatchewan,128,0
+Nov-06,Saskatchewan,87,0
+Nov-07,Saskatchewan,115,2
+Nov-08,Saskatchewan,159,1
 Jan-23,Repartriated Canadians,0,0
 Jan-24,Repartriated Canadians,0,0
 Jan-25,Repartriated Canadians,0,0
@@ -3179,6 +3209,9 @@ Nov-02,Repartriated Canadians,0,0
 Nov-03,Repartriated Canadians,0,0
 Nov-04,Repartriated Canadians,0,0
 Nov-05,Repartriated Canadians,0,0
+Nov-06,Repartriated Canadians,0,0
+Nov-07,Repartriated Canadians,0,0
+Nov-08,Repartriated Canadians,0,0
 Jan-23,Canada,0,0
 Jan-24,Canada,0,0
 Jan-25,Canada,0,0
@@ -3467,3 +3500,6 @@ Nov-02,Canada,3529,32
 Nov-03,Canada,4738,72
 Nov-04,Canada,2782,51
 Nov-05,Canada,2784,47
+Nov-06,Canada,5392,61
+Nov-07,Canada,4346,54
+Nov-08,Canada,3943,28
