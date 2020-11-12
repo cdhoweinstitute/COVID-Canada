@@ -304,6 +304,7 @@ Nov-07,Alberta,2.9633155113861114,0.6989700043360189
 Nov-08,Alberta,2.8615344108590377,0.7781512503836436
 Nov-09,Alberta,2.8169038393756605,0.7781512503836436
 Nov-10,Alberta,2.8530895298518657,0.8450980400142568
+Nov-11,Alberta,2.8273692730538253,0.8450980400142568
 Jan-23,British Columbia,null,null
 Jan-24,British Columbia,null,null
 Jan-25,British Columbia,null,null
@@ -597,6 +598,7 @@ Nov-07,British Columbia,2.7535830588929064,0.0
 Nov-08,British Columbia,null,null
 Nov-09,British Columbia,2.999130541287371,0.6989700043360189
 Nov-10,British Columbia,2.720159303405957,0.47712125471966244
+Nov-11,British Columbia,null,null
 Jan-23,Manitoba,null,null
 Jan-24,Manitoba,null,null
 Jan-25,Manitoba,null,null
@@ -890,6 +892,7 @@ Nov-07,Manitoba,2.4313637641589874,0.8450980400142568
 Nov-08,Manitoba,2.6444385894678386,0.47712125471966244
 Nov-09,Manitoba,2.5622928644564746,0.47712125471966244
 Nov-10,Manitoba,2.583198773968623,0.6989700043360189
+Nov-11,Manitoba,2.6334684555795866,0.9542425094393249
 Jan-23,New Brunswick,null,null
 Jan-24,New Brunswick,null,null
 Jan-25,New Brunswick,null,null
@@ -1183,6 +1186,7 @@ Nov-07,New Brunswick,0.47712125471966244,null
 Nov-08,New Brunswick,0.0,null
 Nov-09,New Brunswick,0.0,null
 Nov-10,New Brunswick,null,null
+Nov-11,New Brunswick,null,null
 Jan-23,Newfoundland and Labrador,null,null
 Jan-24,Newfoundland and Labrador,null,null
 Jan-25,Newfoundland and Labrador,null,null
@@ -1476,6 +1480,7 @@ Nov-07,Newfoundland and Labrador,0.3010299956639812,null
 Nov-08,Newfoundland and Labrador,0.0,null
 Nov-09,Newfoundland and Labrador,null,null
 Nov-10,Newfoundland and Labrador,null,null
+Nov-11,Newfoundland and Labrador,0.0,null
 Jan-23,Nova Scotia,null,null
 Jan-24,Nova Scotia,null,null
 Jan-25,Nova Scotia,null,null
@@ -1769,6 +1774,7 @@ Nov-07,Nova Scotia,0.6020599913279624,null
 Nov-08,Nova Scotia,0.47712125471966244,null
 Nov-09,Nova Scotia,0.0,null
 Nov-10,Nova Scotia,0.47712125471966244,null
+Nov-11,Nova Scotia,0.3010299956639812,null
 Jan-23,Ontario,null,null
 Jan-24,Ontario,null,null
 Jan-25,Ontario,null,null
@@ -2062,6 +2068,7 @@ Nov-07,Ontario,3.090610707828407,1.0413926851582251
 Nov-08,Ontario,3.0842186867392387,0.9542425094393249
 Nov-09,Ontario,3.1734776434529945,1.1760912590556813
 Nov-10,Ontario,3.184975190698261,1.3010299956639813
+Nov-11,Ontario,3.141763230275788,1.2304489213782739
 Jan-23,Prince Edward Island,null,null
 Jan-24,Prince Edward Island,null,null
 Jan-25,Prince Edward Island,null,null
@@ -2355,6 +2362,7 @@ Nov-07,Prince Edward Island,null,null
 Nov-08,Prince Edward Island,null,null
 Nov-09,Prince Edward Island,null,null
 Nov-10,Prince Edward Island,0.0,null
+Nov-11,Prince Edward Island,0.0,null
 Jan-23,Quebec,null,null
 Jan-24,Quebec,null,null
 Jan-25,Quebec,null,null
@@ -2648,6 +2656,7 @@ Nov-07,Quebec,3.091315159697223,1.4471580313422192
 Nov-08,Quebec,3.1451964061141817,0.9542425094393249
 Nov-09,Quebec,3.0678145111618402,1.1760912590556813
 Nov-10,Quebec,3.065206128054312,1.5797835966168101
+Nov-11,Quebec,3.139249217571607,1.3424226808222062
 Jan-23,Saskatchewan,null,null
 Jan-24,Saskatchewan,null,null
 Jan-25,Saskatchewan,null,null
@@ -2941,6 +2950,7 @@ Nov-07,Saskatchewan,2.060697840353612,0.3010299956639812
 Nov-08,Saskatchewan,2.2013971243204513,0.0
 Nov-09,Saskatchewan,2.278753600952829,0.0
 Nov-10,Saskatchewan,2.103803720955957,null
+Nov-11,Saskatchewan,2.0492180226701815,null
 Jan-23,Repartriated Canadians,null,null
 Jan-24,Repartriated Canadians,null,null
 Jan-25,Repartriated Canadians,null,null
@@ -3234,6 +3244,7 @@ Nov-07,Repartriated Canadians,null,null
 Nov-08,Repartriated Canadians,null,null
 Nov-09,Repartriated Canadians,null,null
 Nov-10,Repartriated Canadians,null,null
+Nov-11,Repartriated Canadians,null,null
 Jan-23,Canada,null,null
 Jan-24,Canada,null,null
 Jan-25,Canada,null,null
@@ -3527,3 +3538,4 @@ Nov-07,Canada,3.638089721984506,1.7323937598229686
 Nov-08,Canada,3.5958267770732233,1.4471580313422192
 Nov-09,Canada,3.68761812957177,1.6532125137753437
 Nov-10,Canada,3.6478717653062325,1.863322860120456
+Nov-11,Canada,3.600210306409328,1.7403626894942439
