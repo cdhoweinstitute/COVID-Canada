@@ -1,368 +1,277 @@
 Week-WeekDay,Province,2017,2018,2019,2020
-Week 1 (Dec-29),Ontario,748245,367839,352105,null
-Week 1-Monday,Ontario,354759,766729,360434,null
-Week 1-Tuesday,Ontario,388840,430873,700443,null
-Week 1-Wednesday,Ontario,392245,434960,406882,338635
-Week 1-Thursday,Ontario,417426,433198,399512,362851
-Week 1-Friday,Ontario,418617,455055,375545,369581
-Week 1-Saturday,Ontario,404294,444344,360271,361837
-Week 2 (Jan-05),Ontario,401739,426814,358609,359681
-Week 2-Monday,Ontario,426317,415066,409902,388047
-Week 2-Tuesday,Ontario,411651,407750,389402,390269
-Week 2-Wednesday,Ontario,388473,403738,391661,405317
-Week 2-Thursday,Ontario,394461,382667,411857,418122
-Week 2-Friday,Ontario,404289,397318,427194,391778
-Week 2-Saturday,Ontario,395764,410012,398965,371135
-Week 3 (Jan-12),Ontario,373761,412981,393477,385077
-Week 3-Monday,Ontario,401271,437505,415996,411467
-Week 3-Tuesday,Ontario,403868,433364,411116,402629
-Week 3-Wednesday,Ontario,395315,425718,410850,396283
-Week 3-Thursday,Ontario,393499,419842,427858,401285
-Week 3-Friday,Ontario,389320,396800,419964,426638
-Week 3-Saturday,Ontario,356729,363661,427568,407684
-Week 4 (Jan-19),Ontario,349897,368528,429601,391387
-Week 4-Monday,Ontario,383653,403568,464000,421821
-Week 4-Tuesday,Ontario,394105,395597,451280,418194
-Week 4-Wednesday,Ontario,390817,414694,422409,408436
-Week 4-Thursday,Ontario,385173,426387,408951,400738
-Week 4-Friday,Ontario,385982,393678,413286,385809
-Week 4-Saturday,Ontario,370588,357218,411453,374600
-Week 5 (Jan-26),Ontario,373577,355249,407035,365586
-Week 5-Monday,Ontario,410684,403618,451354,395676
-Week 5-Tuesday,Ontario,416155,422817,435323,401621
-Week 5-Wednesday,Ontario,403141,421466,443435,404735
-Week 5-Thursday,Ontario,404864,399669,454793,412524
-Week 5-Friday,Ontario,408416,421256,447631,409132
-Week 5-Saturday,Ontario,385131,404386,407711,376088
-Week 6 (Feb-02),Ontario,375542,385655,376226,366939
-Week 6-Monday,Ontario,406175,419040,383407,378797
-Week 6-Tuesday,Ontario,411715,423148,395605,389559
-Week 6-Wednesday,Ontario,401079,431488,423587,397843
-Week 6-Thursday,Ontario,411944,425624,409439,411746
-Week 6-Friday,Ontario,412180,423907,405649,411074
-Week 6-Saturday,Ontario,377869,398017,398549,403304
-Week 7 (Feb-09),Ontario,374514,393201,392917,390531
-Week 7-Monday,Ontario,400216,410518,412935,397206
-Week 7-Tuesday,Ontario,391470,420175,426734,389183
-Week 7-Wednesday,Ontario,394878,385356,412462,387492
-Week 7-Thursday,Ontario,403366,385148,406119,408658
-Week 7-Friday,Ontario,390144,386093,394541,426344
-Week 7-Saturday,Ontario,329111,377293,378653,386545
-Week 8 (Feb-16),Ontario,316548,353070,380602,357473
-Week 8-Monday,Ontario,333679,361238,387384,361327
-Week 8-Tuesday,Ontario,373333,377640,419712,393991
-Week 8-Wednesday,Ontario,364091,385121,419555,395359
-Week 8-Thursday,Ontario,352135,397534,398554,408349
-Week 8-Friday,Ontario,365866,394816,394468,390581
-Week 8-Saturday,Ontario,343538,358011,364944,350701
-Week 9 (Feb-23),Ontario,340988,345377,368466,333000
-Week 9-Monday,Ontario,365212,368080,404359,365112
-Week 9-Tuesday,Ontario,370418,360206,419524,378661
-Week 9-Wednesday,Ontario,365648,359998,439247,395614
-Week 9-Thursday,Ontario,386491,369449,422764,401546
-Week 9-Friday,Ontario,396240,376763,401859,403751
-Week 9-Saturday,Ontario,378929,353566,386322,383046
-Week 10 (Mar-01),Ontario,366478,345307,378099,365941
-Week 10-Monday,Ontario,384551,382675,411548,379386
-Week 10-Tuesday,Ontario,369801,389639,423964,386217
-Week 10-Wednesday,Ontario,355087,389144,424822,375838
-Week 10-Thursday,Ontario,377439,388933,418633,371054
-Week 10-Friday,Ontario,387784,379859,404506,381843
-Week 10-Saturday,Ontario,384550,360217,366408,353360
-Week 11 (Mar-08),Ontario,373402,352322,370002,328087
-Week 11-Monday,Ontario,412340,387424,388459,345524
-Week 11-Tuesday,Ontario,412620,385395,374656,360643
-Week 11-Wednesday,Ontario,404482,383291,387082,377682
-Week 11-Thursday,Ontario,387025,378709,371002,367190
-Week 11-Friday,Ontario,373335,375676,366993,359640
-Week 11-Saturday,Ontario,360177,351901,355051,351512
-Week 12 (Mar-15),Ontario,336481,345962,354402,338808
-Week 12-Monday,Ontario,375972,375409,380121,368305
-Week 12-Tuesday,Ontario,359117,375677,375107,367187
-Week 12-Wednesday,Ontario,382556,375809,365809,367632
-Week 12-Thursday,Ontario,380228,372427,375368,364782
-Week 12-Friday,Ontario,372740,369151,368611,347391
-Week 12-Saturday,Ontario,345765,348395,345789,348069
-Week 13 (Mar-22),Ontario,342164,341559,342322,342501
-Week 13-Monday,Ontario,363986,354017,366069,372177
-Week 13-Tuesday,Ontario,358478,374106,371605,350165
-Week 13-Wednesday,Ontario,358352,367180,362030,339675
-Week 13-Thursday,Ontario,364784,368423,363112,338085
-Week 13-Friday,Ontario,374029,327052,349101,331418
-Week 13-Saturday,Ontario,331284,326983,354853,323565
-Week 14 (Mar-29),Ontario,310008,329361,354973,312860
-Week 14-Monday,Ontario,343987,357154,369544,334579
-Week 14-Tuesday,Ontario,357469,377540,359898,338273
-Week 14-Wednesday,Ontario,349308,378034,354756,322186
-Week 14-Thursday,Ontario,367316,376308,365340,310991
-Week 14-Friday,Ontario,354870,376817,373500,318327
-Week 14-Saturday,Ontario,315138,353577,328877,302012
-Week 15 (Apr-05),Ontario,294614,345272,321569,297120
-Week 15-Monday,Ontario,327071,373514,352331,312463
-Week 15-Tuesday,Ontario,333929,368635,355542,312688
-Week 15-Wednesday,Ontario,348375,369796,358505,312800
-Week 15-Thursday,Ontario,338111,366742,368446,309055
-Week 15-Friday,Ontario,287957,366099,350688,293993
-Week 15-Saturday,Ontario,296341,363082,309335,291919
-Week 16 (Apr-12),Ontario,284922,367733,337231,294426
-Week 16-Monday,Ontario,326999,382648,355472,313294
-Week 16-Tuesday,Ontario,333343,374369,358985,318987
-Week 16-Wednesday,Ontario,341462,371192,340041,330901
-Week 16-Thursday,Ontario,349064,366183,336138,327851
-Week 16-Friday,Ontario,339743,351234,313357,328264
-Week 16-Saturday,Ontario,306599,319182,320291,295490
-Week 17 (Apr-19),Ontario,297075,305342,307422,297904
-Week 17-Monday,Ontario,326332,328303,326601,312184
-Week 17-Tuesday,Ontario,340473,337440,333683,321054
-Week 17-Wednesday,Ontario,335154,347277,343936,325267
-Week 17-Thursday,Ontario,329220,334822,338336,323312
-Week 17-Friday,Ontario,318379,330771,343916,319654
-Week 17-Saturday,Ontario,295154,323382,325225,283166
-Week 18 (Apr-26),Ontario,308919,308973,308357,287328
-Week 18-Monday,Ontario,344956,327586,355272,299015
-Week 18-Tuesday,Ontario,334021,322065,351911,302365
-Week 18-Wednesday,Ontario,330955,333736,359763,307090
-Week 18-Thursday,Ontario,345943,344165,355881,311748
-Week 18-Friday,Ontario,346728,318967,350734,291631
-Week 18-Saturday,Ontario,317674,292545,318976,278953
-Week 19 (May-03),Ontario,304007,294662,298837,267919
-Week 19-Monday,Ontario,338942,324234,332458,298436
-Week 19-Tuesday,Ontario,345118,330123,332508,306338
-Week 19-Wednesday,Ontario,336559,330871,321881,301092
-Week 19-Thursday,Ontario,334274,330459,336696,305230
-Week 19-Friday,Ontario,328224,327369,339228,315250
-Week 19-Saturday,Ontario,304898,303587,310020,308318
-Week 20 (May-10),Ontario,291778,294741,307514,297593
-Week 20-Monday,Ontario,326091,335403,356898,322308
-Week 20-Tuesday,Ontario,332384,341927,345591,317775
-Week 20-Wednesday,Ontario,346114,334590,338144,307671
-Week 20-Thursday,Ontario,369850,336475,334660,315950
-Week 20-Friday,Ontario,325104,312661,329788,312604
-Week 20-Saturday,Ontario,283705,309159,305986,277653
-Week 21 (May-17),Ontario,293810,292365,295908,269766
-Week 21-Monday,Ontario,292153,288245,293906,275148
-Week 21-Tuesday,Ontario,333590,335899,329936,295341
-Week 21-Wednesday,Ontario,335831,335731,336789,292621
-Week 21-Thursday,Ontario,344829,349544,336831,300612
-Week 21-Friday,Ontario,338660,368424,334758,309974
-Week 21-Saturday,Ontario,306020,351924,312550,299366
-Week 22 (May-24),Ontario,301887,348860,306389,306310
-Week 22-Monday,Ontario,346404,408330,335686,378395
-Week 22-Tuesday,Ontario,338516,405836,345144,407475
-Week 22-Wednesday,Ontario,334157,400421,342930,402817
-Week 22-Thursday,Ontario,326688,418151,339842,367601
-Week 22-Friday,Ontario,325006,409791,333328,345297
-Week 22-Saturday,Ontario,300507,328376,312410,287789
-Week 23 (May-31),Ontario,307910,323329,301395,278884
-Week 23-Monday,Ontario,338933,338213,324613,309090
-Week 23-Tuesday,Ontario,336305,332733,337900,334759
-Week 23-Wednesday,Ontario,332171,336067,347267,348846
-Week 23-Thursday,Ontario,342867,343430,339869,365752
-Week 23-Friday,Ontario,346147,350858,344526,376780
-Week 23-Saturday,Ontario,333737,320812,309156,325892
-Week 24 (Jun-07),Ontario,365681,305771,313615,299144
-Week 24-Monday,Ontario,431183,342933,348110,335034
-Week 24-Tuesday,Ontario,408138,369478,337408,382234
-Week 24-Wednesday,Ontario,370548,388116,338764,399904
-Week 24-Thursday,Ontario,363381,360524,344806,349837
-Week 24-Friday,Ontario,392361,362524,324774,318265
-Week 24-Saturday,Ontario,373810,355319,311163,285212
-Week 25 (Jun-14),Ontario,372773,395212,303358,280969
-Week 25-Monday,Ontario,389597,449568,340639,323054
-Week 25-Tuesday,Ontario,364479,386619,361875,342936
-Week 25-Wednesday,Ontario,360595,377181,373771,365860
-Week 25-Thursday,Ontario,366474,365664,363575,388349
-Week 25-Friday,Ontario,383601,349240,342204,408163
-Week 25-Saturday,Ontario,335097,338622,319892,397036
-Week 26 (Jun-21),Ontario,314827,330246,326816,398803
-Week 26-Monday,Ontario,345670,351411,370242,425386
-Week 26-Tuesday,Ontario,339268,358216,378122,399249
-Week 26-Wednesday,Ontario,347095,377388,401941,343301
-Week 26-Thursday,Ontario,362324,411207,413366,350970
-Week 26-Friday,Ontario,379907,433289,407963,373738
-Week 26-Saturday,Ontario,337181,431309,386105,370569
-Week 27 (Jun-28),Ontario,324388,435916,339974,370363
-Week 27-Monday,Ontario,337627,440414,354749,416603
-Week 27-Tuesday,Ontario,370926,442517,412355,413917
-Week 27-Wednesday,Ontario,382572,458233,426193,402920
-Week 27-Thursday,Ontario,405799,475016,437465,441694
-Week 27-Friday,Ontario,406869,379669,455718,441957
-Week 27-Saturday,Ontario,341299,344537,427604,405991
-Week 28 (Jul-05),Ontario,326896,363501,362516,401945
-Week 28-Monday,Ontario,379742,424364,387313,455037
-Week 28-Tuesday,Ontario,407098,434216,401465,474383
-Week 28-Wednesday,Ontario,413015,406820,420167,486778
-Week 28-Thursday,Ontario,372770,411762,431156,491949
-Week 28-Friday,Ontario,373219,436434,386556,488557
-Week 28-Saturday,Ontario,351853,409953,376780,401268
-Week 29 (Jul-12),Ontario,351793,427343,364597,370345
-Week 29-Monday,Ontario,394223,449611,400866,386519
-Week 29-Tuesday,Ontario,406015,412609,431989,398938
-Week 29-Wednesday,Ontario,418109,383159,440622,421996
-Week 29-Thursday,Ontario,399728,395331,433936,417593
-Week 29-Friday,Ontario,414102,417909,458216,433939
-Week 29-Saturday,Ontario,367345,387368,446430,426245
-Week 30 (Jul-19),Ontario,356518,350130,409085,409378
-Week 30-Monday,Ontario,366487,420919,401212,423995
-Week 30-Tuesday,Ontario,361875,442286,389987,396762
-Week 30-Wednesday,Ontario,366833,436014,391001,405517
-Week 30-Thursday,Ontario,389571,414576,407799,407958
-Week 30-Friday,Ontario,353698,394781,426263,410863
-Week 30-Saturday,Ontario,336699,343222,400320,402883
-Week 31 (Jul-26),Ontario,360901,342399,415603,427278
-Week 31-Monday,Ontario,412479,394798,449502,480752
-Week 31-Tuesday,Ontario,417752,409514,437980,433500
-Week 31-Wednesday,Ontario,416115,416661,407321,428387
-Week 31-Thursday,Ontario,414310,422833,394117,412750
-Week 31-Friday,Ontario,390162,427490,397054,414629
-Week 31-Saturday,Ontario,317264,411787,380282,393783
-Week 32 (Aug-02),Ontario,311258,413036,364032,371756
-Week 32-Monday,Ontario,325473,428233,380048,356760
-Week 32-Tuesday,Ontario,364244,438130,420437,382993
-Week 32-Wednesday,Ontario,391135,424166,424170,357087
-Week 32-Thursday,Ontario,394112,421499,397392,360021
-Week 32-Friday,Ontario,389885,404771,372578,377069
-Week 32-Saturday,Ontario,349130,376543,335238,368760
-Week 33 (Aug-09),Ontario,338610,386389,348653,394095
-Week 33-Monday,Ontario,386192,426267,413056,466048
-Week 33-Tuesday,Ontario,393439,436699,420857,447795
-Week 33-Wednesday,Ontario,384035,445789,395004,421328
-Week 33-Thursday,Ontario,378633,446876,377666,434764
-Week 33-Friday,Ontario,393193,440201,390454,422107
-Week 33-Saturday,Ontario,343996,380695,381885,395289
-Week 34 (Aug-16),Ontario,348029,365304,382353,370139
-Week 34-Monday,Ontario,409044,406579,419231,383024
-Week 34-Tuesday,Ontario,407666,409862,416617,363979
-Week 34-Wednesday,Ontario,356512,368655,438863,353522
-Week 34-Thursday,Ontario,347687,367940,385778,365411
-Week 34-Friday,Ontario,339838,385308,355062,398472
-Week 34-Saturday,Ontario,311814,363973,325837,398684
-Week 35 (Aug-23),Ontario,307419,390905,325954,410611
-Week 35-Monday,Ontario,353546,429184,363976,457462
-Week 35-Tuesday,Ontario,361225,457843,374672,428919
-Week 35-Wednesday,Ontario,365119,450249,388662,371254
-Week 35-Thursday,Ontario,343175,378070,371007,411298
-Week 35-Friday,Ontario,322113,366858,364416,381986
-Week 35-Saturday,Ontario,293067,374915,319701,352566
-Week 36 (Aug-30),Ontario,299155,403834,314220,323619
-Week 36-Monday,Ontario,311929,425769,330179,360479
-Week 36-Tuesday,Ontario,342054,443555,361686,400721
-Week 36-Wednesday,Ontario,341021,471517,359502,405912
-Week 36-Thursday,Ontario,333299,427445,350911,379757
-Week 36-Friday,Ontario,329019,374005,352478,345010
-Week 36-Saturday,Ontario,295175,312996,319759,315718
-Week 37 (Sep-06),Ontario,294637,301842,310186,300805
-Week 37-Monday,Ontario,335097,348807,337675,322318
-Week 37-Tuesday,Ontario,342105,356178,356407,343349
-Week 37-Wednesday,Ontario,356280,363628,398540,352461
-Week 37-Thursday,Ontario,373807,380873,352040,352451
-Week 37-Friday,Ontario,377277,415815,343388,330143
-Week 37-Saturday,Ontario,350072,408208,319895,309360
-Week 38 (Sep-13),Ontario,348179,404308,316138,323574
-Week 38-Monday,Ontario,391145,429639,346844,329772
-Week 38-Tuesday,Ontario,397611,411562,348527,329285
-Week 38-Wednesday,Ontario,396234,372237,345788,332166
-Week 38-Thursday,Ontario,397342,358854,347787,332338
-Week 38-Friday,Ontario,398031,381923,356705,321372
-Week 38-Saturday,Ontario,385216,306173,351261,303670
-Week 39 (Sep-20),Ontario,402648,306765,367063,293968
-Week 39-Monday,Ontario,439140,339085,381936,326176
-Week 39-Tuesday,Ontario,439600,359633,351172,331523
-Week 39-Wednesday,Ontario,406962,354399,353056,341691
-Week 39-Thursday,Ontario,341298,344341,349266,348320
-Week 39-Friday,Ontario,334279,339301,335299,349110
-Week 39-Saturday,Ontario,305601,309154,324104,323704
-Week 40 (Sep-27),Ontario,302249,320549,299933,330649
-Week 40-Monday,Ontario,337158,351040,336788,366670
-Week 40-Tuesday,Ontario,342090,354588,370725,341769
-Week 40-Wednesday,Ontario,360279,346934,350103,330612
-Week 40-Thursday,Ontario,343980,339663,344120,327542
-Week 40-Friday,Ontario,347509,342468,337963,332660
-Week 40-Saturday,Ontario,328552,327552,309537,314200
-Week 41 (Oct-04),Ontario,316677,315692,311029,317313
-Week 41-Monday,Ontario,319568,313482,337171,333572
-Week 41-Tuesday,Ontario,343584,359799,336622,330273
-Week 41-Wednesday,Ontario,339386,376049,334880,329727
-Week 41-Thursday,Ontario,342250,354871,332001,334559
-Week 41-Friday,Ontario,346885,339644,328914,325993
-Week 41-Saturday,Ontario,324865,320805,310118,305627
-Week 42 (Oct-11),Ontario,313213,309640,294310,297783
-Week 42-Monday,Ontario,340769,349359,308254,299855
-Week 42-Tuesday,Ontario,335102,343705,334360,325592
-Week 42-Wednesday,Ontario,331924,349454,350995,328704
-Week 42-Thursday,Ontario,329730,353863,350482,345163
-Week 42-Friday,Ontario,327108,340620,344793,333889
-Week 42-Saturday,Ontario,308603,315924,316465,311425
-Week 43 (Oct-18),Ontario,300581,328068,313588,314978
-Week 43-Monday,Ontario,339516,355263,335153,354535
-Week 43-Tuesday,Ontario,332577,358310,341495,345632
-Week 43-Wednesday,Ontario,340319,366515,333829,347830
-Week 43-Thursday,Ontario,347408,364177,342407,349678
-Week 43-Friday,Ontario,342430,362022,349188,329062
-Week 43-Saturday,Ontario,325559,345609,314521,323582
-Week 44 (Oct-25),Ontario,325925,348321,318868,328271
-Week 44-Monday,Ontario,351213,362177,340055,367233
-Week 44-Tuesday,Ontario,352320,358945,346091,368689
-Week 44-Wednesday,Ontario,368209,362789,356420,353319
-Week 44-Thursday,Ontario,361057,366219,356593,361525
-Week 44-Friday,Ontario,344659,368112,359598,364635
-Week 44-Saturday,Ontario,334520,344879,342026,336544
-Week 45 (Nov-01),Ontario,328629,328268,332056,332960
-Week 45-Monday,Ontario,353352,365246,355803,364099
-Week 45-Tuesday,Ontario,362597,354208,356672,366528
-Week 45-Wednesday,Ontario,362052,361355,367688,341330
-Week 45-Thursday,Ontario,369522,372592,382636,339858
-Week 45-Friday,Ontario,386552,378852,380358,332532
-Week 45-Saturday,Ontario,369191,355749,356184,310272
-Week 46 (Nov-08),Ontario,357003,354848,348327,305271
-Week 46-Monday,Ontario,382824,379788,393861,330877
-Week 46-Tuesday,Ontario,377758,389709,408146,333918
-Week 46-Wednesday,Ontario,372243,396944,415270,336602
-Week 46-Thursday,Ontario,373446,400819,407844,347443
-Week 46-Friday,Ontario,374655,393577,394836,358904
-Week 46-Saturday,Ontario,355939,363882,383528,332809
-Week 47 (Nov-15),Ontario,351466,369140,365900,null
-Week 47-Monday,Ontario,381962,389066,394662,null
-Week 47-Tuesday,Ontario,365046,396672,389475,null
-Week 47-Wednesday,Ontario,386773,404350,382599,null
-Week 47-Thursday,Ontario,389503,419069,382015,null
-Week 47-Friday,Ontario,360499,400491,379724,null
-Week 47-Saturday,Ontario,341293,364775,360146,null
-Week 48 (Nov-22),Ontario,350179,354521,346370,null
-Week 48-Monday,Ontario,382751,387037,374644,null
-Week 48-Tuesday,Ontario,364352,399155,367868,null
-Week 48-Wednesday,Ontario,368535,400521,375780,null
-Week 48-Thursday,Ontario,379342,402607,382135,null
-Week 48-Friday,Ontario,372721,397870,396673,null
-Week 48-Saturday,Ontario,350221,366669,372501,null
-Week 49 (Nov-29),Ontario,344764,354586,386732,null
-Week 49-Monday,Ontario,374029,391362,407441,null
-Week 49-Tuesday,Ontario,373645,402756,406077,null
-Week 49-Wednesday,Ontario,381599,405198,400736,null
-Week 49-Thursday,Ontario,395154,402821,404730,null
-Week 49-Friday,Ontario,395528,414392,405049,null
-Week 49-Saturday,Ontario,379779,390613,387991,null
-Week 50 (Dec-06),Ontario,377707,374930,365555,null
-Week 50-Monday,Ontario,418486,405109,382048,null
-Week 50-Tuesday,Ontario,418737,412979,399055,null
-Week 50-Wednesday,Ontario,430129,405914,422012,null
-Week 50-Thursday,Ontario,435702,412909,423256,null
-Week 50-Friday,Ontario,429573,400655,400938,null
-Week 50-Saturday,Ontario,400929,368231,385275,null
-Week 51 (Dec-13),Ontario,401869,364361,380091,null
-Week 51-Monday,Ontario,415151,398784,417085,null
-Week 51-Tuesday,Ontario,389584,402697,413495,null
-Week 51-Wednesday,Ontario,402716,392182,424796,null
-Week 51-Thursday,Ontario,413580,392400,449909,null
-Week 51-Friday,Ontario,408070,384312,424648,null
-Week 51-Saturday,Ontario,385128,376963,387024,null
-Week 52 (Dec-20),Ontario,367661,374625,356708,null
-Week 52-Monday,Ontario,350737,365704,359095,null
-Week 52-Tuesday,Ontario,375234,350939,359034,null
-Week 52-Wednesday,Ontario,414550,354091,339017,null
-Week 52-Thursday,Ontario,427922,376767,339482,null
-Week 52-Friday,Ontario,420746,355421,345230,null
-Week 52-Saturday,Ontario,408082,363259,343583,null
+Week 1 (Dec-29),Ontario,334736.0,null,null,null
+Week 1-Monday,Ontario,354759.0,406340,null,null
+Week 1-Tuesday,Ontario,388840.0,430873,347667,null
+Week 1-Wednesday,Ontario,392245.0,434960,406882,338635
+Week 1-Thursday,Ontario,417426.0,433198,399512,362851
+Week 1-Friday,Ontario,418617.0,455055,375545,369581
+Week 1-Saturday,Ontario,404294.0,444344,360271,361837
+Week 2 (Jan-05),Ontario,401739.0,426814,358609,359681
+Week 2-Monday,Ontario,426317.0,415066,409902,388047
+Week 2-Tuesday,Ontario,411651.0,407750,389402,390269
+Week 2-Wednesday,Ontario,388473.0,403738,391661,405317
+Week 2-Thursday,Ontario,394461.0,382667,411857,418122
+Week 2-Friday,Ontario,404289.0,397318,427194,391778
+Week 2-Saturday,Ontario,395764.0,410012,398965,371135
+Week 3 (Jan-12),Ontario,373761.0,412981,393477,385077
+Week 3-Monday,Ontario,401271.0,437505,415996,411467
+Week 3-Tuesday,Ontario,403868.0,433364,411116,402629
+Week 3-Wednesday,Ontario,395315.0,425718,410850,396283
+Week 3-Thursday,Ontario,393499.0,419842,427858,401285
+Week 3-Friday,Ontario,389320.0,396800,419964,426638
+Week 3-Saturday,Ontario,356729.0,363661,427568,407684
+Week 4 (Jan-19),Ontario,349897.0,368528,429601,391387
+Week 4-Monday,Ontario,383653.0,403568,464000,421821
+Week 4-Tuesday,Ontario,394105.0,395597,451280,418194
+Week 4-Wednesday,Ontario,390817.0,414694,422409,408436
+Week 4-Thursday,Ontario,385173.0,426387,408951,400738
+Week 4-Friday,Ontario,385982.0,393678,413286,385809
+Week 4-Saturday,Ontario,370588.0,357218,411453,374600
+Week 5 (Jan-26),Ontario,373577.0,355249,407035,365586
+Week 5-Monday,Ontario,410684.0,403618,451354,395676
+Week 5-Tuesday,Ontario,416155.0,422817,435323,401621
+Week 5-Wednesday,Ontario,403141.0,421466,443435,404735
+Week 5-Thursday,Ontario,404864.0,399669,454793,412524
+Week 5-Friday,Ontario,408416.0,421256,447631,409132
+Week 5-Saturday,Ontario,385131.0,404386,407711,376088
+Week 6 (Feb-02),Ontario,375542.0,385655,376226,366939
+Week 6-Monday,Ontario,406175.0,419040,383407,378797
+Week 6-Tuesday,Ontario,411715.0,423148,395605,389559
+Week 6-Wednesday,Ontario,401079.0,431488,423587,397843
+Week 6-Thursday,Ontario,411944.0,425624,409439,411746
+Week 6-Friday,Ontario,412180.0,423907,405649,411074
+Week 6-Saturday,Ontario,377869.0,398017,398549,403304
+Week 7 (Feb-09),Ontario,374514.0,393201,392917,390531
+Week 7-Monday,Ontario,400216.0,410518,412935,397206
+Week 7-Tuesday,Ontario,391470.0,420175,426734,389183
+Week 7-Wednesday,Ontario,394878.0,385356,412462,387492
+Week 7-Thursday,Ontario,403366.0,385148,406119,408658
+Week 7-Friday,Ontario,390144.0,386093,394541,426344
+Week 7-Saturday,Ontario,329111.0,377293,378653,386545
+Week 8 (Feb-16),Ontario,316548.0,353070,380602,357473
+Week 8-Monday,Ontario,333679.0,361238,387384,361327
+Week 8-Tuesday,Ontario,373333.0,377640,419712,393991
+Week 8-Wednesday,Ontario,364091.0,385121,419555,395359
+Week 8-Thursday,Ontario,352135.0,397534,398554,408349
+Week 8-Friday,Ontario,365866.0,394816,394468,390581
+Week 8-Saturday,Ontario,343538.0,358011,364944,350701
+Week 9 (Feb-23),Ontario,340988.0,345377,368466,333000
+Week 9-Monday,Ontario,365212.0,368080,404359,365112
+Week 9-Tuesday,Ontario,370418.0,360206,419524,378661
+Week 9-Wednesday,Ontario,365648.0,359998,439247,395614
+Week 9-Thursday,Ontario,386491.0,369449,422764,401546
+Week 9-Friday,Ontario,396240.0,376763,401859,403751
+Week 9-Saturday,Ontario,378929.0,353566,386322,383046
+Week 10 (Mar-01),Ontario,366478.0,345307,378099,365941
+Week 10-Monday,Ontario,384551.0,382675,411548,379386
+Week 10-Tuesday,Ontario,369801.0,389639,423964,386217
+Week 10-Wednesday,Ontario,355087.0,389144,424822,375838
+Week 10-Thursday,Ontario,377439.0,388933,418633,371054
+Week 10-Friday,Ontario,387784.0,379859,404506,381843
+Week 10-Saturday,Ontario,384550.0,360217,366408,353360
+Week 11 (Mar-08),Ontario,373402.0,352322,370002,328087
+Week 11-Monday,Ontario,412340.0,387424,388459,345524
+Week 11-Tuesday,Ontario,412620.0,385395,374656,360643
+Week 11-Wednesday,Ontario,404482.0,383291,387082,377682
+Week 11-Thursday,Ontario,387025.0,378709,371002,367190
+Week 11-Friday,Ontario,373335.0,375676,366993,359640
+Week 11-Saturday,Ontario,360177.0,351901,355051,351512
+Week 12 (Mar-15),Ontario,336481.0,345962,354402,338808
+Week 12-Monday,Ontario,375972.0,375409,380121,368305
+Week 12-Tuesday,Ontario,359117.0,375677,375107,367187
+Week 12-Wednesday,Ontario,382556.0,375809,365809,367632
+Week 12-Thursday,Ontario,380228.0,372427,375368,364782
+Week 12-Friday,Ontario,372740.0,369151,368611,347391
+Week 12-Saturday,Ontario,345765.0,348395,345789,348069
+Week 13 (Mar-22),Ontario,342164.0,341559,342322,342501
+Week 13-Monday,Ontario,363986.0,354017,366069,372177
+Week 13-Tuesday,Ontario,358478.0,374106,371605,350165
+Week 13-Wednesday,Ontario,358352.0,367180,362030,339675
+Week 13-Thursday,Ontario,364784.0,368423,363112,338085
+Week 13-Friday,Ontario,374029.0,327052,349101,331418
+Week 13-Saturday,Ontario,331284.0,326983,354853,323565
+Week 14 (Mar-29),Ontario,310008.0,329361,354973,312860
+Week 14-Monday,Ontario,343987.0,357154,369544,334579
+Week 14-Tuesday,Ontario,357469.0,377540,359898,338273
+Week 14-Wednesday,Ontario,349308.0,378034,354756,322186
+Week 14-Thursday,Ontario,367316.0,376308,365340,310991
+Week 14-Friday,Ontario,354870.0,376817,373500,318327
+Week 14-Saturday,Ontario,315138.0,353577,328877,302012
+Week 15 (Apr-05),Ontario,294614.0,345272,321569,297120
+Week 15-Monday,Ontario,327071.0,373514,352331,312463
+Week 15-Tuesday,Ontario,333929.0,368635,355542,312688
+Week 15-Wednesday,Ontario,348375.0,369796,358505,312800
+Week 15-Thursday,Ontario,338111.0,366742,368446,309055
+Week 15-Friday,Ontario,287957.0,366099,350688,293993
+Week 15-Saturday,Ontario,296341.0,363082,309335,291919
+Week 16 (Apr-12),Ontario,284922.0,367733,337231,294426
+Week 16-Monday,Ontario,326999.0,382648,355472,313294
+Week 16-Tuesday,Ontario,333343.0,374369,358985,318987
+Week 16-Wednesday,Ontario,341462.0,371192,340041,330901
+Week 16-Thursday,Ontario,349064.0,366183,336138,327851
+Week 16-Friday,Ontario,339743.0,351234,313357,328264
+Week 16-Saturday,Ontario,306599.0,319182,320291,295490
+Week 17 (Apr-19),Ontario,297075.0,305342,307422,297904
+Week 17-Monday,Ontario,326332.0,328303,326601,312184
+Week 17-Tuesday,Ontario,340473.0,337440,333683,321054
+Week 17-Wednesday,Ontario,335154.0,347277,343936,325267
+Week 17-Thursday,Ontario,329220.0,334822,338336,323312
+Week 17-Friday,Ontario,318379.0,330771,343916,319654
+Week 17-Saturday,Ontario,295154.0,323382,325225,283166
+Week 18 (Apr-26),Ontario,308919.0,308973,308357,287328
+Week 18-Monday,Ontario,344956.0,327586,355272,299015
+Week 18-Tuesday,Ontario,334021.0,322065,351911,302365
+Week 18-Wednesday,Ontario,330955.0,333736,359763,307090
+Week 18-Thursday,Ontario,345943.0,344165,355881,311748
+Week 18-Friday,Ontario,346728.0,318967,350734,291631
+Week 18-Saturday,Ontario,317674.0,292545,318976,278953
+Week 19 (May-03),Ontario,304007.0,294662,298837,267919
+Week 19-Monday,Ontario,338942.0,324234,332458,298436
+Week 19-Tuesday,Ontario,345118.0,330123,332508,306338
+Week 19-Wednesday,Ontario,336559.0,330871,321881,301092
+Week 19-Thursday,Ontario,334274.0,330459,336696,305230
+Week 19-Friday,Ontario,328224.0,327369,339228,315250
+Week 19-Saturday,Ontario,304898.0,303587,310020,308318
+Week 20 (May-10),Ontario,291778.0,294741,307514,297593
+Week 20-Monday,Ontario,326091.0,335403,356898,322308
+Week 20-Tuesday,Ontario,332384.0,341927,345591,317775
+Week 20-Wednesday,Ontario,346114.0,334590,338144,307671
+Week 20-Thursday,Ontario,369850.0,336475,334660,315950
+Week 20-Friday,Ontario,325104.0,312661,329788,312604
+Week 20-Saturday,Ontario,283705.0,309159,305986,277653
+Week 21 (May-17),Ontario,293810.0,292365,295908,269766
+Week 21-Monday,Ontario,292153.0,288245,293906,275148
+Week 21-Tuesday,Ontario,333590.0,335899,329936,295341
+Week 21-Wednesday,Ontario,335831.0,335731,336789,292621
+Week 21-Thursday,Ontario,344829.0,349544,336831,300612
+Week 21-Friday,Ontario,338660.0,368424,334758,309974
+Week 21-Saturday,Ontario,306020.0,351924,312550,299366
+Week 22 (May-24),Ontario,301887.0,348860,306389,306310
+Week 22-Monday,Ontario,346404.0,408330,335686,378395
+Week 22-Tuesday,Ontario,338516.0,405836,345144,407475
+Week 22-Wednesday,Ontario,334157.0,400421,342930,402817
+Week 22-Thursday,Ontario,326688.0,418151,339842,367601
+Week 22-Friday,Ontario,325006.0,409791,333328,345297
+Week 22-Saturday,Ontario,300507.0,328376,312410,287789
+Week 23 (May-31),Ontario,307910.0,323329,301395,278884
+Week 23-Monday,Ontario,338933.0,338213,324613,309090
+Week 23-Tuesday,Ontario,336305.0,332733,337900,334759
+Week 23-Wednesday,Ontario,332171.0,336067,347267,348846
+Week 23-Thursday,Ontario,342867.0,343430,339869,365752
+Week 23-Friday,Ontario,346147.0,350858,344526,376780
+Week 23-Saturday,Ontario,333737.0,320812,309156,325892
+Week 24 (Jun-07),Ontario,365681.0,305771,313615,299144
+Week 24-Monday,Ontario,431183.0,342933,348110,335034
+Week 24-Tuesday,Ontario,408138.0,369478,337408,382234
+Week 24-Wednesday,Ontario,370548.0,388116,338764,399904
+Week 24-Thursday,Ontario,363381.0,360524,344806,349837
+Week 24-Friday,Ontario,392361.0,362524,324774,318265
+Week 24-Saturday,Ontario,373810.0,355319,311163,285212
+Week 25 (Jun-14),Ontario,372773.0,395212,303358,280969
+Week 25-Monday,Ontario,389597.0,449568,340639,323054
+Week 25-Tuesday,Ontario,364479.0,386619,361875,342936
+Week 25-Wednesday,Ontario,360595.0,377181,373771,365860
+Week 25-Thursday,Ontario,366474.0,365664,363575,388349
+Week 25-Friday,Ontario,383601.0,349240,342204,408163
+Week 25-Saturday,Ontario,335097.0,338622,319892,397036
+Week 26 (Jun-21),Ontario,314827.0,330246,326816,398803
+Week 26-Monday,Ontario,345670.0,351411,370242,425386
+Week 26-Tuesday,Ontario,339268.0,358216,378122,399249
+Week 26-Wednesday,Ontario,347095.0,377388,401941,343301
+Week 26-Thursday,Ontario,362324.0,411207,413366,350970
+Week 26-Friday,Ontario,379907.0,433289,407963,373738
+Week 26-Saturday,Ontario,337181.0,431309,386105,370569
+Week 27 (Jun-28),Ontario,324388.0,435916,339974,370363
+Week 27-Monday,Ontario,337627.0,440414,354749,416603
+Week 27-Tuesday,Ontario,370926.0,442517,412355,413917
+Week 27-Wednesday,Ontario,382572.0,458233,426193,402920
+Week 27-Thursday,Ontario,405799.0,475016,437465,441694
+Week 27-Friday,Ontario,406869.0,379669,455718,441957
+Week 27-Saturday,Ontario,341299.0,344537,427604,405991
+Week 28 (Jul-05),Ontario,326896.0,363501,362516,401945
+Week 28-Monday,Ontario,379742.0,424364,387313,455037
+Week 28-Tuesday,Ontario,407098.0,434216,401465,474383
+Week 28-Wednesday,Ontario,413015.0,406820,420167,486778
+Week 28-Thursday,Ontario,372770.0,411762,431156,491949
+Week 28-Friday,Ontario,373219.0,436434,386556,488557
+Week 28-Saturday,Ontario,351853.0,409953,376780,401268
+Week 29 (Jul-12),Ontario,351793.0,427343,364597,370345
+Week 29-Monday,Ontario,394223.0,449611,400866,386519
+Week 29-Tuesday,Ontario,406015.0,412609,431989,398938
+Week 29-Wednesday,Ontario,418109.0,383159,440622,421996
+Week 29-Thursday,Ontario,399728.0,395331,433936,417593
+Week 29-Friday,Ontario,414102.0,417909,458216,433939
+Week 29-Saturday,Ontario,367345.0,387368,446430,426245
+Week 30 (Jul-19),Ontario,356518.0,350130,409085,409378
+Week 30-Monday,Ontario,366487.0,420919,401212,423995
+Week 30-Tuesday,Ontario,361875.0,442286,389987,396762
+Week 30-Wednesday,Ontario,366833.0,436014,391001,405517
+Week 30-Thursday,Ontario,389571.0,414576,407799,407958
+Week 30-Friday,Ontario,353698.0,394781,426263,410863
+Week 30-Saturday,Ontario,336699.0,343222,400320,402883
+Week 31 (Jul-26),Ontario,360901.0,342399,415603,427278
+Week 31-Monday,Ontario,412479.0,394798,449502,480752
+Week 31-Tuesday,Ontario,417752.0,409514,437980,433500
+Week 31-Wednesday,Ontario,416115.0,416661,407321,428387
+Week 31-Thursday,Ontario,414310.0,422833,394117,412750
+Week 31-Friday,Ontario,390162.0,427490,397054,414629
+Week 31-Saturday,Ontario,317264.0,411787,380282,393783
+Week 32 (Aug-02),Ontario,311258.0,413036,364032,371756
+Week 32-Monday,Ontario,325473.0,428233,380048,356760
+Week 32-Tuesday,Ontario,364244.0,438130,420437,382993
+Week 32-Wednesday,Ontario,391135.0,424166,424170,357087
+Week 32-Thursday,Ontario,394112.0,421499,397392,360021
+Week 32-Friday,Ontario,389885.0,404771,372578,377069
+Week 32-Saturday,Ontario,349130.0,376543,335238,368760
+Week 33 (Aug-09),Ontario,338610.0,386389,348653,394095
+Week 33-Monday,Ontario,386192.0,426267,413056,466048
+Week 33-Tuesday,Ontario,393439.0,436699,420857,447795
+Week 33-Wednesday,Ontario,384035.0,445789,395004,421328
+Week 33-Thursday,Ontario,378633.0,446876,377666,434764
+Week 33-Friday,Ontario,393193.0,440201,390454,422107
+Week 33-Saturday,Ontario,343996.0,380695,381885,395289
+Week 34 (Aug-16),Ontario,348029.0,365304,382353,370139
+Week 34-Monday,Ontario,409044.0,406579,419231,383024
+Week 34-Tuesday,Ontario,407666.0,409862,416617,363979
+Week 34-Wednesday,Ontario,356512.0,368655,438863,353522
+Week 34-Thursday,Ontario,347687.0,367940,385778,365411
+Week 34-Friday,Ontario,339838.0,385308,355062,398472
+Week 34-Saturday,Ontario,311814.0,363973,325837,398684
+Week 35 (Aug-23),Ontario,307419.0,390905,325954,410611
+Week 35-Monday,Ontario,353546.0,429184,363976,457462
+Week 35-Tuesday,Ontario,361225.0,457843,374672,428919
+Week 35-Wednesday,Ontario,365119.0,450249,388662,371254
+Week 35-Thursday,Ontario,343175.0,378070,371007,411298
+Week 35-Friday,Ontario,322113.0,366858,364416,381986
+Week 35-Saturday,Ontario,293067.0,374915,319701,352566
+Week 36 (Aug-30),Ontario,299155.0,403834,314220,323619
+Week 36-Monday,Ontario,311929.0,425769,330179,360479
+Week 36-Tuesday,Ontario,342054.0,443555,361686,400721
+Week 36-Wednesday,Ontario,341021.0,471517,359502,405912
+Week 36-Thursday,Ontario,333299.0,427445,350911,379757
+Week 36-Friday,Ontario,329019.0,374005,352478,345010
+Week 36-Saturday,Ontario,295175.0,312996,319759,315718
+Week 37 (Sep-06),Ontario,294637.0,301842,310186,300805
+Week 37-Monday,Ontario,335097.0,348807,337675,322318
+Week 37-Tuesday,Ontario,342105.0,356178,356407,343349
+Week 37-Wednesday,Ontario,356280.0,363628,398540,352461
+Week 37-Thursday,Ontario,373807.0,380873,352040,352451
+Week 37-Friday,Ontario,377277.0,415815,343388,330143
+Week 37-Saturday,Ontario,350072.0,408208,319895,309360
+Week 38 (Sep-13),Ontario,348179.0,404308,316138,323574
+Week 38-Monday,Ontario,391145.0,429639,346844,329772
+Week 38-Tuesday,Ontario,397611.0,411562,348527,329285
+Week 38-Wednesday,Ontario,396234.0,372237,345788,332166
+Week 38-Thursday,Ontario,397342.0,358854,347787,332338
+Week 38-Friday,Ontario,398031.0,381923,356705,321372
+Week 38-Saturday,Ontario,385216.0,306173,351261,303670
+Week 39 (Sep-20),Ontario,402648.0,306765,367063,293968
+Week 39-Monday,Ontario,439140.0,339085,381936,326176
+Week 39-Tuesday,Ontario,439600.0,359633,351172,331523
+Week 39-Wednesday,Ontario,406962.0,354399,353056,341691
+Week 39-Thursday,Ontario,341298.0,344341,349266,348320
+Week 39-Friday,Ontario,334279.0,339301,335299,349110
+Week 39-Saturday,Ontario,305601.0,309154,324104,323704
 Week 1 (Dec-29),Alberta,235155.0,null,null,null
 Week 1-Monday,Alberta,247051.0,245750.0,null,null
 Week 1-Tuesday,Alberta,254852.0,245728.0,237805.0,null
@@ -636,458 +545,276 @@ Week 39-Wednesday,Alberta,216203.0,223175.0,218982.0,216258.0
 Week 39-Thursday,Alberta,214949.0,228484.0,220076.0,216715.0
 Week 39-Friday,Alberta,213462.0,228128.0,222064.0,216716.0
 Week 39-Saturday,Alberta,205332.0,225804.0,216968.0,207625.0
-Week 40 (Sep-27),Alberta,null,226687.0,216624.0,206200.0
-Week 40-Monday,Alberta,null,null,222069.0,216336.0
-Week 40-Tuesday,Alberta,null,null,null,215124.0
-Week 40-Wednesday,Alberta,null,null,null,216496.0
-Week 40-Thursday,Alberta,null,null,null,null
-Week 40-Friday,Alberta,null,null,null,null
-Week 40-Saturday,Alberta,null,null,null,null
-Week 41 (Oct-04),Alberta,null,null,null,null
-Week 41-Monday,Alberta,null,null,null,null
-Week 41-Tuesday,Alberta,null,null,null,null
-Week 41-Wednesday,Alberta,null,null,null,null
-Week 41-Thursday,Alberta,null,null,null,null
-Week 41-Friday,Alberta,null,null,null,null
-Week 41-Saturday,Alberta,null,null,null,null
-Week 42 (Oct-11),Alberta,null,null,null,null
-Week 42-Monday,Alberta,null,null,null,null
-Week 42-Tuesday,Alberta,null,null,null,null
-Week 42-Wednesday,Alberta,null,null,null,null
-Week 42-Thursday,Alberta,null,null,null,null
-Week 42-Friday,Alberta,null,null,null,null
-Week 42-Saturday,Alberta,null,null,null,null
-Week 43 (Oct-18),Alberta,null,null,null,null
-Week 43-Monday,Alberta,null,null,null,null
-Week 43-Tuesday,Alberta,null,null,null,null
-Week 43-Wednesday,Alberta,null,null,null,null
-Week 43-Thursday,Alberta,null,null,null,null
-Week 43-Friday,Alberta,null,null,null,null
-Week 43-Saturday,Alberta,null,null,null,null
-Week 44 (Oct-25),Alberta,null,null,null,null
-Week 44-Monday,Alberta,null,null,null,null
-Week 44-Tuesday,Alberta,null,null,null,null
-Week 44-Wednesday,Alberta,null,null,null,null
-Week 44-Thursday,Alberta,null,null,null,null
-Week 44-Friday,Alberta,null,null,null,null
-Week 44-Saturday,Alberta,null,null,null,null
-Week 45 (Nov-01),Alberta,null,null,null,null
-Week 45-Monday,Alberta,null,null,null,null
-Week 45-Tuesday,Alberta,null,null,null,null
-Week 45-Wednesday,Alberta,null,null,null,null
-Week 45-Thursday,Alberta,null,null,null,null
-Week 45-Friday,Alberta,null,null,null,null
-Week 45-Saturday,Alberta,null,null,null,null
-Week 46 (Nov-08),Alberta,null,null,null,null
-Week 46-Monday,Alberta,null,null,null,null
-Week 46-Tuesday,Alberta,null,null,null,null
-Week 46-Wednesday,Alberta,null,null,null,null
-Week 46-Thursday,Alberta,null,null,null,null
-Week 46-Friday,Alberta,null,null,null,null
-Week 46-Saturday,Alberta,null,null,null,null
-Week 47 (Nov-15),Alberta,null,null,null,null
-Week 47-Monday,Alberta,null,null,null,null
-Week 47-Tuesday,Alberta,null,null,null,null
-Week 47-Wednesday,Alberta,null,null,null,null
-Week 47-Thursday,Alberta,null,null,null,null
-Week 47-Friday,Alberta,null,null,null,null
-Week 47-Saturday,Alberta,null,null,null,null
-Week 48 (Nov-22),Alberta,null,null,null,null
-Week 48-Monday,Alberta,null,null,null,null
-Week 48-Tuesday,Alberta,null,null,null,null
-Week 48-Wednesday,Alberta,null,null,null,null
-Week 48-Thursday,Alberta,null,null,null,null
-Week 48-Friday,Alberta,null,null,null,null
-Week 48-Saturday,Alberta,null,null,null,null
-Week 49 (Nov-29),Alberta,null,null,null,null
-Week 49-Monday,Alberta,null,null,null,null
-Week 49-Tuesday,Alberta,null,null,null,null
-Week 49-Wednesday,Alberta,null,null,null,null
-Week 49-Thursday,Alberta,null,null,null,null
-Week 49-Friday,Alberta,null,null,null,null
-Week 49-Saturday,Alberta,null,null,null,null
-Week 50 (Dec-06),Alberta,null,null,null,null
-Week 50-Monday,Alberta,null,null,null,null
-Week 50-Tuesday,Alberta,null,null,null,null
-Week 50-Wednesday,Alberta,null,null,null,null
-Week 50-Thursday,Alberta,null,null,null,null
-Week 50-Friday,Alberta,null,null,null,null
-Week 50-Saturday,Alberta,null,null,null,null
-Week 51 (Dec-13),Alberta,null,null,null,null
-Week 51-Monday,Alberta,null,null,null,null
-Week 51-Tuesday,Alberta,null,null,null,null
-Week 51-Wednesday,Alberta,null,null,null,null
-Week 51-Thursday,Alberta,null,null,null,null
-Week 51-Friday,Alberta,null,null,null,null
-Week 51-Saturday,Alberta,null,null,null,null
-Week 52 (Dec-20),Alberta,null,null,null,null
-Week 52-Monday,Alberta,null,null,null,null
-Week 52-Tuesday,Alberta,null,null,null,null
-Week 52-Wednesday,Alberta,null,null,null,null
-Week 52-Thursday,Alberta,null,null,null,null
-Week 52-Friday,Alberta,null,null,null,null
-Week 52-Saturday,Alberta,null,null,null,null
-Week 1 (Dec-29),British Colombia,205231,null,null,null
-Week 1-Monday,British Colombia,222012,210648,null,null
-Week 1-Tuesday,British Colombia,236515,222835,190120,null
-Week 1-Wednesday,British Colombia,234730,219151,202824,174221
-Week 1-Thursday,British Colombia,231795,217176,198363,198202
-Week 1-Friday,British Colombia,227726,206161,190823,195152
-Week 1-Saturday,British Colombia,219068,195366,181685,186818
-Week 2 (Jan-05),British Colombia,216561,196562,185011,191151
-Week 2-Monday,British Colombia,219352,201615,202990,204570
-Week 2-Tuesday,British Colombia,220750,198305,212238,202682
-Week 2-Wednesday,British Colombia,231199,200225,203244,202896
-Week 2-Thursday,British Colombia,232927,210150,192567,210348
-Week 2-Friday,British Colombia,231611,213022,190652,214626
-Week 2-Saturday,British Colombia,219788,197729,183782,200376
-Week 3 (Jan-12),British Colombia,212975,190745,185401,206236
-Week 3-Monday,British Colombia,218834,199308,201711,236392
-Week 3-Tuesday,British Colombia,209221,196105,207688,245039
-Week 3-Wednesday,British Colombia,198790,195673,206351,244309
-Week 3-Thursday,British Colombia,202058,195042,203441,230259
-Week 3-Friday,British Colombia,202057,198936,198304,228524
-Week 3-Saturday,British Colombia,194419,192307,186918,215863
-Week 4 (Jan-19),British Colombia,197344,189074,190824,203598
-Week 4-Monday,British Colombia,205964,197792,203911,201818
-Week 4-Tuesday,British Colombia,207169,201433,204775,202079
-Week 4-Wednesday,British Colombia,202199,197186,198462,202821
-Week 4-Thursday,British Colombia,201021,200617,200442,199256
-Week 4-Friday,British Colombia,200028,201705,197528,194297
-Week 4-Saturday,British Colombia,192822,197225,188082,190155
-Week 5 (Jan-26),British Colombia,193381,196309,187946,186442
-Week 5-Monday,British Colombia,204744,199392,199782,196081
-Week 5-Tuesday,British Colombia,212094,196750,205108,195736
-Week 5-Wednesday,British Colombia,216203,200308,204491,195935
-Week 5-Thursday,British Colombia,216423,204687,199016,201749
-Week 5-Friday,British Colombia,222484,199083,197378,197576
-Week 5-Saturday,British Colombia,212940,185140,189619,186375
-Week 6 (Feb-02),British Colombia,211266,186004,210747,198289
-Week 6-Monday,British Colombia,222500,196384,229440,211088
-Week 6-Tuesday,British Colombia,220661,197140,231423,221438
-Week 6-Wednesday,British Colombia,227183,197237,228121,214315
-Week 6-Thursday,British Colombia,219241,190420,226610,208696
-Week 6-Friday,British Colombia,207200,201115,227720,207766
-Week 6-Saturday,British Colombia,196525,195383,221208,195284
-Week 7 (Feb-09),British Colombia,190635,192412,229778,199732
-Week 7-Monday,British Colombia,186441,198654,235394,205797
-Week 7-Tuesday,British Colombia,194960,208914,228399,202033
-Week 7-Wednesday,British Colombia,194018,199732,220533,200413
-Week 7-Thursday,British Colombia,190792,203914,226613,202121
-Week 7-Friday,British Colombia,190056,199894,212092,197304
-Week 7-Saturday,British Colombia,187329,195797,201114,192857
-Week 8 (Feb-16),British Colombia,186506,202141,200065,193150
-Week 8-Monday,British Colombia,197426,219668,210077,195648
-Week 8-Tuesday,British Colombia,194844,216118,218917,207050
-Week 8-Wednesday,British Colombia,198535,224497,208418,202724
-Week 8-Thursday,British Colombia,199586,217874,208013,195547
-Week 8-Friday,British Colombia,200235,223722,210139,193000
-Week 8-Saturday,British Colombia,194350,201666,201079,181676
-Week 9 (Feb-23),British Colombia,191382,194522,200709,186432
-Week 9-Monday,British Colombia,209127,205281,215380,193790
-Week 9-Tuesday,British Colombia,208280,200122,218688,197024
-Week 9-Wednesday,British Colombia,197814,201804,219192,191836
-Week 9-Thursday,British Colombia,199977,197175,210719,189604
-Week 9-Friday,British Colombia,200975,202912,207851,188798
-Week 9-Saturday,British Colombia,191243,190758,199993,180868
-Week 10 (Mar-01),British Colombia,198305,192327,200850,185571
-Week 10-Monday,British Colombia,204321,201032,210593,193553
-Week 10-Tuesday,British Colombia,209839,195430,210616,188535
-Week 10-Wednesday,British Colombia,204411,194739,210152,187387
-Week 10-Thursday,British Colombia,209286,197842,206785,191056
-Week 10-Friday,British Colombia,196688,190022,202765,189366
-Week 10-Saturday,British Colombia,190160,179375,193246,187928
-Week 11 (Mar-08),British Colombia,175247,166826,184032,178969
-Week 11-Monday,British Colombia,189441,181493,203091,196034
-Week 11-Tuesday,British Colombia,179737,180476,196608,198088
-Week 11-Wednesday,British Colombia,180786,179166,193525,187766
-Week 11-Thursday,British Colombia,185590,182285,193671,191270
-Week 11-Friday,British Colombia,189765,182582,187003,197676
-Week 11-Saturday,British Colombia,178847,171853,174476,197023
-Week 12 (Mar-15),British Colombia,176374,172210,169441,193558
-Week 12-Monday,British Colombia,190844,182580,175675,192183
-Week 12-Tuesday,British Colombia,185720,182700,171807,186166
-Week 12-Wednesday,British Colombia,181159,180980,169207,183800
-Week 12-Thursday,British Colombia,182762,186196,168175,181460
-Week 12-Friday,British Colombia,183226,189575,167175,177870
-Week 12-Saturday,British Colombia,170531,181821,160867,169520
-Week 13 (Mar-22),British Colombia,177636,180053,163934,169518
-Week 13-Monday,British Colombia,181062,193176,175266,176503
-Week 13-Tuesday,British Colombia,185844,182729,175676,178980
-Week 13-Wednesday,British Colombia,183845,177933,172561,176126
-Week 13-Thursday,British Colombia,177892,183159,170220,180265
-Week 13-Friday,British Colombia,176979,168911,169201,180031
-Week 13-Saturday,British Colombia,165413,168757,161763,173853
-Week 14 (Mar-29),British Colombia,165466,170574,158888,166621
-Week 14-Monday,British Colombia,177749,182348,166612,182039
-Week 14-Tuesday,British Colombia,176639,185153,162312,183906
-Week 14-Wednesday,British Colombia,174444,184553,164411,183079
-Week 14-Thursday,British Colombia,175294,187176,163872,183338
-Week 14-Friday,British Colombia,176221,178284,165878,183550
-Week 14-Saturday,British Colombia,168082,168915,164323,176229
-Week 15 (Apr-05),British Colombia,165503,164575,160866,170670
-Week 15-Monday,British Colombia,175862,169026,172361,172377
-Week 15-Tuesday,British Colombia,172418,168670,168578,167908
-Week 15-Wednesday,British Colombia,173333,172648,171136,168354
-Week 15-Thursday,British Colombia,172261,170302,174940,164480
-Week 15-Friday,British Colombia,162210,174552,169942,155512
-Week 15-Saturday,British Colombia,160620,161198,165898,154517
-Week 16 (Apr-12),British Colombia,157503,159435,163961,157298
-Week 16-Monday,British Colombia,168654,173330,170542,162070
-Week 16-Tuesday,British Colombia,168730,166188,171469,159588
-Week 16-Wednesday,British Colombia,168571,166026,166777,156052
-Week 16-Thursday,British Colombia,166488,164657,167452,155888
-Week 16-Friday,British Colombia,162779,163872,154150,154156
-Week 16-Saturday,British Colombia,153580,153289,150510,145541
-Week 17 (Apr-19),British Colombia,154256,153173,150242,143594
-Week 17-Monday,British Colombia,164174,161138,162685,150005
-Week 17-Tuesday,British Colombia,161385,156902,159593,147800
-Week 17-Wednesday,British Colombia,160494,154648,159612,151627
-Week 17-Thursday,British Colombia,162553,154889,160589,151157
-Week 17-Friday,British Colombia,160981,152281,159956,152144
-Week 17-Saturday,British Colombia,159159,148798,156001,146373
-Week 18 (Apr-26),British Colombia,152095,148765,153038,146762
-Week 18-Monday,British Colombia,166649,157355,158672,152677
-Week 18-Tuesday,British Colombia,165472,155071,156224,154504
-Week 18-Wednesday,British Colombia,165101,155205,156447,153565
-Week 18-Thursday,British Colombia,162566,156144,158151,151444
-Week 18-Friday,British Colombia,159695,154165,157988,150750
-Week 18-Saturday,British Colombia,153549,144854,149279,146712
-Week 19 (May-03),British Colombia,152219,144598,146560,146967
-Week 19-Monday,British Colombia,162517,152341,154765,156240
-Week 19-Tuesday,British Colombia,159954,155114,151932,152027
-Week 19-Wednesday,British Colombia,157883,153675,152925,149869
-Week 19-Thursday,British Colombia,158852,155321,156076,149169
-Week 19-Friday,British Colombia,161402,154233,159041,147257
-Week 19-Saturday,British Colombia,153794,146947,149638,139210
-Week 20 (May-10),British Colombia,152437,147011,147215,139099
-Week 20-Monday,British Colombia,167578,160786,156044,148334
-Week 20-Tuesday,British Colombia,166612,158645,158001,146182
-Week 20-Wednesday,British Colombia,162270,157164,158625,145920
-Week 20-Thursday,British Colombia,160937,156669,157711,147943
-Week 20-Friday,British Colombia,158470,157370,160969,147151
-Week 20-Saturday,British Colombia,146136,148068,152119,143036
-Week 21 (May-17),British Colombia,141768,145415,149122,142985
-Week 21-Monday,British Colombia,147300,150504,147563,139720
-Week 21-Tuesday,British Colombia,156170,161907,158373,146875
-Week 21-Wednesday,British Colombia,153673,159812,158191,149035
-Week 21-Thursday,British Colombia,155388,158431,158597,151932
-Week 21-Friday,British Colombia,156220,156951,156510,151016
-Week 21-Saturday,British Colombia,147819,145305,149968,143517
-Week 22 (May-24),British Colombia,149369,145396,147112,142190
-Week 22-Monday,British Colombia,162694,156351,156519,150537
-Week 22-Tuesday,British Colombia,157010,155036,154944,149257
-Week 22-Wednesday,British Colombia,153217,153710,157298,150255
-Week 22-Thursday,British Colombia,152165,153440,158869,151347
-Week 22-Friday,British Colombia,152949,154417,161065,150780
-Week 22-Saturday,British Colombia,142022,146705,151357,143527
-Week 23 (May-31),British Colombia,139053,144515,148646,142157
-Week 23-Monday,British Colombia,153553,154322,157691,148629
-Week 23-Tuesday,British Colombia,151109,153615,157265,150105
-Week 23-Wednesday,British Colombia,151248,150908,157706,145389
-Week 23-Thursday,British Colombia,152080,153862,157705,145653
-Week 23-Friday,British Colombia,151960,153738,158335,145808
-Week 23-Saturday,British Colombia,141333,144643,151127,139150
-Week 24 (Jun-07),British Colombia,136182,144221,149721,137357
-Week 24-Monday,British Colombia,146525,155566,159219,147787
-Week 24-Tuesday,British Colombia,143149,156379,163526,150357
-Week 24-Wednesday,British Colombia,144220,152962,168653,149396
-Week 24-Thursday,British Colombia,149644,154142,164591,148587
-Week 24-Friday,British Colombia,146999,154386,159948,149260
-Week 24-Saturday,British Colombia,138680,147012,153227,139788
-Week 25 (Jun-14),British Colombia,140535,148990,151782,140568
-Week 25-Monday,British Colombia,151247,166372,164289,151835
-Week 25-Tuesday,British Colombia,148621,166345,161208,148360
-Week 25-Wednesday,British Colombia,149642,165776,156098,148130
-Week 25-Thursday,British Colombia,152586,157109,156471,149094
-Week 25-Friday,British Colombia,152567,154935,158250,151175
-Week 25-Saturday,British Colombia,147463,147432,150696,144137
-Week 26 (Jun-21),British Colombia,150571,150301,147135,141573
-Week 26-Monday,British Colombia,160185,157519,157485,152674
-Week 26-Tuesday,British Colombia,157945,155695,157731,155259
-Week 26-Wednesday,British Colombia,154985,155652,157455,155648
-Week 26-Thursday,British Colombia,155924,155057,154931,158123
-Week 26-Friday,British Colombia,154948,154744,152705,153812
-Week 26-Saturday,British Colombia,141106,146638,146363,141838
-Week 27 (Jun-28),British Colombia,141790,142220,144794,139294
-Week 27-Monday,British Colombia,146327,145361,148928,151649
-Week 27-Tuesday,British Colombia,153572,157491,155508,149105
-Week 27-Wednesday,British Colombia,158616,158747,156848,142845
-Week 27-Thursday,British Colombia,162699,167082,153700,148393
-Week 27-Friday,British Colombia,157656,163048,154438,146859
-Week 27-Saturday,British Colombia,146577,149801,146632,140349
-Week 28 (Jul-05),British Colombia,147102,149641,144571,141165
-Week 28-Monday,British Colombia,155712,160094,156921,151937
-Week 28-Tuesday,British Colombia,154139,156012,160028,150871
-Week 28-Wednesday,British Colombia,155948,161231,158521,152605
-Week 28-Thursday,British Colombia,156655,162862,156320,154339
-Week 28-Friday,British Colombia,159158,162661,157543,154044
-Week 28-Saturday,British Colombia,149587,153510,150038,146201
-Week 29 (Jul-12),British Colombia,140508,154745,150314,143697
-Week 29-Monday,British Colombia,155191,168287,159335,154698
-Week 29-Tuesday,British Colombia,157592,167568,158139,155979
-Week 29-Wednesday,British Colombia,157663,164352,153313,158194
-Week 29-Thursday,British Colombia,153161,159282,152126,158591
-Week 29-Friday,British Colombia,153787,155022,151775,155680
-Week 29-Saturday,British Colombia,147397,143878,145622,151283
-Week 30 (Jul-19),British Colombia,146868,150116,149583,152353
-Week 30-Monday,British Colombia,158116,166593,161172,164754
-Week 30-Tuesday,British Colombia,160707,166003,160611,164177
-Week 30-Wednesday,British Colombia,163210,167426,155269,160338
-Week 30-Thursday,British Colombia,162335,170703,157940,158002
-Week 30-Friday,British Colombia,160439,170882,162288,152240
-Week 30-Saturday,British Colombia,153915,160220,150823,145865
-Week 31 (Jul-26),British Colombia,152632,160577,149172,151461
-Week 31-Monday,British Colombia,164996,176453,159630,168171
-Week 31-Tuesday,British Colombia,165547,171637,156708,165537
-Week 31-Wednesday,British Colombia,165982,165453,158773,167629
-Week 31-Thursday,British Colombia,168125,160996,160709,170184
-Week 31-Friday,British Colombia,168135,159771,160427,166551
-Week 31-Saturday,British Colombia,154580,151912,150518,156950
-Week 32 (Aug-02),British Colombia,151399,153626,151352,152403
-Week 32-Monday,British Colombia,153293,161096,156917,153694
-Week 32-Tuesday,British Colombia,166573,173760,166447,165959
-Week 32-Wednesday,British Colombia,165278,176706,163580,163518
-Week 32-Thursday,British Colombia,169449,179054,161308,156917
-Week 32-Friday,British Colombia,169516,176046,160653,153513
-Week 32-Saturday,British Colombia,153686,153380,147690,149296
-Week 33 (Aug-09),British Colombia,149290,147023,145020,148401
-Week 33-Monday,British Colombia,159080,161640,157360,162725
-Week 33-Tuesday,British Colombia,161572,166100,160052,160442
-Week 33-Wednesday,British Colombia,162038,167912,164604,159216
-Week 33-Thursday,British Colombia,164560,165856,165175,159674
-Week 33-Friday,British Colombia,161035,164309,159138,161313
-Week 33-Saturday,British Colombia,149632,151391,150408,158656
-Week 34 (Aug-16),British Colombia,147969,148696,149848,162827
-Week 34-Monday,British Colombia,161292,163606,160746,179392
-Week 34-Tuesday,British Colombia,166124,165721,161439,171993
-Week 34-Wednesday,British Colombia,164136,162299,155305,169121
-Week 34-Thursday,British Colombia,157888,155961,159307,167121
-Week 34-Friday,British Colombia,154047,154636,157547,163207
-Week 34-Saturday,British Colombia,148333,145240,148708,153132
-Week 35 (Aug-23),British Colombia,152937,142678,146695,151403
-Week 35-Monday,British Colombia,169965,156786,157927,160835
-Week 35-Tuesday,British Colombia,169008,155370,160285,160800
-Week 35-Wednesday,British Colombia,159780,156033,163803,160887
-Week 35-Thursday,British Colombia,159517,155861,160858,161984
-Week 35-Friday,British Colombia,158915,154550,160873,161533
-Week 35-Saturday,British Colombia,153228,143678,150404,151602
-Week 36 (Aug-30),British Colombia,155752,142772,148079,149714
-Week 36-Monday,British Colombia,159827,146248,152512,158325
-Week 36-Tuesday,British Colombia,166056,157994,160618,159773
-Week 36-Wednesday,British Colombia,164960,155527,159879,155913
-Week 36-Thursday,British Colombia,162065,157465,161143,154358
-Week 36-Friday,British Colombia,157758,157247,160796,156910
-Week 36-Saturday,British Colombia,146433,147622,151481,147041
-Week 37 (Sep-06),British Colombia,143763,146903,148394,146067
-Week 37-Monday,British Colombia,156276,155684,158084,142539
-Week 37-Tuesday,British Colombia,156437,152871,157354,152052
-Week 37-Wednesday,British Colombia,154772,156385,154714,154295
-Week 37-Thursday,British Colombia,156766,158778,155061,158312
-Week 37-Friday,British Colombia,155493,159166,157828,157071
-Week 37-Saturday,British Colombia,147265,149550,150189,145391
-Week 38 (Sep-13),British Colombia,148090,148278,147626,144334
-Week 38-Monday,British Colombia,154757,157974,152214,153559
-Week 38-Tuesday,British Colombia,156613,155972,153131,153194
-Week 38-Wednesday,British Colombia,158172,156378,152174,155799
-Week 38-Thursday,British Colombia,159418,158657,152231,153713
-Week 38-Friday,British Colombia,157083,157046,149059,152645
-Week 38-Saturday,British Colombia,147347,147542,142930,144032
-Week 39 (Sep-20),British Colombia,147136,146959,143538,144356
-Week 39-Monday,British Colombia,154600,156212,154862,151533
-Week 39-Tuesday,British Colombia,153851,155919,151565,151976
-Week 39-Wednesday,British Colombia,152229,155784,153246,155165
-Week 39-Thursday,British Colombia,155261,156950,152741,154387
-Week 39-Friday,British Colombia,155464,156055,153854,153965
-Week 39-Saturday,British Colombia,144856,146417,147210,146850
-Week 40 (Sep-27),British Colombia,null,153259,148834,147970
-Week 40-Monday,British Colombia,null,null,159707,155938
-Week 40-Tuesday,British Colombia,null,null,null,156327
-Week 40-Wednesday,British Colombia,null,null,null,156861
-Week 40-Thursday,British Colombia,null,null,null,null
-Week 40-Friday,British Colombia,null,null,null,null
-Week 40-Saturday,British Colombia,null,null,null,null
-Week 41 (Oct-04),British Colombia,null,null,null,null
-Week 41-Monday,British Colombia,null,null,null,null
-Week 41-Tuesday,British Colombia,null,null,null,null
-Week 41-Wednesday,British Colombia,null,null,null,null
-Week 41-Thursday,British Colombia,null,null,null,null
-Week 41-Friday,British Colombia,null,null,null,null
-Week 41-Saturday,British Colombia,null,null,null,null
-Week 42 (Oct-11),British Colombia,null,null,null,null
-Week 42-Monday,British Colombia,null,null,null,null
-Week 42-Tuesday,British Colombia,null,null,null,null
-Week 42-Wednesday,British Colombia,null,null,null,null
-Week 42-Thursday,British Colombia,null,null,null,null
-Week 42-Friday,British Colombia,null,null,null,null
-Week 42-Saturday,British Colombia,null,null,null,null
-Week 43 (Oct-18),British Colombia,null,null,null,null
-Week 43-Monday,British Colombia,null,null,null,null
-Week 43-Tuesday,British Colombia,null,null,null,null
-Week 43-Wednesday,British Colombia,null,null,null,null
-Week 43-Thursday,British Colombia,null,null,null,null
-Week 43-Friday,British Colombia,null,null,null,null
-Week 43-Saturday,British Colombia,null,null,null,null
-Week 44 (Oct-25),British Colombia,null,null,null,null
-Week 44-Monday,British Colombia,null,null,null,null
-Week 44-Tuesday,British Colombia,null,null,null,null
-Week 44-Wednesday,British Colombia,null,null,null,null
-Week 44-Thursday,British Colombia,null,null,null,null
-Week 44-Friday,British Colombia,null,null,null,null
-Week 44-Saturday,British Colombia,null,null,null,null
-Week 45 (Nov-01),British Colombia,null,null,null,null
-Week 45-Monday,British Colombia,null,null,null,null
-Week 45-Tuesday,British Colombia,null,null,null,null
-Week 45-Wednesday,British Colombia,null,null,null,null
-Week 45-Thursday,British Colombia,null,null,null,null
-Week 45-Friday,British Colombia,null,null,null,null
-Week 45-Saturday,British Colombia,null,null,null,null
-Week 46 (Nov-08),British Colombia,null,null,null,null
-Week 46-Monday,British Colombia,null,null,null,null
-Week 46-Tuesday,British Colombia,null,null,null,null
-Week 46-Wednesday,British Colombia,null,null,null,null
-Week 46-Thursday,British Colombia,null,null,null,null
-Week 46-Friday,British Colombia,null,null,null,null
-Week 46-Saturday,British Colombia,null,null,null,null
-Week 47 (Nov-15),British Colombia,null,null,null,null
-Week 47-Monday,British Colombia,null,null,null,null
-Week 47-Tuesday,British Colombia,null,null,null,null
-Week 47-Wednesday,British Colombia,null,null,null,null
-Week 47-Thursday,British Colombia,null,null,null,null
-Week 47-Friday,British Colombia,null,null,null,null
-Week 47-Saturday,British Colombia,null,null,null,null
-Week 48 (Nov-22),British Colombia,null,null,null,null
-Week 48-Monday,British Colombia,null,null,null,null
-Week 48-Tuesday,British Colombia,null,null,null,null
-Week 48-Wednesday,British Colombia,null,null,null,null
-Week 48-Thursday,British Colombia,null,null,null,null
-Week 48-Friday,British Colombia,null,null,null,null
-Week 48-Saturday,British Colombia,null,null,null,null
-Week 49 (Nov-29),British Colombia,null,null,null,null
-Week 49-Monday,British Colombia,null,null,null,null
-Week 49-Tuesday,British Colombia,null,null,null,null
-Week 49-Wednesday,British Colombia,null,null,null,null
-Week 49-Thursday,British Colombia,null,null,null,null
-Week 49-Friday,British Colombia,null,null,null,null
-Week 49-Saturday,British Colombia,null,null,null,null
-Week 50 (Dec-06),British Colombia,null,null,null,null
-Week 50-Monday,British Colombia,null,null,null,null
-Week 50-Tuesday,British Colombia,null,null,null,null
-Week 50-Wednesday,British Colombia,null,null,null,null
-Week 50-Thursday,British Colombia,null,null,null,null
-Week 50-Friday,British Colombia,null,null,null,null
-Week 50-Saturday,British Colombia,null,null,null,null
-Week 51 (Dec-13),British Colombia,null,null,null,null
-Week 51-Monday,British Colombia,null,null,null,null
-Week 51-Tuesday,British Colombia,null,null,null,null
-Week 51-Wednesday,British Colombia,null,null,null,null
-Week 51-Thursday,British Colombia,null,null,null,null
-Week 51-Friday,British Colombia,null,null,null,null
-Week 51-Saturday,British Colombia,null,null,null,null
-Week 52 (Dec-20),British Colombia,null,null,null,null
-Week 52-Monday,British Colombia,null,null,null,null
-Week 52-Tuesday,British Colombia,null,null,null,null
-Week 52-Wednesday,British Colombia,null,null,null,null
-Week 52-Thursday,British Colombia,null,null,null,null
-Week 52-Friday,British Colombia,null,null,null,null
-Week 52-Saturday,British Colombia,null,null,null,null
+Week 1 (Dec-29),British Colombia,205231.0,null,null,null
+Week 1-Monday,British Colombia,222012.0,210648,null,null
+Week 1-Tuesday,British Colombia,236515.0,222835,190120,null
+Week 1-Wednesday,British Colombia,234730.0,219151,202824,174221
+Week 1-Thursday,British Colombia,231795.0,217176,198363,198202
+Week 1-Friday,British Colombia,227726.0,206161,190823,195152
+Week 1-Saturday,British Colombia,219068.0,195366,181685,186818
+Week 2 (Jan-05),British Colombia,216561.0,196562,185011,191151
+Week 2-Monday,British Colombia,219352.0,201615,202990,204570
+Week 2-Tuesday,British Colombia,220750.0,198305,212238,202682
+Week 2-Wednesday,British Colombia,231199.0,200225,203244,202896
+Week 2-Thursday,British Colombia,232927.0,210150,192567,210348
+Week 2-Friday,British Colombia,231611.0,213022,190652,214626
+Week 2-Saturday,British Colombia,219788.0,197729,183782,200376
+Week 3 (Jan-12),British Colombia,212975.0,190745,185401,206236
+Week 3-Monday,British Colombia,218834.0,199308,201711,236392
+Week 3-Tuesday,British Colombia,209221.0,196105,207688,245039
+Week 3-Wednesday,British Colombia,198790.0,195673,206351,244309
+Week 3-Thursday,British Colombia,202058.0,195042,203441,230259
+Week 3-Friday,British Colombia,202057.0,198936,198304,228524
+Week 3-Saturday,British Colombia,194419.0,192307,186918,215863
+Week 4 (Jan-19),British Colombia,197344.0,189074,190824,203598
+Week 4-Monday,British Colombia,205964.0,197792,203911,201818
+Week 4-Tuesday,British Colombia,207169.0,201433,204775,202079
+Week 4-Wednesday,British Colombia,202199.0,197186,198462,202821
+Week 4-Thursday,British Colombia,201021.0,200617,200442,199256
+Week 4-Friday,British Colombia,200028.0,201705,197528,194297
+Week 4-Saturday,British Colombia,192822.0,197225,188082,190155
+Week 5 (Jan-26),British Colombia,193381.0,196309,187946,186442
+Week 5-Monday,British Colombia,204744.0,199392,199782,196081
+Week 5-Tuesday,British Colombia,212094.0,196750,205108,195736
+Week 5-Wednesday,British Colombia,216203.0,200308,204491,195935
+Week 5-Thursday,British Colombia,216423.0,204687,199016,201749
+Week 5-Friday,British Colombia,222484.0,199083,197378,197576
+Week 5-Saturday,British Colombia,212940.0,185140,189619,186375
+Week 6 (Feb-02),British Colombia,211266.0,186004,210747,198289
+Week 6-Monday,British Colombia,222500.0,196384,229440,211088
+Week 6-Tuesday,British Colombia,220661.0,197140,231423,221438
+Week 6-Wednesday,British Colombia,227183.0,197237,228121,214315
+Week 6-Thursday,British Colombia,219241.0,190420,226610,208696
+Week 6-Friday,British Colombia,207200.0,201115,227720,207766
+Week 6-Saturday,British Colombia,196525.0,195383,221208,195284
+Week 7 (Feb-09),British Colombia,190635.0,192412,229778,199732
+Week 7-Monday,British Colombia,186441.0,198654,235394,205797
+Week 7-Tuesday,British Colombia,194960.0,208914,228399,202033
+Week 7-Wednesday,British Colombia,194018.0,199732,220533,200413
+Week 7-Thursday,British Colombia,190792.0,203914,226613,202121
+Week 7-Friday,British Colombia,190056.0,199894,212092,197304
+Week 7-Saturday,British Colombia,187329.0,195797,201114,192857
+Week 8 (Feb-16),British Colombia,186506.0,202141,200065,193150
+Week 8-Monday,British Colombia,197426.0,219668,210077,195648
+Week 8-Tuesday,British Colombia,194844.0,216118,218917,207050
+Week 8-Wednesday,British Colombia,198535.0,224497,208418,202724
+Week 8-Thursday,British Colombia,199586.0,217874,208013,195547
+Week 8-Friday,British Colombia,200235.0,223722,210139,193000
+Week 8-Saturday,British Colombia,194350.0,201666,201079,181676
+Week 9 (Feb-23),British Colombia,191382.0,194522,200709,186432
+Week 9-Monday,British Colombia,209127.0,205281,215380,193790
+Week 9-Tuesday,British Colombia,208280.0,200122,218688,197024
+Week 9-Wednesday,British Colombia,197814.0,201804,219192,191836
+Week 9-Thursday,British Colombia,199977.0,197175,210719,189604
+Week 9-Friday,British Colombia,200975.0,202912,207851,188798
+Week 9-Saturday,British Colombia,191243.0,190758,199993,180868
+Week 10 (Mar-01),British Colombia,198305.0,192327,200850,185571
+Week 10-Monday,British Colombia,204321.0,201032,210593,193553
+Week 10-Tuesday,British Colombia,209839.0,195430,210616,188535
+Week 10-Wednesday,British Colombia,204411.0,194739,210152,187387
+Week 10-Thursday,British Colombia,209286.0,197842,206785,191056
+Week 10-Friday,British Colombia,196688.0,190022,202765,189366
+Week 10-Saturday,British Colombia,190160.0,179375,193246,187928
+Week 11 (Mar-08),British Colombia,175247.0,166826,184032,178969
+Week 11-Monday,British Colombia,189441.0,181493,203091,196034
+Week 11-Tuesday,British Colombia,179737.0,180476,196608,198088
+Week 11-Wednesday,British Colombia,180786.0,179166,193525,187766
+Week 11-Thursday,British Colombia,185590.0,182285,193671,191270
+Week 11-Friday,British Colombia,189765.0,182582,187003,197676
+Week 11-Saturday,British Colombia,178847.0,171853,174476,197023
+Week 12 (Mar-15),British Colombia,176374.0,172210,169441,193558
+Week 12-Monday,British Colombia,190844.0,182580,175675,192183
+Week 12-Tuesday,British Colombia,185720.0,182700,171807,186166
+Week 12-Wednesday,British Colombia,181159.0,180980,169207,183800
+Week 12-Thursday,British Colombia,182762.0,186196,168175,181460
+Week 12-Friday,British Colombia,183226.0,189575,167175,177870
+Week 12-Saturday,British Colombia,170531.0,181821,160867,169520
+Week 13 (Mar-22),British Colombia,177636.0,180053,163934,169518
+Week 13-Monday,British Colombia,181062.0,193176,175266,176503
+Week 13-Tuesday,British Colombia,185844.0,182729,175676,178980
+Week 13-Wednesday,British Colombia,183845.0,177933,172561,176126
+Week 13-Thursday,British Colombia,177892.0,183159,170220,180265
+Week 13-Friday,British Colombia,176979.0,168911,169201,180031
+Week 13-Saturday,British Colombia,165413.0,168757,161763,173853
+Week 14 (Mar-29),British Colombia,165466.0,170574,158888,166621
+Week 14-Monday,British Colombia,177749.0,182348,166612,182039
+Week 14-Tuesday,British Colombia,176639.0,185153,162312,183906
+Week 14-Wednesday,British Colombia,174444.0,184553,164411,183079
+Week 14-Thursday,British Colombia,175294.0,187176,163872,183338
+Week 14-Friday,British Colombia,176221.0,178284,165878,183550
+Week 14-Saturday,British Colombia,168082.0,168915,164323,176229
+Week 15 (Apr-05),British Colombia,165503.0,164575,160866,170670
+Week 15-Monday,British Colombia,175862.0,169026,172361,172377
+Week 15-Tuesday,British Colombia,172418.0,168670,168578,167908
+Week 15-Wednesday,British Colombia,173333.0,172648,171136,168354
+Week 15-Thursday,British Colombia,172261.0,170302,174940,164480
+Week 15-Friday,British Colombia,162210.0,174552,169942,155512
+Week 15-Saturday,British Colombia,160620.0,161198,165898,154517
+Week 16 (Apr-12),British Colombia,157503.0,159435,163961,157298
+Week 16-Monday,British Colombia,168654.0,173330,170542,162070
+Week 16-Tuesday,British Colombia,168730.0,166188,171469,159588
+Week 16-Wednesday,British Colombia,168571.0,166026,166777,156052
+Week 16-Thursday,British Colombia,166488.0,164657,167452,155888
+Week 16-Friday,British Colombia,162779.0,163872,154150,154156
+Week 16-Saturday,British Colombia,153580.0,153289,150510,145541
+Week 17 (Apr-19),British Colombia,154256.0,153173,150242,143594
+Week 17-Monday,British Colombia,164174.0,161138,162685,150005
+Week 17-Tuesday,British Colombia,161385.0,156902,159593,147800
+Week 17-Wednesday,British Colombia,160494.0,154648,159612,151627
+Week 17-Thursday,British Colombia,162553.0,154889,160589,151157
+Week 17-Friday,British Colombia,160981.0,152281,159956,152144
+Week 17-Saturday,British Colombia,159159.0,148798,156001,146373
+Week 18 (Apr-26),British Colombia,152095.0,148765,153038,146762
+Week 18-Monday,British Colombia,166649.0,157355,158672,152677
+Week 18-Tuesday,British Colombia,165472.0,155071,156224,154504
+Week 18-Wednesday,British Colombia,165101.0,155205,156447,153565
+Week 18-Thursday,British Colombia,162566.0,156144,158151,151444
+Week 18-Friday,British Colombia,159695.0,154165,157988,150750
+Week 18-Saturday,British Colombia,153549.0,144854,149279,146712
+Week 19 (May-03),British Colombia,152219.0,144598,146560,146967
+Week 19-Monday,British Colombia,162517.0,152341,154765,156240
+Week 19-Tuesday,British Colombia,159954.0,155114,151932,152027
+Week 19-Wednesday,British Colombia,157883.0,153675,152925,149869
+Week 19-Thursday,British Colombia,158852.0,155321,156076,149169
+Week 19-Friday,British Colombia,161402.0,154233,159041,147257
+Week 19-Saturday,British Colombia,153794.0,146947,149638,139210
+Week 20 (May-10),British Colombia,152437.0,147011,147215,139099
+Week 20-Monday,British Colombia,167578.0,160786,156044,148334
+Week 20-Tuesday,British Colombia,166612.0,158645,158001,146182
+Week 20-Wednesday,British Colombia,162270.0,157164,158625,145920
+Week 20-Thursday,British Colombia,160937.0,156669,157711,147943
+Week 20-Friday,British Colombia,158470.0,157370,160969,147151
+Week 20-Saturday,British Colombia,146136.0,148068,152119,143036
+Week 21 (May-17),British Colombia,141768.0,145415,149122,142985
+Week 21-Monday,British Colombia,147300.0,150504,147563,139720
+Week 21-Tuesday,British Colombia,156170.0,161907,158373,146864
+Week 21-Wednesday,British Colombia,153673.0,159812,158191,149035
+Week 21-Thursday,British Colombia,155388.0,158431,158597,151945
+Week 21-Friday,British Colombia,156220.0,156951,156510,151656
+Week 21-Saturday,British Colombia,147819.0,145305,149968,143517
+Week 22 (May-24),British Colombia,149369.0,145396,147112,142190
+Week 22-Monday,British Colombia,162694.0,156351,156519,150537
+Week 22-Tuesday,British Colombia,157010.0,155036,154944,149257
+Week 22-Wednesday,British Colombia,153217.0,153710,157298,150255
+Week 22-Thursday,British Colombia,152165.0,153440,158869,151347
+Week 22-Friday,British Colombia,152949.0,154417,161065,null
+Week 22-Saturday,British Colombia,142022.0,146705,151357,null
+Week 23 (May-31),British Colombia,139053.0,144515,148646,null
+Week 23-Monday,British Colombia,153553.0,154322,157691,148519
+Week 23-Tuesday,British Colombia,151109.0,153615,157265,149416
+Week 23-Wednesday,British Colombia,151248.0,150908,157706,144599
+Week 23-Thursday,British Colombia,152080.0,153862,157705,145225
+Week 23-Friday,British Colombia,151960.0,153738,158335,145808
+Week 23-Saturday,British Colombia,141333.0,144643,151127,139150
+Week 24 (Jun-07),British Colombia,136182.0,144221,149721,137357
+Week 24-Monday,British Colombia,146525.0,155566,159219,147787
+Week 24-Tuesday,British Colombia,143149.0,156379,163526,150357
+Week 24-Wednesday,British Colombia,144220.0,152962,168653,149396
+Week 24-Thursday,British Colombia,149644.0,154142,164591,null
+Week 24-Friday,British Colombia,146999.0,154386,159948,149260
+Week 24-Saturday,British Colombia,138680.0,147012,153227,139788
+Week 25 (Jun-14),British Colombia,140535.0,148990,151782,140568
+Week 25-Monday,British Colombia,151247.0,166372,164289,151835
+Week 25-Tuesday,British Colombia,148621.0,166345,161208,148360
+Week 25-Wednesday,British Colombia,149642.0,165776,156098,148130
+Week 25-Thursday,British Colombia,152586.0,157109,156471,149094
+Week 25-Friday,British Colombia,152567.0,154935,158250,151175
+Week 25-Saturday,British Colombia,147463.0,147432,150696,144137
+Week 26 (Jun-21),British Colombia,150571.0,150301,147135,141573
+Week 26-Monday,British Colombia,160185.0,157519,157485,152674
+Week 26-Tuesday,British Colombia,157945.0,155695,157731,155259
+Week 26-Wednesday,British Colombia,154985.0,155652,157455,155637
+Week 26-Thursday,British Colombia,155924.0,155057,154931,158123
+Week 26-Friday,British Colombia,154948.0,154744,152705,153812
+Week 26-Saturday,British Colombia,141106.0,146638,146363,141838
+Week 27 (Jun-28),British Colombia,141790.0,142220,144794,139293
+Week 27-Monday,British Colombia,146327.0,145361,148928,151650
+Week 27-Tuesday,British Colombia,153572.0,157491,155508,149105
+Week 27-Wednesday,British Colombia,158616.0,158747,156848,142845
+Week 27-Thursday,British Colombia,162699.0,167082,153700,148393
+Week 27-Friday,British Colombia,157656.0,163048,154438,146859
+Week 27-Saturday,British Colombia,146577.0,149801,146632,140348
+Week 28 (Jul-05),British Colombia,147102.0,149641,144571,141165
+Week 28-Monday,British Colombia,155712.0,160094,156921,151935
+Week 28-Tuesday,British Colombia,154139.0,156012,160028,150871
+Week 28-Wednesday,British Colombia,155948.0,161231,158521,152605
+Week 28-Thursday,British Colombia,156655.0,162862,156320,154339
+Week 28-Friday,British Colombia,159158.0,162661,157543,154044
+Week 28-Saturday,British Colombia,149587.0,153510,150038,146201
+Week 29 (Jul-12),British Colombia,140508.0,154745,150314,143697
+Week 29-Monday,British Colombia,155191.0,168287,159335,154688
+Week 29-Tuesday,British Colombia,157592.0,167568,158139,155966
+Week 29-Wednesday,British Colombia,157663.0,164352,153313,158177
+Week 29-Thursday,British Colombia,153161.0,159282,152126,158591
+Week 29-Friday,British Colombia,153787.0,155022,151775,155680
+Week 29-Saturday,British Colombia,147397.0,143878,145622,151283
+Week 30 (Jul-19),British Colombia,146868.0,150116,149583,152353
+Week 30-Monday,British Colombia,158116.0,166593,161172,164754
+Week 30-Tuesday,British Colombia,160707.0,166003,160611,164177
+Week 30-Wednesday,British Colombia,163210.0,167426,155269,160338
+Week 30-Thursday,British Colombia,162335.0,170703,157940,158002
+Week 30-Friday,British Colombia,160439.0,170882,162288,152240
+Week 30-Saturday,British Colombia,153915.0,160220,150823,145865
+Week 31 (Jul-26),British Colombia,152632.0,160577,149172,151461
+Week 31-Monday,British Colombia,164996.0,176453,159630,168171
+Week 31-Tuesday,British Colombia,165547.0,171637,156708,165537
+Week 31-Wednesday,British Colombia,165982.0,165453,158773,167629
+Week 31-Thursday,British Colombia,168125.0,160996,160709,170184
+Week 31-Friday,British Colombia,168135.0,159771,160427,null
+Week 31-Saturday,British Colombia,154580.0,151912,150518,156950
+Week 32 (Aug-02),British Colombia,151399.0,153626,151352,152403
+Week 32-Monday,British Colombia,153293.0,161096,156917,153694
+Week 32-Tuesday,British Colombia,166573.0,173760,166447,165950
+Week 32-Wednesday,British Colombia,165278.0,176706,163580,163518
+Week 32-Thursday,British Colombia,169449.0,179054,161308,157678
+Week 32-Friday,British Colombia,169516.0,176046,160653,153509
+Week 32-Saturday,British Colombia,153686.0,153380,147690,149290
+Week 33 (Aug-09),British Colombia,149290.0,147023,145020,149257
+Week 33-Monday,British Colombia,159080.0,161640,157360,162725
+Week 33-Tuesday,British Colombia,161572.0,166100,160052,160442
+Week 33-Wednesday,British Colombia,162038.0,167912,164604,159216
+Week 33-Thursday,British Colombia,164560.0,165856,165175,159665
+Week 33-Friday,British Colombia,161035.0,164309,159138,161313
+Week 33-Saturday,British Colombia,149632.0,151391,150408,158656
+Week 34 (Aug-16),British Colombia,147969.0,148696,149848,162827
+Week 34-Monday,British Colombia,161292.0,163606,160746,179392
+Week 34-Tuesday,British Colombia,166124.0,165721,161439,171993
+Week 34-Wednesday,British Colombia,164136.0,162299,155305,169145
+Week 34-Thursday,British Colombia,157888.0,155961,159307,167121
+Week 34-Friday,British Colombia,154047.0,154636,157547,163207
+Week 34-Saturday,British Colombia,148333.0,145240,148708,153132
+Week 35 (Aug-23),British Colombia,152937.0,142678,146695,151403
+Week 35-Monday,British Colombia,169965.0,156786,157927,160835
+Week 35-Tuesday,British Colombia,169008.0,155370,160285,160800
+Week 35-Wednesday,British Colombia,159780.0,156033,163803,160887
+Week 35-Thursday,British Colombia,159517.0,155861,160858,161984
+Week 35-Friday,British Colombia,158915.0,154550,160873,161533
+Week 35-Saturday,British Colombia,153228.0,143678,150404,151602
+Week 36 (Aug-30),British Colombia,155752.0,142772,148079,149714
+Week 36-Monday,British Colombia,159827.0,146248,152512,158325
+Week 36-Tuesday,British Colombia,166056.0,157994,160618,159773
+Week 36-Wednesday,British Colombia,164960.0,155527,159879,155913
+Week 36-Thursday,British Colombia,162065.0,157465,161143,154358
+Week 36-Friday,British Colombia,157758.0,157247,160796,156910
+Week 36-Saturday,British Colombia,146433.0,147622,151481,147041
+Week 37 (Sep-06),British Colombia,143763.0,146903,148394,146067
+Week 37-Monday,British Colombia,156276.0,155684,158084,142539
+Week 37-Tuesday,British Colombia,156437.0,152871,157354,152052
+Week 37-Wednesday,British Colombia,154772.0,156385,154714,154295
+Week 37-Thursday,British Colombia,156766.0,158778,155061,158312
+Week 37-Friday,British Colombia,155493.0,159166,157828,157071
+Week 37-Saturday,British Colombia,147265.0,149550,150189,145391
+Week 38 (Sep-13),British Colombia,148090.0,148278,147626,144334
+Week 38-Monday,British Colombia,154757.0,157974,152214,153559
+Week 38-Tuesday,British Colombia,156613.0,155972,153131,153194
+Week 38-Wednesday,British Colombia,158172.0,156378,152174,155799
+Week 38-Thursday,British Colombia,159418.0,158657,152231,153713
+Week 38-Friday,British Colombia,157083.0,157046,149059,152645
+Week 38-Saturday,British Colombia,147347.0,147542,142930,144031
+Week 39 (Sep-20),British Colombia,147136.0,146959,143538,144356
+Week 39-Monday,British Colombia,154600.0,156212,154862,151533
+Week 39-Tuesday,British Colombia,153851.0,155919,151565,151976
+Week 39-Wednesday,British Colombia,152229.0,155784,153246,155165
+Week 39-Thursday,British Colombia,155261.0,156950,152741,154387
+Week 39-Friday,British Colombia,155464.0,156055,153854,153965
+Week 39-Saturday,British Colombia,144856.0,146417,147210,146850
