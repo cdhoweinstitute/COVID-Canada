@@ -305,6 +305,8 @@ Nov-19,Alberta,42797,451
 Nov-20,Alberta,43952,462
 Nov-21,Alberta,45288,471
 Nov-22,Alberta,46872,471
+Nov-23,Alberta,48421,476
+Nov-24,Alberta,49536,492
 Jan-22,British Columbia,0,0
 Jan-23,British Columbia,0,0
 Jan-24,British Columbia,0,0
@@ -611,6 +613,8 @@ Nov-19,British Columbia,24960,321
 Nov-20,British Columbia,25474,331
 Nov-21,British Columbia,25474,331
 Nov-22,British Columbia,25474,331
+Nov-23,British Columbia,27407,348
+Nov-24,British Columbia,28348,358
 Jan-22,Manitoba,0,0
 Jan-23,Manitoba,0,0
 Jan-24,Manitoba,0,0
@@ -917,6 +921,8 @@ Nov-19,Manitoba,12482,198
 Nov-20,Manitoba,12919,207
 Nov-21,Manitoba,13304,217
 Nov-22,Manitoba,13544,229
+Nov-23,Manitoba,14087,236
+Nov-24,Manitoba,14558,248
 Jan-22,New Brunswick,0,0
 Jan-23,New Brunswick,0,0
 Jan-24,New Brunswick,0,0
@@ -1223,6 +1229,8 @@ Nov-19,New Brunswick,392,6
 Nov-20,New Brunswick,401,6
 Nov-21,New Brunswick,424,6
 Nov-22,New Brunswick,430,6
+Nov-23,New Brunswick,445,7
+Nov-24,New Brunswick,450,7
 Jan-22,Newfoundland and Labrador,0,0
 Jan-23,Newfoundland and Labrador,0,0
 Jan-24,Newfoundland and Labrador,0,0
@@ -1529,6 +1537,8 @@ Nov-19,Newfoundland and Labrador,308,4
 Nov-20,Newfoundland and Labrador,311,4
 Nov-21,Newfoundland and Labrador,316,4
 Nov-22,Newfoundland and Labrador,319,4
+Nov-23,Newfoundland and Labrador,321,4
+Nov-24,Newfoundland and Labrador,323,4
 Jan-22,Nova Scotia,0,0
 Jan-23,Nova Scotia,0,0
 Jan-24,Nova Scotia,0,0
@@ -1835,6 +1845,8 @@ Nov-19,Nova Scotia,1155,65
 Nov-20,Nova Scotia,1160,65
 Nov-21,Nova Scotia,1168,65
 Nov-22,Nova Scotia,1179,65
+Nov-23,Nova Scotia,1190,65
+Nov-24,Nova Scotia,1227,65
 Jan-22,Ontario,0,0
 Jan-23,Ontario,0,0
 Jan-24,Ontario,0,0
@@ -2141,6 +2153,8 @@ Nov-19,Ontario,102867,3491
 Nov-20,Ontario,104307,3501
 Nov-21,Ontario,105860,3520
 Nov-22,Ontario,107347,3532
+Nov-23,Ontario,108677,3553
+Nov-24,Ontario,110066,3576
 Jan-22,Prince Edward Island,0,0
 Jan-23,Prince Edward Island,0,0
 Jan-24,Prince Edward Island,0,0
@@ -2447,6 +2461,8 @@ Nov-19,Prince Edward Island,68,0
 Nov-20,Prince Edward Island,68,0
 Nov-21,Prince Edward Island,68,0
 Nov-22,Prince Edward Island,68,0
+Nov-23,Prince Edward Island,69,0
+Nov-24,Prince Edward Island,69,0
 Jan-22,Quebec,0,0
 Jan-23,Quebec,0,0
 Jan-24,Quebec,0,0
@@ -2753,6 +2769,8 @@ Nov-19,Quebec,128440,6744
 Nov-20,Quebec,129699,6774
 Nov-21,Quebec,130888,6806
 Nov-22,Quebec,132042,6829
+Nov-23,Quebec,133206,6842
+Nov-24,Quebec,134330,6887
 Jan-22,Saskatchewan,0,0
 Jan-23,Saskatchewan,0,0
 Jan-24,Saskatchewan,0,0
@@ -3059,6 +3077,8 @@ Nov-19,Saskatchewan,5651,32
 Nov-20,Saskatchewan,5804,33
 Nov-21,Saskatchewan,6237,33
 Nov-22,Saskatchewan,6473,33
+Nov-23,Saskatchewan,6708,37
+Nov-24,Saskatchewan,6883,37
 Jan-22,Repartriated Canadians,0,0
 Jan-23,Repartriated Canadians,0,0
 Jan-24,Repartriated Canadians,0,0
@@ -3365,6 +3385,8 @@ Nov-19,Repartriated Canadians,13,1
 Nov-20,Repartriated Canadians,13,1
 Nov-21,Repartriated Canadians,13,1
 Nov-22,Repartriated Canadians,13,1
+Nov-23,Repartriated Canadians,13,1
+Nov-24,Repartriated Canadians,13,1
 Jan-22,Canada,0,0
 Jan-23,Canada,0,0
 Jan-24,Canada,0,0
@@ -3654,20 +3676,22 @@ Nov-02,Canada,243178,10262
 Nov-03,Canada,247916,10334
 Nov-04,Canada,250698,10385
 Nov-05,Canada,253482,10432
-Nov-06,Canada,258874,10493
-Nov-07,Canada,263220,10547
-Nov-08,Canada,267163,10575
-Nov-09,Canada,272034,10620
-Nov-10,Canada,276479,10693
-Nov-11,Canada,280462,10748
-Nov-12,Canada,285936,10828
-Nov-13,Canada,290705,10885
-Nov-14,Canada,295131,10947
-Nov-15,Canada,299422,11001
-Nov-16,Canada,305449,11075
-Nov-17,Canada,309877,11136
-Nov-18,Canada,314385,11238
-Nov-19,Canada,319175,11314
-Nov-20,Canada,324152,11385
-Nov-21,Canada,329084,11455
-Nov-22,Canada,333808,11502
+Nov-06,Canada,258875,10493
+Nov-07,Canada,263221,10547
+Nov-08,Canada,267165,10575
+Nov-09,Canada,272036,10620
+Nov-10,Canada,276481,10693
+Nov-11,Canada,280465,10748
+Nov-12,Canada,285939,10828
+Nov-13,Canada,290709,10885
+Nov-14,Canada,295139,10947
+Nov-15,Canada,299440,11001
+Nov-16,Canada,305473,11075
+Nov-17,Canada,309935,11136
+Nov-18,Canada,314453,11238
+Nov-19,Canada,319247,11314
+Nov-20,Canada,324234,11385
+Nov-21,Canada,329191,11455
+Nov-22,Canada,333936,11502
+Nov-23,Canada,340731,11570
+Nov-24,Canada,346013,11676
