@@ -323,6 +323,7 @@ Nov-26,Alberta,3.0322157032979815,1.0
 Nov-27,Alberta,3.088844562727004,0.9542425094393249
 Nov-28,Alberta,3.238297067875394,0.6989700043360189
 Nov-29,Alberta,3.2062860444124324,0.9542425094393249
+Nov-30,Alberta,3.238798562713917,0.9030899869919435
 Jan-23,British Columbia,null,null
 Jan-24,British Columbia,null,null
 Jan-25,British Columbia,null,null
@@ -635,6 +636,7 @@ Nov-26,British Columbia,2.9479236198317262,1.1139433523068367
 Nov-27,British Columbia,2.9595183769729982,1.0413926851582251
 Nov-28,British Columbia,null,null
 Nov-29,British Columbia,null,null
+Nov-30,British Columbia,3.371806458507416,1.662757831681574
 Jan-23,Manitoba,null,null
 Jan-24,Manitoba,null,null
 Jan-25,Manitoba,null,null
@@ -947,6 +949,7 @@ Nov-26,Manitoba,2.5809249756756194,1.0
 Nov-27,Manitoba,2.53655844257153,1.146128035678238
 Nov-28,Manitoba,2.6866362692622934,1.0
 Nov-29,Manitoba,2.5622928644564746,1.0413926851582251
+Nov-30,Manitoba,2.534026106056135,1.0413926851582251
 Jan-23,New Brunswick,null,null
 Jan-24,New Brunswick,null,null
 Jan-25,New Brunswick,null,null
@@ -1259,6 +1262,7 @@ Nov-26,New Brunswick,1.0791812460476249,null
 Nov-27,New Brunswick,1.0791812460476249,null
 Nov-28,New Brunswick,0.6020599913279624,null
 Nov-29,New Brunswick,1.146128035678238,null
+Nov-30,New Brunswick,0.7781512503836436,null
 Jan-23,Newfoundland and Labrador,null,null
 Jan-24,Newfoundland and Labrador,null,null
 Jan-25,Newfoundland and Labrador,null,null
@@ -1571,6 +1575,7 @@ Nov-26,Newfoundland and Labrador,0.47712125471966244,null
 Nov-27,Newfoundland and Labrador,0.6020599913279624,null
 Nov-28,Newfoundland and Labrador,0.3010299956639812,null
 Nov-29,Newfoundland and Labrador,0.6020599913279624,null
+Nov-30,Newfoundland and Labrador,0.0,null
 Jan-23,Nova Scotia,null,null
 Jan-24,Nova Scotia,null,null
 Jan-25,Nova Scotia,null,null
@@ -1883,6 +1888,7 @@ Nov-26,Nova Scotia,1.146128035678238,null
 Nov-27,Nova Scotia,null,null
 Nov-28,Nova Scotia,null,null
 Nov-29,Nova Scotia,null,null
+Nov-30,Nova Scotia,1.6812412373755872,null
 Jan-23,Ontario,null,null
 Jan-24,Ontario,null,null
 Jan-25,Ontario,null,null
@@ -2195,6 +2201,7 @@ Nov-26,Ontario,3.182414652434554,1.2304489213782739
 Nov-27,Ontario,3.267406418752904,1.3617278360175928
 Nov-28,Ontario,3.2474822606770544,1.380211241711606
 Nov-29,Ontario,3.212986184736668,1.3222192947339193
+Nov-30,Ontario,3.2422929049829308,1.0413926851582251
 Jan-23,Prince Edward Island,null,null
 Jan-24,Prince Edward Island,null,null
 Jan-25,Prince Edward Island,null,null
@@ -2507,6 +2514,7 @@ Nov-26,Prince Edward Island,0.0,null
 Nov-27,Prince Edward Island,null,null
 Nov-28,Prince Edward Island,0.3010299956639812,null
 Nov-29,Prince Edward Island,null,null
+Nov-30,Prince Edward Island,null,null
 Jan-23,Quebec,null,null
 Jan-24,Quebec,null,null
 Jan-25,Quebec,null,null
@@ -2819,6 +2827,7 @@ Nov-26,Quebec,3.165541076722373,1.505149978319906
 Nov-27,Quebec,3.103461622094705,1.568201724066995
 Nov-28,Quebec,3.1702617153949575,1.568201724066995
 Nov-29,Quebec,3.144574207609616,1.0791812460476249
+Nov-30,Quebec,3.1248301494138593,1.3617278360175928
 Jan-23,Saskatchewan,null,null
 Jan-24,Saskatchewan,null,null
 Jan-25,Saskatchewan,null,null
@@ -3131,6 +3140,7 @@ Nov-26,Saskatchewan,2.4983105537896004,0.47712125471966244
 Nov-27,Saskatchewan,2.5171958979499744,0.6020599913279624
 Nov-28,Saskatchewan,2.294466226161593,0.0
 Nov-29,Saskatchewan,2.545307116465824,null
+Nov-30,Saskatchewan,2.5118833609788744,0.3010299956639812
 Jan-23,Repartriated Canadians,null,null
 Jan-24,Repartriated Canadians,null,null
 Jan-25,Repartriated Canadians,null,null
@@ -3443,6 +3453,7 @@ Nov-26,Repartriated Canadians,null,null
 Nov-27,Repartriated Canadians,null,null
 Nov-28,Repartriated Canadians,null,null
 Nov-29,Repartriated Canadians,null,null
+Nov-30,Repartriated Canadians,null,null
 Jan-23,Canada,null,null
 Jan-24,Canada,null,null
 Jan-25,Canada,null,null
@@ -3755,3 +3766,4 @@ Nov-26,Canada,3.754271868683459,1.9294189257142926
 Nov-27,Canada,3.774808830310706,1.9912260756924949
 Nov-28,Canada,3.7539658658651605,1.8864907251724818
 Nov-29,Canada,3.731024379815688,1.724275869600789
+Nov-30,Canada,3.897352134344313,2.0043213737826426
