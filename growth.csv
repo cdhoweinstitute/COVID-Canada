@@ -339,6 +339,7 @@ Dec-12,Alberta,1590,13
 Dec-13,Alberta,1717,22
 Dec-14,Alberta,1887,14
 Dec-15,Alberta,1341,11
+Dec-16,Alberta,1270,16
 Jan-23,British Columbia,0,0
 Jan-24,British Columbia,0,0
 Jan-25,British Columbia,0,0
@@ -667,6 +668,7 @@ Dec-12,British Columbia,0,0
 Dec-13,British Columbia,0,0
 Dec-14,British Columbia,2146,49
 Dec-15,British Columbia,520,21
+Dec-16,British Columbia,640,24
 Jan-23,Manitoba,0,0
 Jan-24,Manitoba,0,0
 Jan-25,Manitoba,0,0
@@ -995,6 +997,7 @@ Dec-12,Manitoba,358,18
 Dec-13,Manitoba,273,7
 Dec-14,Manitoba,241,9
 Dec-15,Manitoba,271,9
+Dec-16,Manitoba,291,15
 Jan-23,New Brunswick,0,0
 Jan-24,New Brunswick,0,0
 Jan-25,New Brunswick,0,0
@@ -1323,6 +1326,7 @@ Dec-12,New Brunswick,1,0
 Dec-13,New Brunswick,2,0
 Dec-14,New Brunswick,1,0
 Dec-15,New Brunswick,1,0
+Dec-16,New Brunswick,8,0
 Jan-23,Newfoundland and Labrador,0,0
 Jan-24,Newfoundland and Labrador,0,0
 Jan-25,Newfoundland and Labrador,0,0
@@ -1651,6 +1655,7 @@ Dec-12,Newfoundland and Labrador,3,0
 Dec-13,Newfoundland and Labrador,0,0
 Dec-14,Newfoundland and Labrador,0,0
 Dec-15,Newfoundland and Labrador,1,0
+Dec-16,Newfoundland and Labrador,5,0
 Jan-23,Nova Scotia,0,0
 Jan-24,Nova Scotia,0,0
 Jan-25,Nova Scotia,0,0
@@ -1979,6 +1984,7 @@ Dec-12,Nova Scotia,7,0
 Dec-13,Nova Scotia,6,0
 Dec-14,Nova Scotia,5,0
 Dec-15,Nova Scotia,6,0
+Dec-16,Nova Scotia,4,0
 Jan-23,Ontario,0,0
 Jan-24,Ontario,0,0
 Jan-25,Ontario,0,0
@@ -2307,6 +2313,7 @@ Dec-12,Ontario,1851,18
 Dec-13,Ontario,1702,19
 Dec-14,Ontario,2194,20
 Dec-15,Ontario,2166,29
+Dec-16,Ontario,2235,33
 Jan-23,Prince Edward Island,0,0
 Jan-24,Prince Edward Island,0,0
 Jan-25,Prince Edward Island,0,0
@@ -2635,6 +2642,7 @@ Dec-12,Prince Edward Island,0,0
 Dec-13,Prince Edward Island,0,0
 Dec-14,Prince Edward Island,5,0
 Dec-15,Prince Edward Island,0,0
+Dec-16,Prince Edward Island,0,0
 Jan-23,Quebec,0,0
 Jan-24,Quebec,0,0
 Jan-25,Quebec,0,0
@@ -2963,6 +2971,7 @@ Dec-12,Quebec,1898,40
 Dec-13,Quebec,1994,33
 Dec-14,Quebec,1620,25
 Dec-15,Quebec,1741,38
+Dec-16,Quebec,1897,42
 Jan-23,Saskatchewan,0,0
 Jan-24,Saskatchewan,0,0
 Jan-25,Saskatchewan,0,0
@@ -3291,6 +3300,7 @@ Dec-12,Saskatchewan,274,11
 Dec-13,Saskatchewan,222,3
 Dec-14,Saskatchewan,267,2
 Dec-15,Saskatchewan,194,7
+Dec-16,Saskatchewan,162,0
 Jan-23,Repartriated Canadians,0,0
 Jan-24,Repartriated Canadians,0,0
 Jan-25,Repartriated Canadians,0,0
@@ -3619,6 +3629,7 @@ Dec-12,Repartriated Canadians,0,0
 Dec-13,Repartriated Canadians,0,0
 Dec-14,Repartriated Canadians,0,0
 Dec-15,Repartriated Canadians,0,0
+Dec-16,Repartriated Canadians,0,0
 Jan-23,Canada,0,0
 Jan-24,Canada,0,0
 Jan-25,Canada,0,0
@@ -3947,3 +3958,4 @@ Dec-12,Canada,5984,100
 Dec-13,Canada,5916,84
 Dec-14,Canada,8377,119
 Dec-15,Canada,6244,115
+Dec-16,Canada,6512,130

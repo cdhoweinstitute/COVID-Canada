@@ -339,6 +339,7 @@ Dec-12,Alberta,3.2013971243204513,1.1139433523068367
 Dec-13,Alberta,3.2347702951609163,1.3424226808222062
 Dec-14,Alberta,3.2757719001649312,1.146128035678238
 Dec-15,Alberta,3.127428777851599,1.0413926851582251
+Dec-16,Alberta,3.103803720955957,1.2041199826559248
 Jan-23,British Columbia,null,null
 Jan-24,British Columbia,null,null
 Jan-25,British Columbia,null,null
@@ -667,6 +668,7 @@ Dec-12,British Columbia,null,null
 Dec-13,British Columbia,null,null
 Dec-14,British Columbia,3.3316297176299323,1.6901960800285136
 Dec-15,British Columbia,2.716003343634799,1.3222192947339193
+Dec-16,British Columbia,2.806179973983887,1.380211241711606
 Jan-23,Manitoba,null,null
 Jan-24,Manitoba,null,null
 Jan-25,Manitoba,null,null
@@ -995,6 +997,7 @@ Dec-12,Manitoba,2.5538830266438746,1.255272505103306
 Dec-13,Manitoba,2.436162647040756,0.8450980400142568
 Dec-14,Manitoba,2.3820170425748683,0.9542425094393249
 Dec-15,Manitoba,2.432969290874406,0.9542425094393249
+Dec-16,Manitoba,2.4638929889859074,1.1760912590556813
 Jan-23,New Brunswick,null,null
 Jan-24,New Brunswick,null,null
 Jan-25,New Brunswick,null,null
@@ -1323,6 +1326,7 @@ Dec-12,New Brunswick,0.0,null
 Dec-13,New Brunswick,0.3010299956639812,null
 Dec-14,New Brunswick,0.0,null
 Dec-15,New Brunswick,0.0,null
+Dec-16,New Brunswick,0.9030899869919435,null
 Jan-23,Newfoundland and Labrador,null,null
 Jan-24,Newfoundland and Labrador,null,null
 Jan-25,Newfoundland and Labrador,null,null
@@ -1651,6 +1655,7 @@ Dec-12,Newfoundland and Labrador,0.47712125471966244,null
 Dec-13,Newfoundland and Labrador,null,null
 Dec-14,Newfoundland and Labrador,null,null
 Dec-15,Newfoundland and Labrador,0.0,null
+Dec-16,Newfoundland and Labrador,0.6989700043360189,null
 Jan-23,Nova Scotia,null,null
 Jan-24,Nova Scotia,null,null
 Jan-25,Nova Scotia,null,null
@@ -1979,6 +1984,7 @@ Dec-12,Nova Scotia,0.8450980400142568,null
 Dec-13,Nova Scotia,0.7781512503836436,null
 Dec-14,Nova Scotia,0.6989700043360189,null
 Dec-15,Nova Scotia,0.7781512503836436,null
+Dec-16,Nova Scotia,0.6020599913279624,null
 Jan-23,Ontario,null,null
 Jan-24,Ontario,null,null
 Jan-25,Ontario,null,null
@@ -2307,6 +2313,7 @@ Dec-12,Ontario,3.267406418752904,1.255272505103306
 Dec-13,Ontario,3.230959555748569,1.2787536009528289
 Dec-14,Ontario,3.3412366232386925,1.3010299956639813
 Dec-15,Ontario,3.3356584522893016,1.462397997898956
+Dec-16,Ontario,3.3492775274679554,1.5185139398778875
 Jan-23,Prince Edward Island,null,null
 Jan-24,Prince Edward Island,null,null
 Jan-25,Prince Edward Island,null,null
@@ -2635,6 +2642,7 @@ Dec-12,Prince Edward Island,null,null
 Dec-13,Prince Edward Island,null,null
 Dec-14,Prince Edward Island,0.6989700043360189,null
 Dec-15,Prince Edward Island,null,null
+Dec-16,Prince Edward Island,null,null
 Jan-23,Quebec,null,null
 Jan-24,Quebec,null,null
 Jan-25,Quebec,null,null
@@ -2963,6 +2971,7 @@ Dec-12,Quebec,3.2782962080912736,1.6020599913279623
 Dec-13,Quebec,3.2997251539756367,1.5185139398778875
 Dec-14,Quebec,3.2095150145426308,1.3979400086720377
 Dec-15,Quebec,3.240798771117331,1.5797835966168101
+Dec-16,Quebec,3.2780673308886628,1.6232492903979006
 Jan-23,Saskatchewan,null,null
 Jan-24,Saskatchewan,null,null
 Jan-25,Saskatchewan,null,null
@@ -3291,6 +3300,7 @@ Dec-12,Saskatchewan,2.437750562820388,1.0413926851582251
 Dec-13,Saskatchewan,2.346352974450639,0.47712125471966244
 Dec-14,Saskatchewan,2.4265112613645754,0.3010299956639812
 Dec-15,Saskatchewan,2.287801729930226,0.8450980400142568
+Dec-16,Saskatchewan,2.2095150145426308,null
 Jan-23,Repartriated Canadians,null,null
 Jan-24,Repartriated Canadians,null,null
 Jan-25,Repartriated Canadians,null,null
@@ -3619,6 +3629,7 @@ Dec-12,Repartriated Canadians,null,null
 Dec-13,Repartriated Canadians,null,null
 Dec-14,Repartriated Canadians,null,null
 Dec-15,Repartriated Canadians,null,null
+Dec-16,Repartriated Canadians,null,null
 Jan-23,Canada,null,null
 Jan-24,Canada,null,null
 Jan-25,Canada,null,null
@@ -3947,3 +3958,4 @@ Dec-12,Canada,3.776991584856405,2.0
 Dec-13,Canada,3.772028165324855,1.9242792860618816
 Dec-14,Canada,3.9230885154423993,2.0755469613925306
 Dec-15,Canada,3.79546289439038,2.060697840353612
+Dec-16,Canada,3.813714391881145,2.113943352306837
