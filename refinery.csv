@@ -50,7 +50,7 @@ Ontario,Week 48 (Nov-30),57.11,62.3,57.24,52.14,null
 Ontario,Week 49 (Dec-07),55.69,59.77,58.64,54.54,null
 Ontario,Week 50 (Dec-14),55.48,61.6,59.4,52.77,null
 Ontario,Week 51 (Dec-21),57.75,60.54,59.08,52.48,null
-Ontario,Week 52 (Dec-28),61.26,61.61,59.81,null,null
+Ontario,Week 52 (Dec-28),61.26,61.61,59.81,51.45,null
 East,Week 1 (Jan-5),123.97,115.86,109.13,115.94,null
 East,Week 2 (Jan-12),124.03,120.04,111.38,123.36,null
 East,Week 3 (Jan-19),125.63,122.7,112.94,123.5,null
@@ -102,7 +102,7 @@ East,Week 48 (Nov-30),116.18,97.1,123.82,98.72,null
 East,Week 49 (Dec-07),117.43,96.33,125.35,95.75,null
 East,Week 50 (Dec-14),124.03,99,123.17,96.37,null
 East,Week 51 (Dec-21),124.56,106.49,123.05,99.49,null
-East,Week 52 (Dec-28),124.8,105.96,125.18,null,null
+East,Week 52 (Dec-28),124.8,105.96,125.18,98.02,null
 West,Week 1 (Jan-5),75.17,96.48,98.33,99.4,null
 West,Week 2 (Jan-12),77.23,99.49,95.03,101.23,null
 West,Week 3 (Jan-19),94.6,105.59,97.48,92.76,null
@@ -154,4 +154,4 @@ West,Week 48 (Nov-30),98.7,96.35,102.11,91.91,null
 West,Week 49 (Dec-07),93.1,97.58,100.85,88.41,null
 West,Week 50 (Dec-14),94.7,90.19,98.89,91.27,null
 West,Week 51 (Dec-21),94.49,96.46,97.12,92.89,null
-West,Week 52 (Dec-28),99.06,97.83,96.78,null,null
+West,Week 52 (Dec-28),99.06,97.83,96.78,89.42,null
