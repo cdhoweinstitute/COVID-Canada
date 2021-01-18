@@ -358,6 +358,9 @@ Jan-11,Alberta,112091,1307
 Jan-12,Alberta,112743,1345
 Jan-13,Alberta,113618,1368
 Jan-14,Alberta,114585,1389
+Jan-15,Alberta,115370,1402
+Jan-16,Alberta,116087,1417
+Jan-17,Alberta,116837,1436
 Jan-22,British Columbia,0,0
 Jan-23,British Columbia,0,0
 Jan-24,British Columbia,0,0
@@ -717,6 +720,9 @@ Jan-11,British Columbia,58107,1010
 Jan-12,British Columbia,58553,1019
 Jan-13,British Columbia,59072,1031
 Jan-14,British Columbia,59608,1038
+Jan-15,British Columbia,60117,1047
+Jan-16,British Columbia,60117,1047
+Jan-17,British Columbia,60117,1047
 Jan-22,Manitoba,0,0
 Jan-23,Manitoba,0,0
 Jan-24,Manitoba,0,0
@@ -1076,6 +1082,9 @@ Jan-11,Manitoba,26450,741
 Jan-12,Manitoba,26540,748
 Jan-13,Manitoba,26695,753
 Jan-14,Manitoba,26954,755
+Jan-15,Manitoba,27145,760
+Jan-16,Manitoba,27322,761
+Jan-17,Manitoba,27511,769
 Jan-22,New Brunswick,0,0
 Jan-23,New Brunswick,0,0
 Jan-24,New Brunswick,0,0
@@ -1435,6 +1444,9 @@ Jan-11,New Brunswick,800,9
 Jan-12,New Brunswick,817,11
 Jan-13,New Brunswick,836,12
 Jan-14,New Brunswick,859,12
+Jan-15,New Brunswick,884,12
+Jan-16,New Brunswick,911,12
+Jan-17,New Brunswick,947,12
 Jan-22,Newfoundland and Labrador,0,0
 Jan-23,Newfoundland and Labrador,0,0
 Jan-24,Newfoundland and Labrador,0,0
@@ -1794,6 +1806,9 @@ Jan-11,Newfoundland and Labrador,393,4
 Jan-12,Newfoundland and Labrador,393,4
 Jan-13,Newfoundland and Labrador,393,4
 Jan-14,Newfoundland and Labrador,394,4
+Jan-15,Newfoundland and Labrador,395,4
+Jan-16,Newfoundland and Labrador,395,4
+Jan-17,Newfoundland and Labrador,396,4
 Jan-22,Nova Scotia,0,0
 Jan-23,Nova Scotia,0,0
 Jan-24,Nova Scotia,0,0
@@ -2153,6 +2168,9 @@ Jan-11,Nova Scotia,1533,65
 Jan-12,Nova Scotia,1534,65
 Jan-13,Nova Scotia,1542,65
 Jan-14,Nova Scotia,1548,65
+Jan-15,Nova Scotia,1550,65
+Jan-16,Nova Scotia,1554,65
+Jan-17,Nova Scotia,1558,65
 Jan-22,Ontario,0,0
 Jan-23,Ontario,0,0
 Jan-24,Ontario,0,0
@@ -2512,6 +2530,9 @@ Jan-11,Ontario,223857,5021
 Jan-12,Ontario,226609,5074
 Jan-13,Ontario,229854,5147
 Jan-14,Ontario,233065,5209
+Jan-15,Ontario,236127,5302
+Jan-16,Ontario,239066,5361
+Jan-17,Ontario,242339,5418
 Jan-22,Prince Edward Island,0,0
 Jan-23,Prince Edward Island,0,0
 Jan-24,Prince Edward Island,0,0
@@ -2871,6 +2892,9 @@ Jan-11,Prince Edward Island,102,0
 Jan-12,Prince Edward Island,103,0
 Jan-13,Prince Edward Island,103,0
 Jan-14,Prince Edward Island,103,0
+Jan-15,Prince Edward Island,103,0
+Jan-16,Prince Edward Island,103,0
+Jan-17,Prince Edward Island,103,0
 Jan-22,Quebec,0,0
 Jan-23,Quebec,0,0
 Jan-24,Quebec,0,0
@@ -3230,6 +3254,9 @@ Jan-11,Quebec,230690,8737
 Jan-12,Quebec,232624,8782
 Jan-13,Quebec,234695,8815
 Jan-14,Quebec,236827,8878
+Jan-15,Quebec,238745,8938
+Jan-16,Quebec,240970,9005
+Jan-17,Quebec,242714,9055
 Jan-22,Saskatchewan,0,0
 Jan-23,Saskatchewan,0,0
 Jan-24,Saskatchewan,0,0
@@ -3589,6 +3616,9 @@ Jan-11,Saskatchewan,18522,199
 Jan-12,Saskatchewan,18770,204
 Jan-13,Saskatchewan,19017,206
 Jan-14,Saskatchewan,19329,206
+Jan-15,Saskatchewan,19715,210
+Jan-16,Saskatchewan,19985,212
+Jan-17,Saskatchewan,20272,215
 Jan-22,Repartriated Canadians,0,0
 Jan-23,Repartriated Canadians,0,0
 Jan-24,Repartriated Canadians,0,0
@@ -3948,6 +3978,9 @@ Jan-11,Repartriated Canadians,13,1
 Jan-12,Repartriated Canadians,13,1
 Jan-13,Repartriated Canadians,13,1
 Jan-14,Repartriated Canadians,13,1
+Jan-15,Repartriated Canadians,13,1
+Jan-16,Repartriated Canadians,13,1
+Jan-17,Repartriated Canadians,13,1
 Jan-22,Canada,0,0
 Jan-23,Canada,0,0
 Jan-24,Canada,0,0
@@ -4307,3 +4340,6 @@ Jan-11,Canada,672931,17096
 Jan-12,Canada,679072,17255
 Jan-13,Canada,686211,17404
 Jan-14,Canada,693658,17559
+Jan-15,Canada,700538,17743
+Jan-16,Canada,706897,17887
+Jan-17,Canada,713181,18024
