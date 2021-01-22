@@ -361,6 +361,10 @@ Jan-14,Alberta,114585,1389
 Jan-15,Alberta,115370,1402
 Jan-16,Alberta,116087,1417
 Jan-17,Alberta,116837,1436
+Jan-18,Alberta,117311,1447
+Jan-19,Alberta,117767,1463
+Jan-20,Alberta,118436,1484
+Jan-21,Alberta,119114,1500
 Jan-22,British Columbia,0,0
 Jan-23,British Columbia,0,0
 Jan-24,British Columbia,0,0
@@ -723,6 +727,10 @@ Jan-14,British Columbia,59608,1038
 Jan-15,British Columbia,60117,1047
 Jan-16,British Columbia,60117,1047
 Jan-17,British Columbia,60117,1047
+Jan-18,British Columbia,61447,1078
+Jan-19,British Columbia,61912,1090
+Jan-20,British Columbia,62412,1104
+Jan-21,British Columbia,62976,1119
 Jan-22,Manitoba,0,0
 Jan-23,Manitoba,0,0
 Jan-24,Manitoba,0,0
@@ -1085,6 +1093,10 @@ Jan-14,Manitoba,26954,755
 Jan-15,Manitoba,27145,760
 Jan-16,Manitoba,27322,761
 Jan-17,Manitoba,27511,769
+Jan-18,Manitoba,27629,773
+Jan-19,Manitoba,27740,783
+Jan-20,Manitoba,27893,788
+Jan-21,Manitoba,28089,793
 Jan-22,New Brunswick,0,0
 Jan-23,New Brunswick,0,0
 Jan-24,New Brunswick,0,0
@@ -1447,6 +1459,10 @@ Jan-14,New Brunswick,859,12
 Jan-15,New Brunswick,884,12
 Jan-16,New Brunswick,911,12
 Jan-17,New Brunswick,947,12
+Jan-18,New Brunswick,973,12
+Jan-19,New Brunswick,1004,13
+Jan-20,New Brunswick,1025,13
+Jan-21,New Brunswick,1057,13
 Jan-22,Newfoundland and Labrador,0,0
 Jan-23,Newfoundland and Labrador,0,0
 Jan-24,Newfoundland and Labrador,0,0
@@ -1809,6 +1825,10 @@ Jan-14,Newfoundland and Labrador,394,4
 Jan-15,Newfoundland and Labrador,395,4
 Jan-16,Newfoundland and Labrador,395,4
 Jan-17,Newfoundland and Labrador,396,4
+Jan-18,Newfoundland and Labrador,396,4
+Jan-19,Newfoundland and Labrador,396,4
+Jan-20,Newfoundland and Labrador,396,4
+Jan-21,Newfoundland and Labrador,397,4
 Jan-22,Nova Scotia,0,0
 Jan-23,Nova Scotia,0,0
 Jan-24,Nova Scotia,0,0
@@ -2171,6 +2191,10 @@ Jan-14,Nova Scotia,1548,65
 Jan-15,Nova Scotia,1550,65
 Jan-16,Nova Scotia,1554,65
 Jan-17,Nova Scotia,1558,65
+Jan-18,Nova Scotia,1557,65
+Jan-19,Nova Scotia,1561,65
+Jan-20,Nova Scotia,1564,65
+Jan-21,Nova Scotia,1565,65
 Jan-22,Ontario,0,0
 Jan-23,Ontario,0,0
 Jan-24,Ontario,0,0
@@ -2533,6 +2557,10 @@ Jan-14,Ontario,233065,5209
 Jan-15,Ontario,236127,5302
 Jan-16,Ontario,239066,5361
 Jan-17,Ontario,242339,5418
+Jan-18,Ontario,244883,5442
+Jan-19,Ontario,247144,5501
+Jan-20,Ontario,249753,5587
+Jan-21,Ontario,252542,5632
 Jan-22,Prince Edward Island,0,0
 Jan-23,Prince Edward Island,0,0
 Jan-24,Prince Edward Island,0,0
@@ -2895,6 +2923,10 @@ Jan-14,Prince Edward Island,103,0
 Jan-15,Prince Edward Island,103,0
 Jan-16,Prince Edward Island,103,0
 Jan-17,Prince Edward Island,103,0
+Jan-18,Prince Edward Island,108,0
+Jan-19,Prince Edward Island,110,0
+Jan-20,Prince Edward Island,110,0
+Jan-21,Prince Edward Island,110,0
 Jan-22,Quebec,0,0
 Jan-23,Quebec,0,0
 Jan-24,Quebec,0,0
@@ -3257,6 +3289,10 @@ Jan-14,Quebec,236827,8878
 Jan-15,Quebec,238745,8938
 Jan-16,Quebec,240970,9005
 Jan-17,Quebec,242714,9055
+Jan-18,Quebec,244348,9087
+Jan-19,Quebec,245734,9142
+Jan-20,Quebec,247236,9142
+Jan-21,Quebec,248860,9142
 Jan-22,Saskatchewan,0,0
 Jan-23,Saskatchewan,0,0
 Jan-24,Saskatchewan,0,0
@@ -3619,6 +3655,10 @@ Jan-14,Saskatchewan,19329,206
 Jan-15,Saskatchewan,19715,210
 Jan-16,Saskatchewan,19985,212
 Jan-17,Saskatchewan,20272,215
+Jan-18,Saskatchewan,20562,219
+Jan-19,Saskatchewan,20871,225
+Jan-20,Saskatchewan,21112,226
+Jan-21,Saskatchewan,21338,239
 Jan-22,Repartriated Canadians,0,0
 Jan-23,Repartriated Canadians,0,0
 Jan-24,Repartriated Canadians,0,0
@@ -3981,6 +4021,10 @@ Jan-14,Repartriated Canadians,13,1
 Jan-15,Repartriated Canadians,13,1
 Jan-16,Repartriated Canadians,13,1
 Jan-17,Repartriated Canadians,13,1
+Jan-18,Repartriated Canadians,13,1
+Jan-19,Repartriated Canadians,13,1
+Jan-20,Repartriated Canadians,13,1
+Jan-21,Repartriated Canadians,13,1
 Jan-22,Canada,0,0
 Jan-23,Canada,0,0
 Jan-24,Canada,0,0
@@ -4343,3 +4387,7 @@ Jan-14,Canada,693658,17559
 Jan-15,Canada,700538,17743
 Jan-16,Canada,706897,17887
 Jan-17,Canada,713181,18024
+Jan-18,Canada,719601,18130
+Jan-19,Canada,724629,18289
+Jan-20,Canada,730330,18416
+Jan-21,Canada,736441,18510
