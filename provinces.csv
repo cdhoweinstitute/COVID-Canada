@@ -396,6 +396,10 @@ Feb-18,Alberta,130030,1805
 Feb-19,Alberta,130355,1812
 Feb-20,Alberta,130735,1818
 Feb-21,Alberta,131063,1827
+Feb-22,Alberta,131336,1843
+Feb-23,Alberta,131603,1853
+Feb-24,Alberta,132033,1866
+Feb-25,Alberta,132432,1874
 Jan-22,British Columbia,0,0
 Jan-23,British Columbia,0,0
 Jan-24,British Columbia,0,0
@@ -793,6 +797,10 @@ Feb-18,British Columbia,75327,1321
 Feb-19,British Columbia,75835,1327
 Feb-20,British Columbia,75835,1327
 Feb-21,British Columbia,75835,1327
+Feb-22,British Columbia,77263,1335
+Feb-23,British Columbia,77822,1336
+Feb-24,British Columbia,78278,1338
+Feb-25,British Columbia,78673,1348
 Jan-22,Manitoba,0,0
 Jan-23,Manitoba,0,0
 Jan-24,Manitoba,0,0
@@ -1190,6 +1198,10 @@ Feb-18,Manitoba,31145,878
 Feb-19,Manitoba,31235,879
 Feb-20,Manitoba,31329,882
 Feb-21,Manitoba,31386,884
+Feb-22,Manitoba,31483,886
+Feb-23,Manitoba,31551,886
+Feb-24,Manitoba,31590,887
+Feb-25,Manitoba,31657,888
 Jan-22,New Brunswick,0,0
 Jan-23,New Brunswick,0,0
 Jan-24,New Brunswick,0,0
@@ -1587,6 +1599,10 @@ Feb-18,New Brunswick,1411,24
 Feb-19,New Brunswick,1417,24
 Feb-20,New Brunswick,1420,24
 Feb-21,New Brunswick,1424,25
+Feb-22,New Brunswick,1424,26
+Feb-23,New Brunswick,1424,26
+Feb-24,New Brunswick,1426,26
+Feb-25,New Brunswick,1427,26
 Jan-22,Newfoundland and Labrador,0,0
 Jan-23,Newfoundland and Labrador,0,0
 Jan-24,Newfoundland and Labrador,0,0
@@ -1984,6 +2000,10 @@ Feb-18,Newfoundland and Labrador,803,4
 Feb-19,Newfoundland and Labrador,863,4
 Feb-20,Newfoundland and Labrador,901,4
 Feb-21,Newfoundland and Labrador,926,4
+Feb-22,Newfoundland and Labrador,940,4
+Feb-23,Newfoundland and Labrador,955,4
+Feb-24,Newfoundland and Labrador,963,5
+Feb-25,Newfoundland and Labrador,973,5
 Jan-22,Nova Scotia,0,0
 Jan-23,Nova Scotia,0,0
 Jan-24,Nova Scotia,0,0
@@ -2381,6 +2401,10 @@ Feb-18,Nova Scotia,1602,65
 Feb-19,Nova Scotia,1604,65
 Feb-20,Nova Scotia,1608,65
 Feb-21,Nova Scotia,1609,65
+Feb-22,Nova Scotia,1610,65
+Feb-23,Nova Scotia,1613,65
+Feb-24,Nova Scotia,1616,65
+Feb-25,Nova Scotia,1624,65
 Jan-22,Ontario,0,0
 Jan-23,Ontario,0,0
 Jan-24,Ontario,0,0
@@ -2778,6 +2802,10 @@ Feb-18,Ontario,294697,6783
 Feb-19,Ontario,295841,6824
 Feb-20,Ontario,297011,6848
 Feb-21,Ontario,298154,6861
+Feb-22,Ontario,298800,6868
+Feb-23,Ontario,300235,6882
+Feb-24,Ontario,301379,6895
+Feb-25,Ontario,302573,6918
 Jan-22,Prince Edward Island,0,0
 Jan-23,Prince Edward Island,0,0
 Jan-24,Prince Edward Island,0,0
@@ -3175,6 +3203,10 @@ Feb-18,Prince Edward Island,114,0
 Feb-19,Prince Edward Island,114,0
 Feb-20,Prince Edward Island,114,0
 Feb-21,Prince Edward Island,114,0
+Feb-22,Prince Edward Island,114,0
+Feb-23,Prince Edward Island,115,0
+Feb-24,Prince Edward Island,115,0
+Feb-25,Prince Edward Island,115,0
 Jan-22,Quebec,0,0
 Jan-23,Quebec,0,0
 Jan-24,Quebec,0,0
@@ -3572,6 +3604,10 @@ Feb-18,Quebec,279887,10264
 Feb-19,Quebec,280687,10278
 Feb-20,Quebec,281456,10292
 Feb-21,Quebec,282122,10307
+Feb-22,Quebec,282927,10318
+Feb-23,Quebec,283666,10330
+Feb-24,Quebec,284472,10346
+Feb-25,Quebec,285330,10361
 Jan-22,Saskatchewan,0,0
 Jan-23,Saskatchewan,0,0
 Jan-24,Saskatchewan,0,0
@@ -3969,6 +4005,10 @@ Feb-18,Saskatchewan,27099,362
 Feb-19,Saskatchewan,27245,365
 Feb-20,Saskatchewan,27438,368
 Feb-21,Saskatchewan,27620,372
+Feb-22,Saskatchewan,27797,372
+Feb-23,Saskatchewan,27923,376
+Feb-24,Saskatchewan,27980,379
+Feb-25,Saskatchewan,28191,380
 Jan-22,Repartriated Canadians,0,0
 Jan-23,Repartriated Canadians,0,0
 Jan-24,Repartriated Canadians,0,0
@@ -4366,6 +4406,10 @@ Feb-18,Repartriated Canadians,13,1
 Feb-19,Repartriated Canadians,13,1
 Feb-20,Repartriated Canadians,13,1
 Feb-21,Repartriated Canadians,13,1
+Feb-22,Repartriated Canadians,13,1
+Feb-23,Repartriated Canadians,13,1
+Feb-24,Repartriated Canadians,13,1
+Feb-25,Repartriated Canadians,13,1
 Jan-22,Canada,0,0
 Jan-23,Canada,0,0
 Jan-24,Canada,0,0
@@ -4763,3 +4807,7 @@ Feb-18,Canada,842590,21509
 Feb-19,Canada,845673,21581
 Feb-20,Canada,848330,21631
 Feb-21,Canada,850737,21675
+Feb-22,Canada,854190,21720
+Feb-23,Canada,857403,21761
+Feb-24,Canada,860348,21810
+Feb-25,Canada,863495,21868
